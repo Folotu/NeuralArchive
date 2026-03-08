@@ -1,0 +1,60 @@
+name: Process Raw Links
+
+on:
+  push:
+    paths:
+      - 'raw_links.txt'
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Deduplicate raw_links.txt
+        run: |
+          if [ -f raw_links.txt ]; then
+            awk '!seen[$0]++' raw_links.txt > raw_links.tmp && mv raw_links.tmp raw_links.txt
+            echo "Deduplicated raw_links.txt"
+          fi
+
+      - name: Enrich links with intelligent metadata
+        run: |
+          node scripts/enrichLinksIntelligent.js
+
+      - name: Deduplicate messages.json (keep oldest)
+        run: |
+          node scripts/findDupes.js --apply
+
+      - name: Process into categorized_links.json
+        run: |
+          node scripts/processLinks.js
+
+      - name: Build research graph
+        run: |
+          node scripts/buildGraph.js
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@users.noreply.github.com"
+            git add data/messages.json categorized_links.json raw_links.txt
+            git commit -m "chore: process raw_links.txt -> update categorized_links"
+            git push
+          else
+            echo "No changes to commit."
+          fi

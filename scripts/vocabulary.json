@@ -1,0 +1,119 @@
+{
+  "domainRules": [
+    { "pattern": "arxiv.org", "resourceType": "paper", "sourcePlatform": "arxiv" },
+    { "pattern": "\\.pdf$", "resourceType": "paper", "sourcePlatform": null },
+    { "pattern": "github.com", "resourceType": "repository", "sourcePlatform": "github" },
+    { "pattern": "huggingface.co/spaces/", "resourceType": "demo", "sourcePlatform": "huggingface" },
+    { "pattern": "huggingface.co/datasets/", "resourceType": "dataset", "sourcePlatform": "huggingface" },
+    { "pattern": "huggingface.co/", "resourceType": "tool", "sourcePlatform": "huggingface" },
+    { "pattern": "youtube.com|youtu.be", "resourceType": "video", "sourcePlatform": "youtube" },
+    { "pattern": "twitter.com|x.com/", "resourceType": "thread", "sourcePlatform": "x-twitter" },
+    { "pattern": "linkedin.com/jobs|linkedin.com/in/", "resourceType": "article", "sourcePlatform": "linkedin" },
+    { "pattern": "careers|jobs\\.|/jobs/|workday|taleo|brassring|lever\\.co|greenhouse\\.io|indeed\\.com|glassdoor", "resourceType": "job", "sourcePlatform": "job-board" },
+    { "pattern": "research\\.google|ai\\.meta\\.com|openai\\.com/research|research\\.nvidia|deepmind", "resourceType": "article", "sourcePlatform": "research-blog" },
+    { "pattern": "docs\\.|readthedocs\\.io|cppreference|developer\\.mozilla|devdocs", "resourceType": "documentation", "sourcePlatform": "docs-site" },
+    { "pattern": "colab\\.research\\.google", "resourceType": "demo", "sourcePlatform": "other" },
+    { "pattern": "kaggle\\.com/datasets", "resourceType": "dataset", "sourcePlatform": "other" },
+    { "pattern": "ycombinator\\.com/companies", "resourceType": "company", "sourcePlatform": "company-site" },
+    { "pattern": "\\.(ai|robotics)/?$", "resourceType": "company", "sourcePlatform": "company-site" }
+  ],
+
+  "synonyms": {
+    "sim-to-real": ["sim2real", "sim-to-real", "domain randomization", "domain adaptation", "transfer learning"],
+    "dexterous-manipulation": ["dexterous", "in-hand manipulation", "multi-finger", "dextrous"],
+    "reinforcement-learning": ["reinforcement learning", "rl", "policy gradient", "ppo", "sac", "td3"],
+    "imitation-learning": ["imitation learning", "learning from demonstration", "lfd", "behavior cloning"],
+    "diffusion-policy": ["diffusion policy", "diffusion model", "denoising diffusion"],
+    "behavior-cloning": ["behavior cloning", "bc"],
+    "foundation-models": ["foundation model", "large model", "pretrained model"],
+    "vla": ["vision-language-action", "vla", "vlm policy", "vision language action"],
+    "world-model": ["world model", "world models", "predictive model"],
+    "humanoids": ["humanoid", "bipedal", "biped"],
+    "quadrupeds": ["quadruped", "quadrupedal", "four-legged", "legged robot"],
+    "grasping": ["grasping", "grasp", "pick and place", "pick-and-place"],
+    "teleoperation": ["teleoperation", "teleop", "remote control", "shared autonomy"],
+    "slam": ["slam", "simultaneous localization", "visual slam", "lidar slam"],
+    "mujoco": ["mujoco", "mjx", "dm_control"],
+    "isaac-sim": ["isaac sim", "isaac gym", "isaac lab", "omniverse"],
+    "ros2": ["ros2", "ros 2", "nav2", "moveit2", "moveit"],
+    "transformer": ["transformer", "attention mechanism", "self-attention"],
+    "llm": ["large language model", "llm", "gpt", "language model", "chatgpt"],
+    "computer-vision": ["computer vision", "image recognition", "visual recognition"],
+    "object-detection": ["object detection", "detection model", "yolo", "detr"],
+    "pose-estimation": ["pose estimation", "body pose", "hand pose", "6dof pose"],
+    "point-cloud": ["point cloud", "pointcloud", "3d points", "lidar"],
+    "nerf": ["nerf", "neural radiance", "3d gaussian", "gaussian splatting"],
+    "depth-estimation": ["depth estimation", "monocular depth", "stereo depth"],
+    "motion-planning": ["motion planning", "path planning", "trajectory planning", "rrt", "a*"],
+    "trajectory-optimization": ["trajectory optimization", "optimal trajectory"],
+    "force-control": ["force control", "torque control", "force/torque"],
+    "impedance-control": ["impedance control", "admittance control", "compliance control"],
+    "legged-locomotion": ["legged locomotion", "walking", "running", "bipedal gait"],
+    "3d-vision": ["3d vision", "3d reconstruction", "depth perception", "stereo vision"],
+    "scene-understanding": ["scene understanding", "scene graph", "spatial reasoning"],
+    "tactile-sensing": ["tactile", "touch sensing", "force sensing", "haptic"],
+    "mapping": ["mapping", "occupancy grid", "semantic map"],
+    "benchmark": ["benchmark", "leaderboard", "evaluation suite"],
+    "dataset": ["dataset", "data collection", "training data"],
+    "safety": ["safety", "safe control", "collision avoidance", "constraint satisfaction"],
+    "multimodal": ["multimodal", "multi-modal", "vision-language", "cross-modal"],
+    "mobile-robot": ["mobile robot", "autonomous vehicle", "agv", "amr"],
+    "drone": ["drone", "uav", "quadrotor", "aerial robot"],
+    "bimanual": ["bimanual", "dual-arm", "two-arm"],
+    "soft-robotics": ["soft robot", "soft actuator", "continuum robot"],
+    "surgical-robotics": ["surgical robot", "medical robot", "surgical automation"]
+  },
+
+  "conceptToArea": {
+    "manipulation": ["manipulation", "grasping", "dexterous", "pick", "place", "assembly", "handover"],
+    "locomotion": ["locomotion", "walking", "running", "legged", "bipedal", "quadruped", "gait"],
+    "navigation": ["navigation", "path planning", "obstacle avoidance", "mapping", "slam", "waypoint"],
+    "perception": ["object detection", "segmentation", "pose estimation", "depth estimation", "point cloud", "visual servoing", "scene understanding"],
+    "planning": ["motion planning", "task planning", "trajectory optimization", "rrt", "sampling-based"],
+    "control": ["model predictive control", "mpc", "pid", "optimal control", "lqr", "impedance control", "force control"],
+    "embodied-ai": ["embodied", "agent", "environment", "interaction", "perception-action"],
+    "robot-learning": ["reinforcement learning", "imitation learning", "policy learning", "behavior cloning", "curriculum learning"],
+    "sim-to-real": ["sim-to-real", "sim2real", "domain randomization", "domain adaptation", "physics engine"],
+    "world-models": ["world model", "predictive model", "model-based", "latent dynamics"],
+    "vision-language-action": ["vla", "vision-language-action", "vlm", "language-conditioned"],
+    "human-robot-interaction": ["hri", "human robot", "collaboration", "safety", "social robot"],
+    "multi-agent": ["multi-agent", "swarm", "cooperative", "multi-robot"],
+    "generative-ai": ["diffusion model", "generative", "image generation", "text-to-image", "3d generation"],
+    "robotics-infrastructure": ["ros", "ros2", "middleware", "driver", "hardware abstraction"],
+    "nlp": ["natural language", "text processing", "language understanding", "chatbot"]
+  },
+
+  "subtypeRules": {
+    "paper": {
+      "survey|review|overview": "survey",
+      "benchmark|evaluation|comparison": "benchmark-paper",
+      "position|perspective|opinion": "position-paper"
+    },
+    "repository": {
+      "simulator|simulation|env|environment|gym": "simulator",
+      "framework|library|sdk|toolkit": "framework",
+      "train|training|fine-tune": "training-code",
+      "model|checkpoint|weights": "model-repo",
+      "benchmark|eval|leaderboard": "benchmark-suite",
+      "tool|util|helper|cli": "tooling",
+      "dataset|data": "dataset-repo"
+    },
+    "article": {
+      "tutorial|how to|guide|getting started": "tutorial",
+      "release|announce|launch|introducing": "release-note"
+    },
+    "video": {
+      "tutorial|how to|learn|course": "tutorial-video",
+      "demo|showcase|preview": "demo-video",
+      "talk|presentation|keynote|lecture": "talk"
+    },
+    "company": {
+      "ycombinator|startup|seed|series": "startup",
+      "research lab|research group|university": "research-lab"
+    },
+    "job": {
+      "intern": "internship",
+      "research|scientist|phd": "research-role"
+    }
+  }
+}

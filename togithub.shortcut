@@ -1,0 +1,73 @@
+# Append a URL to raw_links.txt via GitHub Contents API (ScPL)
+
+# 1) Inputs (Share Sheet + defaults)
+GetVariable s:ShortcutInput -> mv:LinkURL
+Text "folotu" -> mv:Owner
+Text "NeuralArchive" -> mv:Repo
+Text "main" -> mv:Branch
+Text "raw_links.txt" -> mv:FilePath
+Text "REPLACE_WITH_PAT" -> mv:Token
+
+# 2) GET metadata (sha + content base64)
+URL "https://api.github.com/repos/\(mv:Owner)/\(mv:Repo)/contents/\(mv:FilePath)?ref=\(mv:Branch)"
+GetContentsOfURL advanced=true method="GET" headers=true headers2={"Accept":"application/vnd.github+json","Authorization":"Bearer \(mv:Token)","X-GitHub-Api-Version":"2022-11-28","User-Agent":"Shortcuts-iOS"}
+GetTextFromInput -> mv:RawResponse
+
+GetVariable mv:RawResponse
+GetDictionaryFromInput -> mv:FileResponse
+GetVariable mv:FileResponse
+GetDictionaryValue key="sha" -> mv:ExistingSha
+GetVariable mv:FileResponse
+GetDictionaryValue key="content" -> mv:ContentB64
+GetVariable mv:FileResponse
+GetDictionaryValue key="message" -> mv:NotFoundMessage
+
+# 3) Decode existing text (or default to "")
+GetVariable mv:NotFoundMessage
+If "Equals" "Not Found"
+  Text "" -> mv:ExistingText
+otherwise
+  GetVariable mv:ContentB64
+  Base64Encode mode="Decode" linebreaks="None"
+  GetTextFromInput -> mv:ExistingText
+end
+
+# 4) Append line (\n before URL guards against stripped trailing newlines on decode)
+GetVariable mv:ExistingText
+If "Equals" ""
+  Text "\(mv:LinkURL)\n" -> mv:UpdatedText
+otherwise
+  Text "\(mv:ExistingText)\n\(mv:LinkURL)\n" -> mv:UpdatedText
+end
+
+# 6) Base64 encode and PUT
+GetVariable mv:UpdatedText
+Base64Encode mode="Encode" linebreaks="None" -> mv:UpdatedBase64
+
+GetVariable mv:ExistingSha
+If "Equals" ""
+  URL "https://api.github.com/repos/\(mv:Owner)/\(mv:Repo)/contents/\(mv:FilePath)"
+  GetContentsOfURL advanced=true method="PUT" headers=true headers2={"Accept":"application/vnd.github+json","Authorization":"Bearer \(mv:Token)","Content-Type":"application/json","X-GitHub-Api-Version":"2022-11-28","User-Agent":"Shortcuts-iOS"} requestbody="JSON" jsonvalues={"message":"chore: append link from iOS Shortcut","content":mv:UpdatedBase64,"branch":mv:Branch}
+  GetTextFromInput -> mv:PutResponseText
+otherwise
+  URL "https://api.github.com/repos/\(mv:Owner)/\(mv:Repo)/contents/\(mv:FilePath)"
+  GetContentsOfURL advanced=true method="PUT" headers=true headers2={"Accept":"application/vnd.github+json","Authorization":"Bearer \(mv:Token)","Content-Type":"application/json","X-GitHub-Api-Version":"2022-11-28","User-Agent":"Shortcuts-iOS"} requestbody="JSON" jsonvalues={"message":"chore: append link from iOS Shortcut","content":mv:UpdatedBase64,"branch":mv:Branch,"sha":mv:ExistingSha}
+  GetTextFromInput -> mv:PutResponseText
+end
+
+# 7) Confirm success (200/201 returns content/commit)
+GetVariable mv:PutResponseText
+GetDictionaryFromInput -> mv:PutResponseDict
+GetVariable mv:PutResponseDict
+GetDictionaryValue key="content" -> mv:PutContent
+
+GetVariable mv:PutContent
+If "Equals" ""
+  GetVariable mv:PutResponseDict
+  GetDictionaryValue key="message" -> mv:ErrMsg
+  GetVariable mv:PutResponseDict
+  GetDictionaryValue key="status" -> mv:ErrStatus
+  ShowResult "Failed to save (Message: \(mv:ErrMsg), Status: \(mv:ErrStatus))"
+otherwise
+  ShowResult "Saved successfully (content returned)"
+end

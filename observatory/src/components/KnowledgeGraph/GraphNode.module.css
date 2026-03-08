@@ -1,0 +1,87 @@
+.node {
+  padding: var(--space-md);
+  background: #1e1e1e !important;
+  border: 2px solid #606060 !important;
+  border-radius: var(--radius-lg);
+  min-width: 200px;
+  max-width: 250px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.node:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.9) !important, 0 0 20px currentColor !important;
+  z-index: 10;
+}
+
+.nodeHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-sm);
+}
+
+.nodeIcon {
+  font-size: 1.5em;
+  filter: drop-shadow(0 0 8px var(--color-accent-blue-glow));
+}
+
+.nodeMetric {
+  padding: var(--space-xs) var(--space-sm);
+  background: #181a1b !important;
+  border: 1px solid #606060 !important;
+  border-radius: var(--radius-full);
+  font-family: var(--font-mono);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-metric-green);
+}
+
+.nodeContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.nodeLabel {
+  font-family: var(--font-display);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-tight);
+  color: #e8e6e3 !important;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.nodeTopics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+.nodeTopic {
+  padding: var(--space-xs) var(--space-sm);
+  background: linear-gradient(135deg, rgba(191, 90, 242, 0.1) 0%, rgba(191, 90, 242, 0.05) 100%);
+  border: 1px solid rgba(191, 90, 242, 0.2);
+  border-radius: var(--radius-full);
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--color-topic-purple);
+  text-transform: lowercase;
+}
+
+.handle {
+  width: 8px;
+  height: 8px;
+  background: var(--color-accent-blue);
+  border: 2px solid #1e1e1e !important;
+  box-shadow: 0 0 8px var(--color-accent-blue-glow);
+}
+
+.handle:hover {
+  width: 12px;
+  height: 12px;
+}

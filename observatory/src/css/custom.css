@@ -1,0 +1,291 @@
+/**
+ * Neural Observatory Design System
+ * Research Intelligence Platform
+ */
+
+/* Import JetBrains Mono for technical authenticity */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* Base Docusaurus variables */
+:root {
+  --ifm-color-primary: #0066FF;
+  --ifm-color-primary-dark: #0052CC;
+  --ifm-color-primary-darker: #0047B3;
+  --ifm-color-primary-darkest: #003784;
+  --ifm-color-primary-light: #0080FF;
+  --ifm-color-primary-lighter: #1A8CFF;
+  --ifm-color-primary-lightest: #3D9EFF;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 102, 255, 0.1);
+}
+
+/* Dark Mode Optimized (Primary Theme) */
+[data-theme='dark'] {
+  /* Core Colors */
+  --color-bg-primary: #000000;
+  --color-bg-elevated: #0A0A0A;
+  --color-bg-surface: #1C1C1E;
+  --color-bg-hover: #2C2C2E;
+
+  /* Text Colors */
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: rgba(235, 235, 245, 0.6);
+  --color-text-tertiary: rgba(235, 235, 245, 0.3);
+
+  /* Accent Colors */
+  --color-accent-blue: #0066FF;
+  --color-accent-blue-hover: #0080FF;
+  --color-accent-blue-glow: rgba(0, 102, 255, 0.4);
+
+  /* Metadata Colors */
+  --color-topic-purple: #BF5AF2;
+  --color-tech-orange: #FF9F0A;
+  --color-author-blue: #0066FF;
+  --color-metric-green: #34C759;
+  --color-warning-amber: #FF9F0A;
+
+  /* Borders & Dividers */
+  --color-border-subtle: rgba(255, 255, 255, 0.08);
+  --color-border-medium: rgba(255, 255, 255, 0.12);
+  --color-border-strong: rgba(255, 255, 255, 0.2);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 12px 24px rgba(0, 0, 0, 0.6);
+  --shadow-glow-blue: 0 0 20px rgba(0, 102, 255, 0.3);
+
+  /* Spacing Scale */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+
+  /* Typography Scale */
+  --font-display: 'JetBrains Mono', 'SF Mono', 'Monaco', 'Consolas', monospace;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', 'Monaco', 'Consolas', monospace;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+
+  /* Border Radius */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 350ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Docusaurus Overrides */
+  --ifm-background-color: var(--color-bg-primary);
+  --ifm-background-surface-color: var(--color-bg-surface);
+  --ifm-card-background-color: var(--color-bg-surface);
+  --ifm-color-primary: var(--color-accent-blue);
+  --ifm-color-primary-dark: #0052CC;
+  --ifm-color-primary-darker: #0047B3;
+  --ifm-color-primary-darkest: #003784;
+  --ifm-color-primary-light: var(--color-accent-blue-hover);
+  --ifm-color-primary-lighter: #1A8CFF;
+  --ifm-color-primary-lightest: #3D9EFF;
+  --ifm-font-family-base: var(--font-body);
+  --ifm-font-family-monospace: var(--font-mono);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 102, 255, 0.15);
+}
+
+/* Light Mode (Secondary Theme) */
+:root {
+  --color-bg-primary: #FFFFFF;
+  --color-bg-elevated: #F5F5F7;
+  --color-bg-surface: #FAFAFA;
+  --color-bg-hover: #F0F0F0;
+
+  --color-text-primary: #1D1D1F;
+  --color-text-secondary: #86868B;
+  --color-text-tertiary: #C7C7CC;
+
+  --color-accent-blue: #0066FF;
+  --color-accent-blue-hover: #0052CC;
+  --color-accent-blue-glow: rgba(0, 102, 255, 0.2);
+
+  --color-topic-purple: #9F5AF2;
+  --color-tech-orange: #FF9F0A;
+  --color-author-blue: #0066FF;
+  --color-metric-green: #28A745;
+  --color-warning-amber: #FF9F0A;
+
+  --color-border-subtle: rgba(0, 0, 0, 0.08);
+  --color-border-medium: rgba(0, 0, 0, 0.12);
+  --color-border-strong: rgba(0, 0, 0, 0.2);
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 12px 24px rgba(0, 0, 0, 0.2);
+  --shadow-glow-blue: 0 0 20px rgba(0, 102, 255, 0.15);
+}
+
+/* Global Styles */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-normal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Force dark mode styling everywhere */
+html,
+body,
+#__docusaurus,
+.main-wrapper {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme='dark'] html,
+[data-theme='dark'] body,
+[data-theme='dark'] #__docusaurus,
+[data-theme='dark'] .main-wrapper {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+/* Hide navbar for research page */
+body[class*='research'] .navbar,
+.navbar__inner {
+  display: none !important;
+}
+
+/* Grain Texture Overlay */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='2' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  mix-blend-mode: overlay;
+}
+
+/* Utility Classes */
+.text-display {
+  font-family: var(--font-display);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: -0.02em;
+}
+
+.text-mono {
+  font-family: var(--font-mono);
+}
+
+.text-glow {
+  text-shadow: 0 0 20px var(--color-accent-blue-glow);
+}
+
+.glass-effect {
+  backdrop-filter: blur(12px) saturate(180%);
+  background: rgba(28, 28, 30, 0.7);
+  border: 1px solid var(--color-border-subtle);
+}
+
+.neural-pulse {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 1;
+    filter: drop-shadow(0 0 8px var(--color-accent-blue-glow));
+  }
+  50% {
+    opacity: 0.6;
+    filter: drop-shadow(0 0 12px var(--color-accent-blue-glow));
+  }
+}
+
+.fade-in {
+  animation: fadeIn var(--transition-base) ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-elevated);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-strong);
+  border-radius: var(--radius-full);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-blue);
+}
+
+/* Selection Styling */
+::selection {
+  background: var(--color-accent-blue-glow);
+  color: var(--color-text-primary);
+}
+
+/* Focus Styles */
+:focus-visible {
+  outline: 2px solid var(--color-accent-blue);
+  outline-offset: 2px;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: var(--docusaurus-highlighted-code-line-bg);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}

@@ -1,0 +1,74 @@
+.metricsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-border-subtle);
+}
+
+.metric {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-xs) var(--space-md);
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-md);
+  font-family: var(--font-mono);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-metric-green);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.metric:hover {
+  background: var(--color-bg-hover);
+  border-color: var(--color-metric-green);
+  box-shadow: 0 0 12px rgba(52, 199, 89, 0.2);
+  transform: translateY(-2px);
+}
+
+.metricIcon {
+  font-size: 1.1em;
+  filter: drop-shadow(0 0 4px rgba(52, 199, 89, 0.4));
+}
+
+.metricLabel {
+  margin-left: var(--space-xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  font-weight: var(--font-weight-normal);
+  text-transform: lowercase;
+}
+
+/* Warning State (for high issue count) */
+.metricWarning {
+  color: var(--color-warning-amber);
+}
+
+.metricWarning:hover {
+  border-color: var(--color-warning-amber);
+  box-shadow: 0 0 12px rgba(255, 159, 10, 0.3);
+}
+
+.metricWarning .metricIcon {
+  filter: drop-shadow(0 0 4px rgba(255, 159, 10, 0.4));
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .metricsContainer {
+    gap: var(--space-sm);
+  }
+
+  .metric {
+    padding: var(--space-xs) var(--space-sm);
+    font-size: var(--font-size-xs);
+  }
+
+  .metricLabel {
+    display: none;
+  }
+}
