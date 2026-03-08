@@ -2309,5 +2309,304 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "youtube.com/test",
+    "links": [
+      "youtube.com/test"
+    ],
+    "timestamp": " — 03/08/26, 02:08 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "youtube.com/test",
+      "title": "",
+      "description": "",
+      "about": {
+        "summary": "",
+        "key_concepts": []
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:08:44.230Z",
+        "enrichment_version": "1.0",
+        "quality": "failed",
+        "error": "Failed to parse URL from youtube.com/test"
+      }
+    }
+  },
+  {
+    "content": "github.com/test",
+    "links": [
+      "github.com/test"
+    ],
+    "timestamp": " — 03/08/26, 02:08 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "github.com/test",
+      "title": "",
+      "description": "",
+      "about": {
+        "summary": "",
+        "key_concepts": []
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:08:45.265Z",
+        "enrichment_version": "1.0",
+        "quality": "failed",
+        "error": "Failed to parse URL from github.com/test"
+      }
+    }
+  },
+  {
+    "content": "GitHub - Folotu/NeuralArchive",
+    "links": [
+      "https://github.com/Folotu/RelatableLinks/tree/main"
+    ],
+    "timestamp": " — 03/08/26, 02:08 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/Folotu/RelatableLinks/tree/main",
+      "title": "GitHub - Folotu/NeuralArchive",
+      "description": "Contribute to Folotu/NeuralArchive development by creating an account on GitHub.",
+      "author": "",
+      "about": {
+        "summary": "Contribute to Folotu/NeuralArchive development by creating an account on GitHub.",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "locomotion",
+          "humanoid",
+          "llm",
+          "sim-to-real",
+          "mujoco"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation"
+        ],
+        "significance": "high",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:08:48.227Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
+  },
+  {
+    "content": "YouTube",
+    "links": [
+      "https://m.youtube.com/watch"
+    ],
+    "timestamp": " — 03/08/26, 02:08 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://m.youtube.com/watch",
+      "title": "YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author": "",
+      "about": {
+        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "key_concepts": [
+          "mpc",
+          "pid",
+          "lqr"
+        ],
+        "technical_approaches": [
+          "control"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:08:54.915Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
+  },
+  {
+    "content": "https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+    "links": [
+      "https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": " — 03/08/26, 02:09 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "",
+        "key_concepts": [
+          "manipulation",
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:09:24.767Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
+  },
+  {
+    "content": "https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+    "links": [
+      "https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": " — 03/08/26, 02:09 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "",
+        "key_concepts": [
+          "manipulation",
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:09:25.909Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
+  },
+  {
+    "content": "https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+    "links": [
+      "https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": " — 03/08/26, 02:09 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "",
+        "key_concepts": [
+          "manipulation",
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:09:27.038Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
+  },
+  {
+    "content": "HaMeR",
+    "links": [
+      "https://geopavlakos.github.io/hamer/"
+    ],
+    "timestamp": " — 03/08/26, 02:09 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://geopavlakos.github.io/hamer/",
+      "title": "HaMeR",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "HaMeR",
+        "key_concepts": [
+          "transformer"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:09:28.138Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
+  },
+  {
+    "content": "GitHub - ThunderVVV/HaWoR: HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos",
+    "links": [
+      "https://github.com/ThunderVVV/HaWoR"
+    ],
+    "timestamp": " — 03/08/26, 02:09 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/ThunderVVV/HaWoR",
+      "title": "GitHub - ThunderVVV/HaWoR: HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos",
+      "description": "HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos - ThunderVVV/HaWoR",
+      "author": "",
+      "about": {
+        "summary": "HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos - ThunderVVV/HaWoR",
+        "key_concepts": [
+          "llm",
+          "slam"
+        ],
+        "research_areas": [
+          "navigation"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:09:29.640Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
