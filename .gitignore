@@ -18,8 +18,7 @@ dist/
 .docusaurus/
 .cache-loader/
 
-# Working files (iOS shortcut pushes raw_links.txt via API)
-raw_links.txt
+# Note: raw_links.txt is tracked intentionally (iOS shortcut writes to it via GitHub API)
 
 # OS files
 .DS_Store
