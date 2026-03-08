@@ -2608,5 +2608,28 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "55DE9197-E27C-4DED-B272-69349ACE5B69",
+    "links": [
+      "55DE9197-E27C-4DED-B272-69349ACE5B69"
+    ],
+    "timestamp": " — 03/08/26, 02:39 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "55DE9197-E27C-4DED-B272-69349ACE5B69",
+      "title": "",
+      "description": "",
+      "about": {
+        "summary": "",
+        "key_concepts": []
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:39:23.641Z",
+        "enrichment_version": "1.0",
+        "quality": "failed",
+        "error": "Failed to parse URL from 55DE9197-E27C-4DED-B272-69349ACE5B69"
+      }
+    }
   }
 ]
