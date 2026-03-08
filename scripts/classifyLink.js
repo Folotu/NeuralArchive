@@ -15,13 +15,18 @@ const path = require('path');
 // Lazy-loaded config (cached after first call)
 let _taxonomy = null;
 let _vocabulary = null;
+let _overrides = null;
 
 function loadConfig() {
   if (!_taxonomy) {
     _taxonomy = JSON.parse(fs.readFileSync(path.join(__dirname, 'taxonomy.json'), 'utf-8'));
     _vocabulary = JSON.parse(fs.readFileSync(path.join(__dirname, 'vocabulary.json'), 'utf-8'));
+    const overridePath = path.join(__dirname, 'classification-overrides.json');
+    _overrides = fs.existsSync(overridePath)
+      ? JSON.parse(fs.readFileSync(overridePath, 'utf-8'))
+      : {};
   }
-  return { taxonomy: _taxonomy, vocabulary: _vocabulary };
+  return { taxonomy: _taxonomy, vocabulary: _vocabulary, overrides: _overrides };
 }
 
 /**
@@ -193,13 +198,34 @@ function classifyLink(message) {
   // Cap at 2 subtypes
   resourceSubtype.splice(2);
 
-  // 5. Compute overall confidence
-  const areaConfidence = researchAreas.length > 0
-    ? Math.max(...researchAreas.map(a => areaScores[a]))
-    : 0;
-  const topicConfidence = topics.length > 0
-    ? Math.max(...topics.map(t => topicScores[t]))
-    : 0;
+  // 5. Merge classification overrides (from LLM one-time classification)
+  const { overrides } = loadConfig();
+  const override = overrides[url];
+  if (override) {
+    if (override.researchAreas) {
+      for (const a of override.researchAreas) {
+        if (!researchAreas.includes(a)) researchAreas.push(a);
+      }
+    }
+    if (override.topics) {
+      for (const t of override.topics) {
+        if (!topics.includes(t)) topics.push(t);
+      }
+    }
+    if (override.resourceSubtype) {
+      for (const s of override.resourceSubtype) {
+        if (!resourceSubtype.includes(s)) resourceSubtype.push(s);
+      }
+    }
+    if (override.resourceType) {
+      resourceType = override.resourceType;
+      typeConfidence = 0.9;
+    }
+  }
+
+  // 6. Compute overall confidence
+  const areaConfidence = researchAreas.length > 0 ? 0.85 : 0;
+  const topicConfidence = topics.length > 0 ? 0.85 : 0;
 
   const overallConfidence = Math.round(
     (typeConfidence * 0.3 + areaConfidence * 0.35 + topicConfidence * 0.35) * 100

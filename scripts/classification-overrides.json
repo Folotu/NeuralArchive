@@ -1,0 +1,2009 @@
+{
+  "https://www.w3schools.com/": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "article"
+  },
+  "https://www.tutorialspoint.com/cplusplus/cpp_data_structures.htm#:~:text=C%2B%2B%20Data%20Structures%201%20Defining%20a%20Structure.%20To,to%20Structures.%20...%205%20The%20typedef%20Keyword.%20": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "article"
+  },
+  "https://www.cplusplus.com/doc/tutorial/structures/": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "documentation"
+  },
+  "https://www.codingninjas.com/codestudio/guided-paths?utm_source=youtube&utm_medium=organic&utm_campaign=noncsbranch": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "other-webpage"
+  },
+  "https://github.com/github/copilot-docs": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://www.northropgrumman.com/jobs/Redondo-Beach-----CA/Administrative-Services/R10002231/intern-software-engineer/": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "internship"
+    ],
+    "resourceType": "job"
+  },
+  "https://riptutorial.com/cplusplus/example/5101/reverse-iterators": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "article"
+  },
+  "https://careers.ibm.com/job/14226037/digital-analytics-intern-ibm-research-summer-2022-yorktown-heights-ny/?codes=DE_EPH_NAEvents2021": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "internship",
+      "research-role"
+    ],
+    "resourceType": "job"
+  },
+  "https://careers.ibm.com/job/13522688/devops-engineer-intern-summer-2022-remote/?codes=DE_EPH_NAEvents2021": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "internship"
+    ],
+    "resourceType": "job"
+  },
+  "https://www.researchgate.net/publication/333077486_AMZ_Driverless_The_Full_Autonomous_Racing_System": {
+    "researchAreas": [
+      "navigation",
+      "perception",
+      "planning",
+      "control"
+    ],
+    "topics": [
+      "computer-vision",
+      "motion-planning",
+      "mapping"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://www.sqlitetutorial.net/": {
+    "researchAreas": [],
+    "topics": [],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "article"
+  },
+  "https://arxiv.org/pdf/2208.11215.pdf": {
+    "researchAreas": [
+      "embodied-ai",
+      "planning",
+      "vision-language-action"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "motion-planning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/evolentDelight/UC-Merced/tree/master/CSE107%20-%20Digital%20Image%20Processing": {
+    "researchAreas": [
+      "perception"
+    ],
+    "topics": [
+      "computer-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://chat.openai.com/auth/login": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://github.com/danielgross/whatsapp-gpt": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/sw-yx/ai-notes/blob/main/TEXT.md#jailbreaks": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "safety"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/NVIDIA/MAXINE-AR-SDK": {
+    "researchAreas": [
+      "perception",
+      "generative-ai"
+    ],
+    "topics": [
+      "computer-vision"
+    ],
+    "resourceSubtype": [
+      "framework"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/karpathy/minGPT": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "transformer",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/karpathy/nanoGPT": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "transformer",
+      "foundation-models"
+    ],
+    "resourceSubtype": [
+      "training-code"
+    ],
+    "resourceType": "repository"
+  },
+  "https://beta.elevenlabs.io/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://arxiv.org/pdf/2302.07730.pdf": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "transformer",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://github.com/mukulpatnaik/researchgpt": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://openai.com/blog/planning-for-agi-and-beyond/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "safety"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://github.com/MAVProxyUser/unitree_ros2_ws": {
+    "researchAreas": [
+      "locomotion",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "quadrupeds",
+      "ros2",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://www.trossenrobotics.com/go1-pro.aspx": {
+    "researchAreas": [
+      "locomotion",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "quadrupeds",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://github.com/YashBansod/Robotics-Planning-Dynamics-and-Control/tree/master": {
+    "researchAreas": [
+      "planning",
+      "control"
+    ],
+    "topics": [
+      "motion-planning",
+      "trajectory-optimization"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/mywisdomfly/Clean-robot-turtlebot3": {
+    "researchAreas": [
+      "navigation",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "mobile-robot",
+      "ros2",
+      "mapping"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://research.runwayml.com/gen2": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "multimodal"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "demo"
+  },
+  "https://github.com/mayooear/gpt4-pdf-chatbot-langchain": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://arxiv.org/abs/2303.12712": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://playgroundai.com/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://arxiv.org/abs/2304.03442": {
+    "researchAreas": [
+      "generative-ai",
+      "multi-agent"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://www.cognosys.ai/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://github.com/yoheinakajima/babyagi/blob/main/inspired-projects.md": {
+    "researchAreas": [
+      "generative-ai",
+      "planning"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/Stability-AI/StableLM": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [
+      "model-repo"
+    ],
+    "resourceType": "repository"
+  },
+  "https://underactuated.csail.mit.edu/": {
+    "researchAreas": [
+      "control",
+      "planning"
+    ],
+    "topics": [
+      "motion-planning",
+      "trajectory-optimization",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "documentation"
+  },
+  "https://www.promptingguide.ai/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "documentation"
+  },
+  "https://github.com/imartinez/privateGPT": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [
+      "dataset-repo"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/XingangPan/DragGAN": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "computer-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://scale.com/guides/large-language-models": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "article"
+  },
+  "https://www.framer.com/ai": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://10web.io/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://labs.heygen.com/video-translate": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "multimodal"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://www.phind.com/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://github.com/THUDM/CogVLM": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "multimodal",
+      "foundation-models",
+      "transformer",
+      "computer-vision"
+    ],
+    "resourceSubtype": [
+      "model-repo"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/facebookresearch/fairseq/tree/main/examples/mms": {
+    "researchAreas": [
+      "nlp",
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "transformer",
+      "multimodal"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://catalog.data.gov/dataset?q=&sort=metadata_created+desc": {
+    "researchAreas": [],
+    "topics": [
+      "dataset"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "dataset"
+  },
+  "https://github.com/roboflow/supervision": {
+    "researchAreas": [
+      "perception"
+    ],
+    "topics": [
+      "computer-vision",
+      "object-detection"
+    ],
+    "resourceSubtype": [
+      "tooling"
+    ],
+    "resourceType": "repository"
+  },
+  "https://gptengineer.app/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://github.com/Fuzzy-Search/realtime-bakllava": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "multimodal",
+      "llm",
+      "computer-vision"
+    ],
+    "resourceSubtype": [
+      "model-repo"
+    ],
+    "resourceType": "repository"
+  },
+  "https://www.bland.ai/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "http://www.ezdubs.ai/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "multimodal"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://infinity.ai/": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "computer-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://www.ycombinator.com/companies/k-scale-labs": {
+    "researchAreas": [
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [
+      "startup"
+    ],
+    "resourceType": "company"
+  },
+  "https://tincans.ai/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://x.com/aiatmeta/status/1803107817345393136?s=12&t=sFDG4kVvVEPX384CKeGa7A": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "thread"
+  },
+  "https://x.com/aiatmeta/status/1808157832497488201?s=12&t=sFDG4kVvVEPX384CKeGa7A": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "thread"
+  },
+  "https://runwayml.com/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "multimodal",
+      "computer-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://github.com/Doriandarko/claude-engineer/tree/main": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/jla524/fromthetensor": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "transformer",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://x.com/karlpertsch/status/1810698405192323088?s=12&t=sFDG4kVvVEPX384CKeGa7A": {
+    "researchAreas": [
+      "robot-learning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "thread"
+  },
+  "https://research.nvidia.com/labs/toronto-ai/simplicits/": {
+    "researchAreas": [
+      "perception",
+      "generative-ai"
+    ],
+    "topics": [
+      "computer-vision",
+      "3d-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://research.nvidia.com/publication/2024-07_superpadl-scaling-language-directed-physics-based-control-progressive": {
+    "researchAreas": [
+      "control",
+      "embodied-ai",
+      "locomotion"
+    ],
+    "topics": [
+      "reinforcement-learning",
+      "legged-locomotion",
+      "motion-planning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://blogs.nvidia.com/blog/siggraph-2024-ai-graphics-research/": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "computer-vision",
+      "3d-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://x.com/ilir_ai/status/1819295736623718708?s=12&t=sFDG4kVvVEPX384CKeGa7A": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "thread"
+  },
+  "https://stackademic.com/blog/web-scraping-with-llms-using-langchain": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam": {
+    "researchAreas": [
+      "navigation",
+      "perception",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "slam",
+      "mapping",
+      "ros2",
+      "isaac-sim",
+      "3d-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/hacksider/Deep-Live-Cam": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "computer-vision"
+    ],
+    "resourceSubtype": [
+      "tooling"
+    ],
+    "resourceType": "repository"
+  },
+  "https://explorer.globe.engineer/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://github.com/unitreerobotics/avp_teleoperate": {
+    "researchAreas": [
+      "embodied-ai",
+      "manipulation",
+      "robot-learning"
+    ],
+    "topics": [
+      "teleoperation",
+      "humanoids",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/HybridRobotics/HybridRobotics-berkeley_humanoid_description": {
+    "researchAreas": [
+      "embodied-ai",
+      "locomotion",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://berkeley-humanoid.com/": {
+    "researchAreas": [
+      "embodied-ai",
+      "locomotion",
+      "robot-learning"
+    ],
+    "topics": [
+      "humanoids",
+      "legged-locomotion",
+      "reinforcement-learning",
+      "sim2real"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://arxiv.org/abs/2308.12517": {
+    "researchAreas": [
+      "robot-learning",
+      "embodied-ai",
+      "manipulation"
+    ],
+    "topics": [
+      "foundation-models",
+      "vla",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://waabi.ai/uno/": {
+    "researchAreas": [
+      "perception",
+      "world-models",
+      "navigation"
+    ],
+    "topics": [
+      "3d-vision",
+      "scene-understanding"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/robodhruv/drive-any-robot": {
+    "researchAreas": [
+      "navigation",
+      "robot-learning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "mobile-robot",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://www.1x.tech/open-positions/research-engineer-robotics-learning-4": {
+    "researchAreas": [
+      "embodied-ai",
+      "robot-learning"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "job"
+  },
+  "https://ei.csail.mit.edu/index.html": {
+    "researchAreas": [
+      "embodied-ai",
+      "robot-learning"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "other-webpage"
+  },
+  "https://github.com/Improbable-AI/walk-these-ways": {
+    "researchAreas": [
+      "locomotion",
+      "robot-learning",
+      "control"
+    ],
+    "topics": [
+      "legged-locomotion",
+      "quadrupeds",
+      "reinforcement-learning",
+      "sim2real"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://arxiv.org/html/2404.17070v1": {
+    "researchAreas": [
+      "robot-learning",
+      "manipulation",
+      "embodied-ai"
+    ],
+    "topics": [
+      "imitation-learning",
+      "foundation-models",
+      "vla"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://www.cs.sfu.ca/~kkyin/papers/Yin_SIG07.pdf": {
+    "researchAreas": [
+      "locomotion",
+      "control"
+    ],
+    "topics": [
+      "legged-locomotion",
+      "motion-planning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/Plachtaa/VALL-E-X?tab=readme-ov-file": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://www.resemble.ai/speech-to-speech/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://deepmind.google/discover/blog/advances-in-robot-dexterity/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=robot%20dexterity": {
+    "researchAreas": [
+      "manipulation",
+      "robot-learning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "dexterous-manipulation",
+      "reinforcement-learning",
+      "sim2real"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation": {
+    "researchAreas": [
+      "generative-ai",
+      "perception",
+      "nlp"
+    ],
+    "topics": [
+      "multimodal",
+      "llm",
+      "foundation-models",
+      "evaluation",
+      "benchmark"
+    ],
+    "resourceSubtype": [
+      "model-repo",
+      "benchmark-suite"
+    ],
+    "resourceType": "repository"
+  },
+  "https://robot-ma.github.io/MA_paper.pdf": {
+    "researchAreas": [
+      "manipulation",
+      "robot-learning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "llm",
+      "motion-planning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/Jianghanxiao/RoboEXP": {
+    "researchAreas": [
+      "embodied-ai",
+      "manipulation",
+      "perception"
+    ],
+    "topics": [
+      "scene-understanding",
+      "3d-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/huangwl18/VoxPoser": {
+    "researchAreas": [
+      "manipulation",
+      "planning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models",
+      "motion-planning",
+      "3d-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/facebookresearch/dinov2": {
+    "researchAreas": [
+      "perception",
+      "generative-ai"
+    ],
+    "topics": [
+      "computer-vision",
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/huangwl18/ReKep": {
+    "researchAreas": [
+      "manipulation",
+      "planning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "motion-planning",
+      "foundation-models",
+      "3d-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/aws-samples/mistral-on-aws/blob/1103ca45089bf8163cf1fcd5058d39a7c574df9d/notebooks/Pixtral-samples/Pixtral-v1-notebook.ipynb": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "multimodal",
+      "llm",
+      "foundation-models",
+      "computer-vision"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/uzh-rpg/rl_vo": {
+    "researchAreas": [
+      "navigation",
+      "perception",
+      "robot-learning"
+    ],
+    "topics": [
+      "reinforcement-learning",
+      "slam",
+      "drone",
+      "depth-estimation"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/huggingface/lerobot": {
+    "researchAreas": [
+      "robot-learning",
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "imitation-learning",
+      "diffusion-policy",
+      "behavior-cloning",
+      "dataset"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://www.lockedinai.com/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://chatllm.abacus.ai/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://hover-versatile-humanoid.github.io/": {
+    "researchAreas": [
+      "embodied-ai",
+      "locomotion",
+      "control"
+    ],
+    "topics": [
+      "humanoids",
+      "reinforcement-learning",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://humanoidssummit.com/": {
+    "researchAreas": [
+      "embodied-ai"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "other-webpage"
+  },
+  "https://github.com/gregpr07/browser-use": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [
+      "framework"
+    ],
+    "resourceType": "repository"
+  },
+  "https://getpickle.ai/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://liveportrait.org/": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "computer-vision",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://job-boards.greenhouse.io/intrinsicrobotics/jobs/5371191004?gh_jid=5371191004": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "job"
+  },
+  "https://humanoidroboticstechnology.com/": {
+    "researchAreas": [
+      "embodied-ai"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "other-webpage"
+  },
+  "https://engineering.purdue.edu/online/programs/masters-degrees/interdisciplinary-engineering/robotics": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "other-webpage"
+  },
+  "https://github.com/zeroth-robotics/zeroth-bot": {
+    "researchAreas": [
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://arxiv.org/abs/2411.09052": {
+    "researchAreas": [
+      "embodied-ai",
+      "vision-language-action",
+      "manipulation"
+    ],
+    "topics": [
+      "foundation-models",
+      "benchmark",
+      "multimodal"
+    ],
+    "resourceSubtype": [
+      "position-paper"
+    ],
+    "resourceType": "paper"
+  },
+  "https://moka-manipulation.github.io/": {
+    "researchAreas": [
+      "manipulation",
+      "perception",
+      "vision-language-action"
+    ],
+    "topics": [
+      "grasping",
+      "foundation-models",
+      "multimodal",
+      "vla"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://www.napkin.ai/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://github.com/awslabs/amazon-bedrock-agent-samples": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://agilityrobotics.com/content/crossing-sim2real-gap-with-isaaclab": {
+    "researchAreas": [
+      "sim-to-real",
+      "locomotion",
+      "embodied-ai"
+    ],
+    "topics": [
+      "sim2real",
+      "isaac-sim",
+      "humanoids",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://www.projectaria.com/datasets/hot3D/": {
+    "researchAreas": [
+      "perception"
+    ],
+    "topics": [
+      "3d-vision",
+      "dataset",
+      "pose-estimation"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "dataset"
+  },
+  "https://motion.cs.illinois.edu/RoboticSystems/": {
+    "researchAreas": [
+      "robotics-infrastructure",
+      "planning",
+      "control"
+    ],
+    "topics": [
+      "motion-planning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "documentation"
+  },
+  "https://docs.viam.com/tutorials/": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "documentation"
+  },
+  "https://www.saphira.ai/blog/functional-safety-for-humanoid-robots": {
+    "researchAreas": [
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids",
+      "safety"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://www.ycombinator.com/companies/industry/robotics": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [],
+    "resourceSubtype": [
+      "startup"
+    ],
+    "resourceType": "other-webpage"
+  },
+  "https://sites.google.com/leggedrobotics.com/perceptive-pedipulation": {
+    "researchAreas": [
+      "locomotion",
+      "manipulation",
+      "perception"
+    ],
+    "topics": [
+      "legged-locomotion",
+      "quadrupeds",
+      "reinforcement-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://agentic.substack.com/p/whats-missing-for-robot-foundation": {
+    "researchAreas": [
+      "robot-learning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "foundation-models",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://metamotivo.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=fair": {
+    "researchAreas": [
+      "embodied-ai",
+      "control",
+      "locomotion"
+    ],
+    "topics": [
+      "humanoids",
+      "reinforcement-learning",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://aloha-2.github.io/": {
+    "researchAreas": [
+      "manipulation",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "bimanual",
+      "teleoperation",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://www.microsoft.com/en-us/research/project/vasa-1/": {
+    "researchAreas": [
+      "generative-ai",
+      "perception"
+    ],
+    "topics": [
+      "computer-vision",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://symbolica.ai/": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://sereact.ai/": {
+    "researchAreas": [
+      "embodied-ai",
+      "manipulation",
+      "perception"
+    ],
+    "topics": [
+      "grasping",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/": {
+    "researchAreas": [
+      "planning",
+      "control",
+      "robot-learning"
+    ],
+    "topics": [
+      "motion-planning",
+      "diffusion-policy"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://clonerobotics.com/company": {
+    "researchAreas": [
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://github.com/pollen-robotics/reachy-sdk": {
+    "researchAreas": [
+      "robotics-infrastructure",
+      "embodied-ai"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [
+      "framework"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/SparkAudio/Spark-TTS": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/knmcguire/best-of-robot-simulators": {
+    "researchAreas": [
+      "sim-to-real",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "mujoco",
+      "isaac-sim"
+    ],
+    "resourceSubtype": [
+      "simulator"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/tree/main/Windsurf": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [
+      "model-repo",
+      "tooling"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/jk4e/list-ai-humanoid-robots/tree/main": {
+    "researchAreas": [
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://jobs.ashbyhq.com/personainc.ai/eead56c6-52d6-496a-9a93-13bcbd1e7636": {
+    "researchAreas": [
+      "generative-ai"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "job"
+  },
+  "https://sites.google.com/view/myodex": {
+    "researchAreas": [
+      "manipulation",
+      "robot-learning",
+      "control"
+    ],
+    "topics": [
+      "dexterous-manipulation",
+      "reinforcement-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://dora-rs.ai/blog/reachy-qwenvl-sam2/": {
+    "researchAreas": [
+      "embodied-ai",
+      "vision-language-action",
+      "perception"
+    ],
+    "topics": [
+      "vla",
+      "multimodal",
+      "scene-understanding"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://genai-handbook.github.io/": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "llm",
+      "transformer",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "documentation"
+  },
+  "https://amo-humanoid.github.io/": {
+    "researchAreas": [
+      "embodied-ai",
+      "locomotion",
+      "control"
+    ],
+    "topics": [
+      "humanoids",
+      "reinforcement-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://hub-robot.github.io/": {
+    "researchAreas": [
+      "embodied-ai",
+      "manipulation"
+    ],
+    "topics": [
+      "humanoids",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/TheRobotStudio/SO-ARM100": {
+    "researchAreas": [
+      "manipulation",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "grasping"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/TheRobotStudio/V1.0-Dexhand": {
+    "researchAreas": [
+      "manipulation",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "dexterous-manipulation"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/TheRobotStudio/HOPEJr": {
+    "researchAreas": [
+      "embodied-ai",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/kscalelabs/ksim-gym": {
+    "researchAreas": [
+      "sim-to-real",
+      "robot-learning",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "sim2real",
+      "reinforcement-learning",
+      "mujoco"
+    ],
+    "resourceSubtype": [
+      "simulator"
+    ],
+    "resourceType": "repository"
+  },
+  "https://github.com/nari-labs/dia": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://x.com/thehumanoidhub/status/1925255036965408887?s=12&t=sFDG4kVvVEPX384CKeGa7A": {
+    "researchAreas": [
+      "embodied-ai"
+    ],
+    "topics": [
+      "humanoids"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "thread"
+  },
+  "https://www.maniskill.ai/": {
+    "researchAreas": [
+      "manipulation",
+      "sim-to-real",
+      "robot-learning"
+    ],
+    "topics": [
+      "benchmark",
+      "sim2real",
+      "grasping",
+      "reinforcement-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://husarion.com/tutorials/ros2-tutorials/ros2/": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "ros2"
+    ],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "documentation"
+  },
+  "https://github.com/YanjieZe/GMR": {
+    "researchAreas": [
+      "manipulation",
+      "robot-learning"
+    ],
+    "topics": [
+      "grasping",
+      "reinforcement-learning",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://leggedrobotics.github.io/fdm.github.io/": {
+    "researchAreas": [
+      "locomotion",
+      "world-models",
+      "robot-learning"
+    ],
+    "topics": [
+      "legged-locomotion",
+      "world-model",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://maniflow-policy.github.io/": {
+    "researchAreas": [
+      "robot-learning",
+      "manipulation",
+      "control"
+    ],
+    "topics": [
+      "diffusion-policy",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://supervised-robot-learning.github.io/": {
+    "researchAreas": [
+      "robot-learning"
+    ],
+    "topics": [
+      "imitation-learning",
+      "behavior-cloning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/huggingface/VLAb/tree/main": {
+    "researchAreas": [
+      "vision-language-action",
+      "robot-learning",
+      "embodied-ai"
+    ],
+    "topics": [
+      "vla",
+      "benchmark",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://github.com/hucebot/g1pilot/tree/main": {
+    "researchAreas": [
+      "embodied-ai",
+      "locomotion",
+      "control"
+    ],
+    "topics": [
+      "humanoids",
+      "teleoperation"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://humanoideveryday.github.io/": {
+    "researchAreas": [
+      "embodied-ai",
+      "robot-learning",
+      "manipulation"
+    ],
+    "topics": [
+      "humanoids",
+      "imitation-learning"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://huggingface.co/neuphonic/neutts-air": {
+    "researchAreas": [
+      "generative-ai",
+      "nlp"
+    ],
+    "topics": [
+      "foundation-models",
+      "transformer"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "tool"
+  },
+  "https://www.futurlec.com/Light_To_Frequency_Sensor.shtml": {
+    "researchAreas": [
+      "perception"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "other-webpage"
+  },
+  "https://www.turing.com/advance/datasets/robotics": {
+    "researchAreas": [
+      "robot-learning",
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "dataset"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "dataset"
+  },
+  "https://www.merphi.se/download-robotic-poster/": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "other-webpage"
+  },
+  "https://worldmodels.github.io/": {
+    "researchAreas": [
+      "manipulation",
+      "embodied-ai",
+      "robot-learning",
+      "sim-to-real"
+    ],
+    "topics": [
+      "reinforcement-learning",
+      "sim-to-real",
+      "grasping"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://x.com/rlwrld_ai/status/2016327860336918624?s=12&t=sFDG4kVvVEPX384CKeGa7A": {
+    "researchAreas": [
+      "manipulation"
+    ],
+    "topics": [
+      "dexterous-manipulation",
+      "llm",
+      "impedance-control"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "thread"
+  },
+  "https://github.com/CDonosoK/astroviz": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "teleoperation",
+      "ros2",
+      "benchmark",
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "repository"
+  },
+  "https://hailuoai.video/": {
+    "researchAreas": [
+      "perception",
+      "control"
+    ],
+    "topics": [
+      "llm",
+      "scene-understanding"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://geospy.ai/": {
+    "researchAreas": [
+      "control"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://arxiv.org/pdf/astro-ph/0703631": {
+    "researchAreas": [
+      "control"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://github.com/robotmcp/ros-mcp-server": {
+    "researchAreas": [
+      "robotics-infrastructure"
+    ],
+    "topics": [
+      "ros2",
+      "llm",
+      "multimodal"
+    ],
+    "resourceSubtype": [
+      "model-repo"
+    ],
+    "resourceType": "repository"
+  },
+  "https://www.humanoidsdaily.com/": {
+    "researchAreas": [
+      "manipulation",
+      "locomotion",
+      "control"
+    ],
+    "topics": [
+      "humanoids",
+      "dexterous-manipulation",
+      "legged-locomotion"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://arxiv.org/pdf/2208.00811": {
+    "researchAreas": [
+      "control"
+    ],
+    "topics": [
+      "llm"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "paper"
+  },
+  "https://dreamzero0.github.io/": {
+    "researchAreas": [
+      "manipulation",
+      "generative-ai"
+    ],
+    "topics": [
+      "dexterous-manipulation",
+      "diffusion-policy",
+      "foundation-models"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://itcanthink.substack.com/p/an-incomplete-list-of-robotics-benchmarks?utm_source=share&utm_medium=android&r=3uj5js&triedRedirect=true": {
+    "researchAreas": [
+      "planning",
+      "sim-to-real"
+    ],
+    "topics": [
+      "sim-to-real",
+      "transformer",
+      "motion-planning",
+      "trajectory-optimization"
+    ],
+    "resourceSubtype": [],
+    "resourceType": "article"
+  },
+  "https://www.hitem3d.ai/": {
+    "researchAreas": [
+      "perception",
+      "control"
+    ],
+    "topics": [],
+    "resourceSubtype": [],
+    "resourceType": "company"
+  },
+  "https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html": {
+    "researchAreas": [
+      "navigation",
+      "manipulation",
+      "perception",
+      "sim-to-real"
+    ],
+    "topics": [
+      "slam",
+      "sim-to-real",
+      "dexterous-manipulation",
+      "object-detection",
+      "pose-estimation",
+      "mobile-robot"
+    ],
+    "resourceSubtype": [
+      "tutorial"
+    ],
+    "resourceType": "article"
+  }
+}
