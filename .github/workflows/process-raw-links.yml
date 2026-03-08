@@ -48,6 +48,7 @@ jobs:
           node scripts/buildGraph.js
 
       - name: Commit changes
+        id: commit
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions"
@@ -55,6 +56,20 @@ jobs:
             git add data/messages.json observatory/src/categorized_links.json observatory/src/research-graph.json raw_links.txt
             git commit -m "chore: process raw_links.txt -> update categorized_links"
             git push
+            echo "changed=true" >> $GITHUB_OUTPUT
           else
             echo "No changes to commit."
+            echo "changed=false" >> $GITHUB_OUTPUT
           fi
+
+      - name: Trigger deploy
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy-github-pages.yml',
+              ref: 'main'
+            })

@@ -283,7 +283,15 @@ async function main() {
   const urls = rawContent
     .split(/\r?\n/)
     .map(line => line.trim())
-    .filter(Boolean);
+    .filter(line => {
+      if (!line) return false;
+      // Must start with http:// or https:// — reject UUIDs, bare text, etc.
+      if (!/^https?:\/\//i.test(line)) {
+        console.log(`Skipping non-URL: ${line.slice(0, 60)}`);
+        return false;
+      }
+      return true;
+    });
 
   if (urls.length === 0) {
     console.log('No URLs to process.');
