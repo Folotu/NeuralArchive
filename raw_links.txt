@@ -26,3 +26,5 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A
 https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A
 https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A
+
+https://geopavlakos.github.io/hamer/
