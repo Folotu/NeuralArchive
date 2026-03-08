@@ -2631,5 +2631,64 @@
         "error": "Failed to parse URL from 55DE9197-E27C-4DED-B272-69349ACE5B69"
       }
     }
+  },
+  {
+    "content": "594D874C-6C48-455B-9DA4-7A9A1037269F",
+    "links": [
+      "594D874C-6C48-455B-9DA4-7A9A1037269F"
+    ],
+    "timestamp": " — 03/08/26, 02:50 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "594D874C-6C48-455B-9DA4-7A9A1037269F",
+      "title": "",
+      "description": "",
+      "about": {
+        "summary": "",
+        "key_concepts": []
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:50:17.160Z",
+        "enrichment_version": "1.0",
+        "quality": "failed",
+        "error": "Failed to parse URL from 594D874C-6C48-455B-9DA4-7A9A1037269F"
+      }
+    }
+  },
+  {
+    "content": "https://x.com/tom_doerr/status/2029948496518767037?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+    "links": [
+      "https://x.com/tom_doerr/status/2029948496518767037?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": " — 03/08/26, 02:50 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/tom_doerr/status/2029948496518767037?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "",
+        "key_concepts": [
+          "manipulation",
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T14:50:18.437Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
