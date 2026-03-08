@@ -52,7 +52,7 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions"
             git config user.email "github-actions@users.noreply.github.com"
-            git add data/messages.json categorized_links.json raw_links.txt
+            git add data/messages.json observatory/src/categorized_links.json observatory/src/research-graph.json raw_links.txt
             git commit -m "chore: process raw_links.txt -> update categorized_links"
             git push
           else
