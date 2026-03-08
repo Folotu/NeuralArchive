@@ -2690,5 +2690,29 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Allonic",
+    "links": [
+      "https://allonic.co/"
+    ],
+    "timestamp": " — 03/08/26, 03:09 PM",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://allonic.co/",
+      "title": "Allonic",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Allonic",
+        "key_concepts": [],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T15:09:12.735Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
