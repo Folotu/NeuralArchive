@@ -5815,11 +5815,38 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://github.com/mujocolab/mjlab",
+      "title": "GitHub - mujocolab/mjlab: Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.",
+      "description": "GitHub - mujocolab/mjlab: Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.",
+      "content": "GitHub - mujocolab/mjlab: Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.",
+      "timestamp": "2026-03-08T15:36:35.725Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "mujoco",
+          "reinforcement-learning",
+          "humanoids",
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 66,
+      "repository": 67,
       "article": 43,
       "paper": 30,
       "company": 18,
@@ -5851,13 +5878,13 @@
     },
     "topics": {
       "foundation-models": 61,
-      "llm": 55,
-      "humanoids": 23,
+      "llm": 56,
+      "humanoids": 24,
       "dexterous-manipulation": 18,
       "transformer": 17,
       "computer-vision": 16,
+      "reinforcement-learning": 15,
       "legged-locomotion": 14,
-      "reinforcement-learning": 14,
       "motion-planning": 13,
       "multimodal": 13,
       "imitation-learning": 12,
@@ -5876,11 +5903,11 @@
       "slam": 4,
       "scene-understanding": 4,
       "diffusion-policy": 4,
+      "mujoco": 4,
       "mapping": 3,
       "safety": 3,
       "mobile-robot": 3,
       "isaac-sim": 3,
-      "mujoco": 3,
       "object-detection": 2,
       "behavior-cloning": 2,
       "pose-estimation": 2,
@@ -5892,7 +5919,7 @@
     },
     "sourcePlatform": {
       "other": 71,
-      "github": 66,
+      "github": 67,
       "personal-blog": 19,
       "company-site": 16,
       "x-twitter": 15,

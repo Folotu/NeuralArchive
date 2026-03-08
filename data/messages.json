@@ -2714,5 +2714,50 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GitHub - mujocolab/mjlab: Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.",
+    "links": [
+      "https://github.com/mujocolab/mjlab"
+    ],
+    "timestamp": "2026-03-08T15:36:35.725Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/mujocolab/mjlab",
+      "title": "GitHub - mujocolab/mjlab: Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.",
+      "description": "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research. - mujocolab/mjlab",
+      "author": "",
+      "about": {
+        "summary": "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research. - mujocolab/mjlab",
+        "key_concepts": [
+          "humanoid",
+          "llm",
+          "mujoco"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "reinforcement-learning",
+            "mujoco",
+            "robotics-simulation",
+            "isaaclab",
+            "mujoco-warp"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-03-08T15:36:35.725Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
