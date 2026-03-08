@@ -12,6 +12,12 @@ const fs = require('fs');
 const path = require('path');
 const { classifyLink } = require('./classifyLink');
 
+// Load classification overrides (links in here are always included)
+const _overridesPath = path.join(__dirname, 'classification-overrides.json');
+const _overrides = fs.existsSync(_overridesPath)
+  ? JSON.parse(fs.readFileSync(_overridesPath, 'utf-8'))
+  : {};
+
 // Research/Tech-related keywords for filtering
 const RESEARCH_KEYWORDS = [
   'robot', 'robotics', 'ai', 'artificial intelligence', 'machine learning',
@@ -39,12 +45,30 @@ const EXCLUDE_DOMAINS = [
 const UNRELATED_PATTERNS = /apartment|rent|housing|equity|paypal|discord\.gg|soundcloud|distrokid|tinder|beamjobs/i;
 
 // Check if link is research/tech-related
-function isResearchRelated(url, content) {
-  const text = `${content} ${url}`.toLowerCase();
-  const hasKeyword = RESEARCH_KEYWORDS.some(keyword => text.includes(keyword));
+function isResearchRelated(url, content, message) {
   const isExcluded = EXCLUDE_DOMAINS.some(domain => url.toLowerCase().includes(domain));
   if (UNRELATED_PATTERNS.test(url)) return false;
-  return hasKeyword && !isExcluded;
+  if (isExcluded) return false;
+
+  // Check raw text
+  const text = `${content} ${url}`.toLowerCase();
+  if (RESEARCH_KEYWORDS.some(keyword => text.includes(keyword))) return true;
+
+  // Check enrichment data (enriched links have metadata even if raw text is sparse)
+  const enriched = message && message.enriched;
+  if (enriched) {
+    const about = enriched.about || {};
+    if ((about.key_concepts || []).length > 0) return true;
+    if ((about.research_areas || []).length > 0) return true;
+    if ((about.technical_approaches || []).length > 0) return true;
+    const enrichedText = `${enriched.title || ''} ${enriched.description || ''}`.toLowerCase();
+    if (RESEARCH_KEYWORDS.some(keyword => enrichedText.includes(keyword))) return true;
+  }
+
+  // Check if link has a classification override (manually classified = always include)
+  if (_overrides[url]) return true;
+
+  return false;
 }
 
 // Extract title from content or URL
@@ -78,6 +102,14 @@ function extractTitle(content, url) {
 // Parse timestamp to ISO format
 function parseTimestamp(timestamp, index, lastKnownDate) {
   try {
+    // Already ISO format (from new enrichment entries)
+    if (timestamp && timestamp.match(/^\d{4}-\d{2}-\d{2}T/)) {
+      const date = new Date(timestamp);
+      if (!isNaN(date.getTime())) {
+        return { timestamp: date.toISOString(), lastKnownDate: date };
+      }
+    }
+
     const fullDateMatch = timestamp.match(/(\d{1,2})\/(\d{1,2})\/(\d{2,4}),?\s+(\d{1,2}):(\d{2})\s*(AM|PM)?/i);
     if (fullDateMatch) {
       let [, month, day, year, hour, minute, ampm] = fullDateMatch;
@@ -85,7 +117,8 @@ function parseTimestamp(timestamp, index, lastKnownDate) {
       hour = parseInt(hour);
       if (ampm && ampm.toUpperCase() === 'PM' && hour < 12) hour += 12;
       if (ampm && ampm.toUpperCase() === 'AM' && hour === 12) hour = 0;
-      const date = new Date(year, month - 1, day, hour, minute);
+      // Use UTC to avoid timezone issues (GitHub Actions runs in UTC)
+      const date = new Date(Date.UTC(year, month - 1, day, hour, minute));
       return { timestamp: date.toISOString(), lastKnownDate: date };
     }
 
@@ -96,7 +129,7 @@ function parseTimestamp(timestamp, index, lastKnownDate) {
       if (ampm && ampm.toUpperCase() === 'PM' && hour < 12) hour += 12;
       if (ampm && ampm.toUpperCase() === 'AM' && hour === 12) hour = 0;
       const date = new Date(lastKnownDate);
-      date.setHours(hour, parseInt(minute), 0, 0);
+      date.setUTCHours(hour, parseInt(minute), 0, 0);
       return { timestamp: date.toISOString(), lastKnownDate };
     }
   } catch {}
@@ -170,7 +203,7 @@ function processMessages() {
     if (!message.links || message.links.length === 0) continue;
 
     for (const url of message.links) {
-      if (!isResearchRelated(url, message.content)) continue;
+      if (!isResearchRelated(url, message.content, message)) continue;
 
       // Use enriched title if available, otherwise extract
       const enrichedTitle = message.enriched && message.enriched.title;

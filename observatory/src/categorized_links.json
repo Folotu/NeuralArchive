@@ -5061,6 +5061,34 @@
       "confidence": 0.87
     },
     {
+      "link": "https://x.com/breadli428/status/2015823794221232331?s=46&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2015823794221232331",
+      "description": "https://x.com/breadli428/status/2015823794221232331?s=46&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/breadli428/status/2015823794221232331?s=46&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T00:14:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
+    },
+    {
       "link": "https://x.com/rlwrld_ai/status/2016327860336918624?s=12&t=sFDG4kVvVEPX384CKeGa7A",
       "title": "2016327860336918624",
       "description": "https://x.com/rlwrld_ai/status/2016327860336918624?s=12&t=sFDG4kVvVEPX384CKeGa7A",
@@ -5194,6 +5222,34 @@
       "confidence": 0.57
     },
     {
+      "link": "https://x.com/kevin_zakka/status/2017333130689188347?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2017333130689188347",
+      "description": "https://x.com/kevin_zakka/status/2017333130689188347?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/kevin_zakka/status/2017333130689188347?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T00:34:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
+    },
+    {
       "link": "https://github.com/robotmcp/ros-mcp-server",
       "title": "GitHub - robotmcp/ros-mcp-server: Connect AI models like Claude &amp; GPT with robots using MCP and ROS.",
       "description": "GitHub - robotmcp/ros-mcp-server: Connect AI models like Claude &amp; GPT with robots using MCP and ROS.",
@@ -5222,6 +5278,41 @@
       },
       "significance": "exploratory",
       "confidence": 0.87
+    },
+    {
+      "link": "https://real2render2real.com/",
+      "title": "Real2Render2Real",
+      "description": "Real2Render2Real",
+      "content": "Real2Render2Real",
+      "timestamp": "2026-03-08T00:34:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "planning",
+          "robot-learning",
+          "sim-to-real"
+        ],
+        "topics": [
+          "sim-to-real",
+          "dexterous-manipulation",
+          "imitation-learning",
+          "teleoperation",
+          "motion-planning",
+          "trajectory-optimization",
+          "3d-vision"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     },
     {
       "link": "https://www.humanoidsdaily.com/",
@@ -5254,6 +5345,34 @@
       "confidence": 0.87
     },
     {
+      "link": "https://x.com/waymo/status/2019804616746029508?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2019804616746029508",
+      "description": "https://x.com/waymo/status/2019804616746029508?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/waymo/status/2019804616746029508?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T00:34:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
+    },
+    {
       "link": "https://arxiv.org/pdf/2208.00811",
       "title": "2208.00811",
       "description": "https://arxiv.org/pdf/2208.00811",
@@ -5278,6 +5397,34 @@
       },
       "significance": "medium",
       "confidence": 0.87
+    },
+    {
+      "link": "https://x.com/liu730chaoqi/status/2020268786046390357?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2020268786046390357",
+      "description": "https://x.com/liu730chaoqi/status/2020268786046390357?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/liu730chaoqi/status/2020268786046390357?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T00:34:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     },
     {
       "link": "https://dreamzero0.github.io/",
@@ -5337,6 +5484,34 @@
       },
       "significance": "medium",
       "confidence": 0.87
+    },
+    {
+      "link": "https://x.com/vittostack/status/2025576008703774983?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2025576008703774983",
+      "description": "https://x.com/vittostack/status/2025576008703774983?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/vittostack/status/2025576008703774983?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T00:34:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     },
     {
       "link": "https://www.hitem3d.ai/",
@@ -5455,6 +5630,138 @@
       "confidence": 0.88
     },
     {
+      "link": "https://m.youtube.com/watch",
+      "title": "YouTube",
+      "description": "YouTube",
+      "content": "YouTube",
+      "timestamp": "2026-03-08T14:08:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "video",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "control"
+        ],
+        "topics": [],
+        "sourcePlatform": "youtube"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
+    },
+    {
+      "link": "https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2030319979032170941",
+      "description": "https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/chris_j_paxton/status/2030319979032170941?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T14:09:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
+    },
+    {
+      "link": "https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2030291182656393655",
+      "description": "https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/mikekalilmfg/status/2030291182656393655?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T14:09:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
+    },
+    {
+      "link": "https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2030217301929132323",
+      "description": "https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/alexwg/status/2030217301929132323?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T14:09:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
+    },
+    {
+      "link": "https://geopavlakos.github.io/hamer/",
+      "title": "HaMeR",
+      "description": "HaMeR",
+      "content": "HaMeR",
+      "timestamp": "2026-03-08T14:09:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "transformer"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "exploratory",
+      "confidence": 0.4
+    },
+    {
       "link": "https://github.com/ThunderVVV/HaWoR",
       "title": "GitHub - ThunderVVV/HaWoR: HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos",
       "description": "GitHub - ThunderVVV/HaWoR: HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos",
@@ -5480,68 +5787,97 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://x.com/tom_doerr/status/2029948496518767037?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2029948496518767037",
+      "description": "https://x.com/tom_doerr/status/2029948496518767037?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/tom_doerr/status/2029948496518767037?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-08T14:50:00.000Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 66,
-      "article": 41,
+      "article": 43,
       "paper": 30,
       "company": 18,
+      "thread": 15,
       "tool": 13,
       "documentation": 8,
       "other-webpage": 8,
       "job": 6,
-      "thread": 6,
-      "video": 3,
+      "video": 4,
       "dataset": 3,
       "demo": 1
     },
     "researchAreas": {
       "generative-ai": 69,
       "embodied-ai": 40,
+      "manipulation": 37,
       "nlp": 30,
       "perception": 29,
       "robotics-infrastructure": 29,
-      "manipulation": 27,
-      "robot-learning": 26,
-      "control": 20,
+      "robot-learning": 27,
+      "control": 21,
       "locomotion": 16,
-      "planning": 10,
+      "planning": 11,
+      "sim-to-real": 9,
       "navigation": 8,
-      "sim-to-real": 8,
       "vision-language-action": 5,
       "world-models": 2,
       "multi-agent": 1
     },
     "topics": {
       "foundation-models": 61,
-      "llm": 46,
+      "llm": 55,
       "humanoids": 23,
+      "dexterous-manipulation": 18,
+      "transformer": 17,
       "computer-vision": 16,
-      "transformer": 16,
       "legged-locomotion": 14,
       "reinforcement-learning": 14,
+      "motion-planning": 13,
       "multimodal": 13,
-      "motion-planning": 12,
-      "imitation-learning": 11,
-      "3d-vision": 8,
-      "dexterous-manipulation": 8,
+      "imitation-learning": 12,
+      "impedance-control": 10,
+      "3d-vision": 9,
       "ros2": 6,
       "sim2real": 6,
       "grasping": 6,
+      "teleoperation": 5,
       "vla": 5,
       "benchmark": 5,
+      "sim-to-real": 5,
       "quadrupeds": 4,
+      "trajectory-optimization": 4,
       "dataset": 4,
       "slam": 4,
-      "teleoperation": 4,
       "scene-understanding": 4,
       "diffusion-policy": 4,
-      "sim-to-real": 4,
       "mapping": 3,
       "safety": 3,
-      "trajectory-optimization": 3,
       "mobile-robot": 3,
       "isaac-sim": 3,
       "mujoco": 3,
@@ -5552,19 +5888,18 @@
       "drone": 1,
       "depth-estimation": 1,
       "bimanual": 1,
-      "world-model": 1,
-      "impedance-control": 1
+      "world-model": 1
     },
     "sourcePlatform": {
-      "other": 70,
+      "other": 71,
       "github": 66,
-      "personal-blog": 18,
+      "personal-blog": 19,
       "company-site": 16,
+      "x-twitter": 15,
       "arxiv": 9,
       "docs-site": 6,
-      "x-twitter": 6,
       "job-board": 5,
-      "youtube": 3,
+      "youtube": 4,
       "research-blog": 3,
       "huggingface": 1
     }
