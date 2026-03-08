@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'observatory/**'
-      - 'categorized_links.json'
+      - 'scripts/**'
       - 'data/messages.json'
   workflow_dispatch:
 
