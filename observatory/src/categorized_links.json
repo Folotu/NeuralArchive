@@ -5842,6 +5842,34 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "https://x.com/zhoubolei/status/2031897424541958227?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2031897424541958227",
+      "description": "https://x.com/zhoubolei/status/2031897424541958227?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/zhoubolei/status/2031897424541958227?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-12T08:37:12.631Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
@@ -5850,7 +5878,7 @@
       "article": 43,
       "paper": 30,
       "company": 18,
-      "thread": 15,
+      "thread": 16,
       "tool": 13,
       "documentation": 8,
       "other-webpage": 8,
@@ -5862,7 +5890,7 @@
     "researchAreas": {
       "generative-ai": 69,
       "embodied-ai": 40,
-      "manipulation": 37,
+      "manipulation": 38,
       "nlp": 30,
       "perception": 29,
       "robotics-infrastructure": 29,
@@ -5878,9 +5906,9 @@
     },
     "topics": {
       "foundation-models": 61,
-      "llm": 56,
+      "llm": 57,
       "humanoids": 24,
-      "dexterous-manipulation": 18,
+      "dexterous-manipulation": 19,
       "transformer": 17,
       "computer-vision": 16,
       "reinforcement-learning": 15,
@@ -5888,7 +5916,7 @@
       "motion-planning": 13,
       "multimodal": 13,
       "imitation-learning": 12,
-      "impedance-control": 10,
+      "impedance-control": 11,
       "3d-vision": 9,
       "ros2": 6,
       "sim2real": 6,
@@ -5922,7 +5950,7 @@
       "github": 67,
       "personal-blog": 19,
       "company-site": 16,
-      "x-twitter": 15,
+      "x-twitter": 16,
       "arxiv": 9,
       "docs-site": 6,
       "job-board": 5,
