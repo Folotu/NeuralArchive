@@ -2827,5 +2827,37 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "TrustMRR",
+    "links": [
+      "https://trustmrr.com/"
+    ],
+    "timestamp": "2026-03-13T02:08:36.830Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://trustmrr.com/",
+      "title": "TrustMRR",
+      "description": "The transparent database of verified startup revenues. Prove your MRR with Stripe.",
+      "author": "",
+      "about": {
+        "summary": "The transparent database of verified startup revenues. Prove your MRR with Stripe.",
+        "key_concepts": [
+          "large language model",
+          "llm",
+          "pid"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "control"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-13T02:08:36.830Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

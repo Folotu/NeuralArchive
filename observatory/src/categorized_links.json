@@ -5897,6 +5897,34 @@
       },
       "significance": "medium",
       "confidence": 0.43
+    },
+    {
+      "link": "https://trustmrr.com/",
+      "title": "TrustMRR",
+      "description": "TrustMRR",
+      "content": "TrustMRR",
+      "timestamp": "2026-03-13T02:08:36.830Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [
+          "startup"
+        ],
+        "researchAreas": [
+          "control"
+        ],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.73
     }
   ],
   "facetIndex": {
@@ -5904,7 +5932,7 @@
       "repository": 67,
       "article": 43,
       "paper": 30,
-      "company": 19,
+      "company": 20,
       "thread": 16,
       "tool": 13,
       "documentation": 8,
@@ -5922,7 +5950,7 @@
       "perception": 29,
       "robotics-infrastructure": 29,
       "robot-learning": 27,
-      "control": 21,
+      "control": 22,
       "locomotion": 16,
       "planning": 11,
       "sim-to-real": 9,
@@ -5933,7 +5961,7 @@
     },
     "topics": {
       "foundation-models": 62,
-      "llm": 58,
+      "llm": 59,
       "humanoids": 24,
       "dexterous-manipulation": 19,
       "transformer": 17,
@@ -5973,7 +6001,7 @@
       "world-model": 1
     },
     "sourcePlatform": {
-      "other": 72,
+      "other": 73,
       "github": 67,
       "personal-blog": 19,
       "company-site": 16,
