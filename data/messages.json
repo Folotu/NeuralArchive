@@ -2795,5 +2795,37 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Startups.RIP - Dead YC Startups, Alive Ideas",
+    "links": [
+      "https://startups.rip/"
+    ],
+    "timestamp": "2026-03-13T02:08:18.528Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://startups.rip/",
+      "title": "Startups.RIP - Dead YC Startups, Alive Ideas",
+      "description": "Research reports, rebuild plans, and technical specs for 1,700+ dead YC startups. Find your next idea in the startup graveyard.",
+      "author": "Startups.RIP",
+      "about": {
+        "summary": "Research reports, rebuild plans, and technical specs for 1,700+ dead YC startups. Find your next idea in the startup graveyard.",
+        "key_concepts": [
+          "deep learning",
+          "neural network",
+          "foundation model",
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-13T02:08:18.528Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

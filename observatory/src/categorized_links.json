@@ -5870,6 +5870,33 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://startups.rip/",
+      "title": "Startups.RIP - Dead YC Startups, Alive Ideas",
+      "description": "Startups.RIP - Dead YC Startups, Alive Ideas",
+      "content": "Startups.RIP - Dead YC Startups, Alive Ideas",
+      "timestamp": "2026-03-13T02:08:18.528Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [
+          "startup"
+        ],
+        "researchAreas": [],
+        "topics": [
+          "foundation-models",
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "medium",
+      "confidence": 0.43
     }
   ],
   "facetIndex": {
@@ -5877,7 +5904,7 @@
       "repository": 67,
       "article": 43,
       "paper": 30,
-      "company": 18,
+      "company": 19,
       "thread": 16,
       "tool": 13,
       "documentation": 8,
@@ -5905,8 +5932,8 @@
       "multi-agent": 1
     },
     "topics": {
-      "foundation-models": 61,
-      "llm": 57,
+      "foundation-models": 62,
+      "llm": 58,
       "humanoids": 24,
       "dexterous-manipulation": 19,
       "transformer": 17,
@@ -5946,7 +5973,7 @@
       "world-model": 1
     },
     "sourcePlatform": {
-      "other": 71,
+      "other": 72,
       "github": 67,
       "personal-blog": 19,
       "company-site": 16,
