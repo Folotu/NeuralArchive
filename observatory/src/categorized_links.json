@@ -5925,12 +5925,45 @@
       },
       "significance": "exploratory",
       "confidence": 0.73
+    },
+    {
+      "link": "https://www.hapticlabs.ai/blog/2026/03/06/plenty-of-room-in-physical-ai-research",
+      "title": "There Is Plenty of Room (and Pain!) in Physical AI Research | Haptic Labs",
+      "description": "There Is Plenty of Room (and Pain!) in Physical AI Research | Haptic Labs",
+      "content": "There Is Plenty of Room (and Pain!) in Physical AI Research | Haptic Labs",
+      "timestamp": "2026-03-14T21:17:13.579Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "sim-to-real"
+        ],
+        "topics": [
+          "tactile-sensing",
+          "sim-to-real",
+          "dexterous-manipulation",
+          "foundation-models",
+          "quadrupeds",
+          "teleoperation"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 67,
-      "article": 43,
+      "article": 44,
       "paper": 30,
       "company": 20,
       "thread": 16,
@@ -5945,25 +5978,25 @@
     "researchAreas": {
       "generative-ai": 69,
       "embodied-ai": 40,
-      "manipulation": 38,
+      "manipulation": 39,
       "nlp": 30,
       "perception": 29,
       "robotics-infrastructure": 29,
       "robot-learning": 27,
       "control": 22,
-      "locomotion": 16,
+      "locomotion": 17,
       "planning": 11,
-      "sim-to-real": 9,
+      "sim-to-real": 10,
       "navigation": 8,
       "vision-language-action": 5,
       "world-models": 2,
       "multi-agent": 1
     },
     "topics": {
-      "foundation-models": 62,
+      "foundation-models": 63,
       "llm": 59,
       "humanoids": 24,
-      "dexterous-manipulation": 19,
+      "dexterous-manipulation": 20,
       "transformer": 17,
       "computer-vision": 16,
       "reinforcement-learning": 15,
@@ -5974,13 +6007,13 @@
       "impedance-control": 11,
       "3d-vision": 9,
       "ros2": 6,
+      "teleoperation": 6,
       "sim2real": 6,
       "grasping": 6,
-      "teleoperation": 5,
+      "sim-to-real": 6,
+      "quadrupeds": 5,
       "vla": 5,
       "benchmark": 5,
-      "sim-to-real": 5,
-      "quadrupeds": 4,
       "trajectory-optimization": 4,
       "dataset": 4,
       "slam": 4,
@@ -5998,10 +6031,11 @@
       "drone": 1,
       "depth-estimation": 1,
       "bimanual": 1,
-      "world-model": 1
+      "world-model": 1,
+      "tactile-sensing": 1
     },
     "sourcePlatform": {
-      "other": 73,
+      "other": 74,
       "github": 67,
       "personal-blog": 19,
       "company-site": 16,

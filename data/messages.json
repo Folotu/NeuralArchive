@@ -2859,5 +2859,47 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "There Is Plenty of Room (and Pain!) in Physical AI Research | Haptic Labs",
+    "links": [
+      "https://www.hapticlabs.ai/blog/2026/03/06/plenty-of-room-in-physical-ai-research"
+    ],
+    "timestamp": "2026-03-14T21:17:13.579Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://www.hapticlabs.ai/blog/2026/03/06/plenty-of-room-in-physical-ai-research",
+      "title": "There Is Plenty of Room (and Pain!) in Physical AI Research | Haptic Labs",
+      "description": "To inspire builders, here is a list of problems that keep coming up again and again in physical AI research papers.",
+      "author": "Haptic Labs",
+      "about": {
+        "summary": "To inspire builders, here is a list of problems that keep coming up again and again in physical AI research papers.",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "quadruped",
+          "teleoperation",
+          "haptic",
+          "foundation model",
+          "zero-shot",
+          "sim-to-real"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-14T21:17:13.578Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
