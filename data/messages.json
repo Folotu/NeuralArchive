@@ -2901,5 +2901,37 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "D4RT",
+    "links": [
+      "https://d4rt-paper.github.io/"
+    ],
+    "timestamp": "2026-03-15T04:19:47.381Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://d4rt-paper.github.io/",
+      "title": "D4RT",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "D4RT",
+        "key_concepts": [
+          "transformer",
+          "point cloud",
+          "3d reconstruction"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-15T04:19:47.381Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

@@ -5958,6 +5958,34 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://d4rt-paper.github.io/",
+      "title": "D4RT",
+      "description": "D4RT",
+      "content": "D4RT",
+      "timestamp": "2026-03-15T04:19:47.381Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "perception"
+        ],
+        "topics": [
+          "transformer",
+          "point-cloud",
+          "3d-vision"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "exploratory",
+      "confidence": 0.72
     }
   ],
   "facetIndex": {
@@ -5965,7 +5993,7 @@
       "repository": 67,
       "article": 44,
       "paper": 30,
-      "company": 20,
+      "company": 21,
       "thread": 16,
       "tool": 13,
       "documentation": 8,
@@ -5979,8 +6007,8 @@
       "generative-ai": 69,
       "embodied-ai": 40,
       "manipulation": 39,
+      "perception": 30,
       "nlp": 30,
-      "perception": 29,
       "robotics-infrastructure": 29,
       "robot-learning": 27,
       "control": 22,
@@ -5997,7 +6025,7 @@
       "llm": 59,
       "humanoids": 24,
       "dexterous-manipulation": 20,
-      "transformer": 17,
+      "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 15,
       "legged-locomotion": 14,
@@ -6005,7 +6033,7 @@
       "multimodal": 13,
       "imitation-learning": 12,
       "impedance-control": 11,
-      "3d-vision": 9,
+      "3d-vision": 10,
       "ros2": 6,
       "teleoperation": 6,
       "sim2real": 6,
@@ -6032,12 +6060,13 @@
       "depth-estimation": 1,
       "bimanual": 1,
       "world-model": 1,
-      "tactile-sensing": 1
+      "tactile-sensing": 1,
+      "point-cloud": 1
     },
     "sourcePlatform": {
       "other": 74,
       "github": 67,
-      "personal-blog": 19,
+      "personal-blog": 20,
       "company-site": 16,
       "x-twitter": 16,
       "arxiv": 9,
