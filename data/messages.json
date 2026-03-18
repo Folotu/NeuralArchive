@@ -2933,5 +2933,49 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "links": [
+      "https://github.com/666ghj/MiroFish"
+    ],
+    "timestamp": "2026-03-18T08:39:21.960Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/666ghj/MiroFish",
+      "title": "GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 - 666ghj/MiroFish",
+      "author": "",
+      "about": {
+        "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 - 666ghj/MiroFish",
+        "key_concepts": [
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "python3",
+            "knowledge-graph",
+            "swarm-intelligence",
+            "multi-agent-simulation",
+            "social-prediction",
+            "future-prediction",
+            "financial-forecasting",
+            "public-opinion-analysis"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-03-18T08:39:21.960Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

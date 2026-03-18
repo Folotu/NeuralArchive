@@ -5986,11 +5986,38 @@
       },
       "significance": "exploratory",
       "confidence": 0.72
+    },
+    {
+      "link": "https://github.com/666ghj/MiroFish",
+      "title": "GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "description": "GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "content": "GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "timestamp": "2026-03-18T08:39:21.960Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "multi-agent",
+          "embodied-ai"
+        ],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 67,
+      "repository": 68,
       "article": 44,
       "paper": 30,
       "company": 21,
@@ -6005,7 +6032,7 @@
     },
     "researchAreas": {
       "generative-ai": 69,
-      "embodied-ai": 40,
+      "embodied-ai": 41,
       "manipulation": 39,
       "perception": 30,
       "nlp": 30,
@@ -6017,12 +6044,12 @@
       "sim-to-real": 10,
       "navigation": 8,
       "vision-language-action": 5,
-      "world-models": 2,
-      "multi-agent": 1
+      "multi-agent": 2,
+      "world-models": 2
     },
     "topics": {
       "foundation-models": 63,
-      "llm": 59,
+      "llm": 60,
       "humanoids": 24,
       "dexterous-manipulation": 20,
       "transformer": 18,
@@ -6065,7 +6092,7 @@
     },
     "sourcePlatform": {
       "other": 74,
-      "github": 67,
+      "github": 68,
       "personal-blog": 20,
       "company-site": 16,
       "x-twitter": 16,
