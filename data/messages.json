@@ -2977,5 +2977,46 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GEN-0 - Generalist AI",
+    "links": [
+      "https://generalistai.com/blog/nov-04-2025-GEN-0"
+    ],
+    "timestamp": "2026-03-18T23:09:43.784Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+      "title": "GEN-0 - Generalist AI",
+      "description": "Embodied Foundation Models That Scale with Physical Interaction",
+      "author": "",
+      "about": {
+        "summary": "Embodied Foundation Models That Scale with Physical Interaction",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "humanoid",
+          "reinforcement learning",
+          "foundation model",
+          "llm",
+          "imitation learning",
+          "zero-shot"
+        ],
+        "research_areas": [
+          "embodied-ai",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-18T23:09:43.783Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

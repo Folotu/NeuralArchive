@@ -6013,12 +6013,45 @@
       },
       "significance": "exploratory",
       "confidence": 0.88
+    },
+    {
+      "link": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+      "title": "GEN-0 - Generalist AI",
+      "description": "GEN-0 - Generalist AI",
+      "content": "GEN-0 - Generalist AI",
+      "timestamp": "2026-03-18T23:09:43.784Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "embodied-ai",
+          "robot-learning"
+        ],
+        "topics": [
+          "foundation-models",
+          "dexterous-manipulation",
+          "reinforcement-learning",
+          "imitation-learning",
+          "humanoids",
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 68,
-      "article": 44,
+      "article": 45,
       "paper": 30,
       "company": 21,
       "thread": 16,
@@ -6032,12 +6065,12 @@
     },
     "researchAreas": {
       "generative-ai": 69,
-      "embodied-ai": 41,
-      "manipulation": 39,
+      "embodied-ai": 42,
+      "manipulation": 40,
       "perception": 30,
       "nlp": 30,
       "robotics-infrastructure": 29,
-      "robot-learning": 27,
+      "robot-learning": 28,
       "control": 22,
       "locomotion": 17,
       "planning": 11,
@@ -6048,17 +6081,17 @@
       "world-models": 2
     },
     "topics": {
-      "foundation-models": 63,
-      "llm": 60,
-      "humanoids": 24,
-      "dexterous-manipulation": 20,
+      "foundation-models": 64,
+      "llm": 61,
+      "humanoids": 25,
+      "dexterous-manipulation": 21,
       "transformer": 18,
       "computer-vision": 16,
-      "reinforcement-learning": 15,
+      "reinforcement-learning": 16,
       "legged-locomotion": 14,
       "motion-planning": 13,
       "multimodal": 13,
-      "imitation-learning": 12,
+      "imitation-learning": 13,
       "impedance-control": 11,
       "3d-vision": 10,
       "ros2": 6,
@@ -6091,7 +6124,7 @@
       "point-cloud": 1
     },
     "sourcePlatform": {
-      "other": 74,
+      "other": 75,
       "github": 68,
       "personal-blog": 20,
       "company-site": 16,
