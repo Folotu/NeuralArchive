@@ -3018,5 +3018,41 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "https://x.com/massiviola01/status/2034885267580997982?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+    "links": [
+      "https://x.com/massiviola01/status/2034885267580997982?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": "2026-03-21T20:21:29.260Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/massiviola01/status/2034885267580997982?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "",
+        "key_concepts": [
+          "manipulation",
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-21T20:21:29.260Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

@@ -6046,6 +6046,34 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://x.com/massiviola01/status/2034885267580997982?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2034885267580997982",
+      "description": "https://x.com/massiviola01/status/2034885267580997982?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/massiviola01/status/2034885267580997982?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-03-21T20:21:29.260Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
@@ -6054,7 +6082,7 @@
       "article": 45,
       "paper": 30,
       "company": 21,
-      "thread": 16,
+      "thread": 17,
       "tool": 13,
       "documentation": 8,
       "other-webpage": 8,
@@ -6066,7 +6094,7 @@
     "researchAreas": {
       "generative-ai": 69,
       "embodied-ai": 42,
-      "manipulation": 40,
+      "manipulation": 41,
       "perception": 30,
       "nlp": 30,
       "robotics-infrastructure": 29,
@@ -6082,9 +6110,9 @@
     },
     "topics": {
       "foundation-models": 64,
-      "llm": 61,
+      "llm": 62,
       "humanoids": 25,
-      "dexterous-manipulation": 21,
+      "dexterous-manipulation": 22,
       "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 16,
@@ -6092,7 +6120,7 @@
       "motion-planning": 13,
       "multimodal": 13,
       "imitation-learning": 13,
-      "impedance-control": 11,
+      "impedance-control": 12,
       "3d-vision": 10,
       "ros2": 6,
       "teleoperation": 6,
@@ -6127,8 +6155,8 @@
       "other": 75,
       "github": 68,
       "personal-blog": 20,
+      "x-twitter": 17,
       "company-site": 16,
-      "x-twitter": 16,
       "arxiv": 9,
       "docs-site": 6,
       "job-board": 5,
