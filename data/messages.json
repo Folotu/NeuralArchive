@@ -3120,5 +3120,50 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+    "links": [
+      "https://github.com/nv-tlabs/kimodo"
+    ],
+    "timestamp": "2026-03-27T16:18:30.149Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/nv-tlabs/kimodo",
+      "title": "GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation. - nv-tlabs/kimodo",
+      "author": "",
+      "about": {
+        "summary": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation. - nv-tlabs/kimodo",
+        "key_concepts": [
+          "humanoid",
+          "end-effector",
+          "trajectory",
+          "diffusion model",
+          "foundation model",
+          "llm",
+          "segmentation",
+          "nerf",
+          "mujoco"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation"
+        ],
+        "significance": "high",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-03-27T16:18:30.149Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

@@ -6129,11 +6129,48 @@
       },
       "significance": "high",
       "confidence": 0.72
+    },
+    {
+      "link": "https://github.com/nv-tlabs/kimodo",
+      "title": "GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "description": "GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "content": "GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "timestamp": "2026-03-27T16:18:30.149Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [
+          "model-repo"
+        ],
+        "researchAreas": [
+          "generative-ai",
+          "perception",
+          "planning"
+        ],
+        "topics": [
+          "diffusion-policy",
+          "foundation-models",
+          "humanoids",
+          "mujoco",
+          "llm",
+          "nerf",
+          "motion-planning",
+          "trajectory-optimization"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "high",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 68,
+      "repository": 69,
       "article": 46,
       "paper": 30,
       "company": 22,
@@ -6147,16 +6184,16 @@
       "demo": 1
     },
     "researchAreas": {
-      "generative-ai": 69,
+      "generative-ai": 70,
       "embodied-ai": 42,
       "manipulation": 42,
-      "perception": 31,
+      "perception": 32,
       "nlp": 30,
       "robotics-infrastructure": 29,
       "robot-learning": 29,
       "control": 22,
       "locomotion": 17,
-      "planning": 11,
+      "planning": 12,
       "sim-to-real": 10,
       "navigation": 9,
       "vision-language-action": 5,
@@ -6164,16 +6201,16 @@
       "world-models": 2
     },
     "topics": {
-      "foundation-models": 64,
-      "llm": 62,
-      "humanoids": 25,
+      "foundation-models": 65,
+      "llm": 63,
+      "humanoids": 26,
       "dexterous-manipulation": 23,
       "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 16,
+      "motion-planning": 14,
       "legged-locomotion": 14,
       "imitation-learning": 14,
-      "motion-planning": 13,
       "multimodal": 13,
       "impedance-control": 12,
       "3d-vision": 10,
@@ -6183,14 +6220,14 @@
       "grasping": 6,
       "sim-to-real": 6,
       "quadrupeds": 5,
+      "trajectory-optimization": 5,
       "slam": 5,
       "vla": 5,
       "benchmark": 5,
-      "trajectory-optimization": 4,
+      "diffusion-policy": 5,
+      "mujoco": 5,
       "dataset": 4,
       "scene-understanding": 4,
-      "diffusion-policy": 4,
-      "mujoco": 4,
       "mapping": 3,
       "safety": 3,
       "mobile-robot": 3,
@@ -6204,11 +6241,12 @@
       "depth-estimation": 1,
       "bimanual": 1,
       "world-model": 1,
-      "tactile-sensing": 1
+      "tactile-sensing": 1,
+      "nerf": 1
     },
     "sourcePlatform": {
       "other": 76,
-      "github": 68,
+      "github": 69,
       "personal-blog": 21,
       "x-twitter": 17,
       "company-site": 16,
