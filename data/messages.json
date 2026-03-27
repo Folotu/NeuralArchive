@@ -3078,5 +3078,47 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "DexCap | Scalable and Portable Mocap Data Collection System for Dexterous Manipulation",
+    "links": [
+      "https://dex-cap.github.io/"
+    ],
+    "timestamp": "2026-03-27T16:18:03.477Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://dex-cap.github.io/",
+      "title": "DexCap | Scalable and Portable Mocap Data Collection System for Dexterous Manipulation",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "DexCap | Scalable and Portable Mocap Data Collection System for Dexterous Manipulation",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "end-effector",
+          "inverse kinematics",
+          "teleoperation",
+          "imitation learning",
+          "slam",
+          "point cloud"
+        ],
+        "research_areas": [
+          "manipulation",
+          "navigation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-27T16:18:03.476Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
