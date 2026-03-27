@@ -3054,5 +3054,29 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "The Construct - Where Your Robotics Career Happens",
+    "links": [
+      "https://app.theconstruct.ai/courses/mujoco-simulator-basics-for-robotics-397/"
+    ],
+    "timestamp": "2026-03-27T00:16:57.585Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://app.theconstruct.ai/courses/mujoco-simulator-basics-for-robotics-397/",
+      "title": "The Construct - Where Your Robotics Career Happens",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "The Construct - Where Your Robotics Career Happens",
+        "key_concepts": [],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-27T00:16:57.584Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

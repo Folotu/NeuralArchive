@@ -6074,12 +6074,34 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://app.theconstruct.ai/courses/mujoco-simulator-basics-for-robotics-397/",
+      "title": "The Construct - Where Your Robotics Career Happens",
+      "description": "The Construct - Where Your Robotics Career Happens",
+      "content": "The Construct - Where Your Robotics Career Happens",
+      "timestamp": "2026-03-27T00:16:57.585Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.11
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 68,
-      "article": 45,
+      "article": 46,
       "paper": 30,
       "company": 21,
       "thread": 17,
@@ -6152,7 +6174,7 @@
       "point-cloud": 1
     },
     "sourcePlatform": {
-      "other": 75,
+      "other": 76,
       "github": 68,
       "personal-blog": 20,
       "x-twitter": 17,
