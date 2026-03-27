@@ -3165,5 +3165,41 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Embodied Reasoning in Action (ERA): Workshop and Challenge on Embodied Reasoning for Robotic Manipulation",
+    "links": [
+      "https://embodied-reasoning.github.io/"
+    ],
+    "timestamp": "2026-03-27T16:39:22.734Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://embodied-reasoning.github.io/",
+      "title": "Embodied Reasoning in Action (ERA): Workshop and Challenge on Embodied Reasoning for Robotic Manipulation",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Embodied Reasoning in Action (ERA): Workshop and Challenge on Embodied Reasoning for Robotic Manipulation",
+        "key_concepts": [
+          "manipulation",
+          "foundation model",
+          "llm"
+        ],
+        "research_areas": [
+          "embodied-ai",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-03-27T16:39:22.733Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

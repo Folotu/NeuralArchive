@@ -6166,6 +6166,35 @@
       },
       "significance": "high",
       "confidence": 0.88
+    },
+    {
+      "link": "https://embodied-reasoning.github.io/",
+      "title": "Embodied Reasoning in Action (ERA): Workshop and Challenge on Embodied Reasoning for Robotic Manipulation",
+      "description": "Embodied Reasoning in Action (ERA): Workshop and Challenge on Embodied Reasoning for Robotic Manipulation",
+      "content": "Embodied Reasoning in Action (ERA): Workshop and Challenge on Embodied Reasoning for Robotic Manipulation",
+      "timestamp": "2026-03-27T16:39:22.734Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "embodied-ai"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "foundation-models",
+          "llm"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.72
     }
   ],
   "facetIndex": {
@@ -6173,7 +6202,7 @@
       "repository": 69,
       "article": 46,
       "paper": 30,
-      "company": 22,
+      "company": 23,
       "thread": 17,
       "tool": 13,
       "documentation": 8,
@@ -6185,8 +6214,8 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "embodied-ai": 42,
-      "manipulation": 42,
+      "embodied-ai": 43,
+      "manipulation": 43,
       "perception": 32,
       "nlp": 30,
       "robotics-infrastructure": 29,
@@ -6201,10 +6230,10 @@
       "world-models": 2
     },
     "topics": {
-      "foundation-models": 65,
-      "llm": 63,
+      "foundation-models": 66,
+      "llm": 64,
       "humanoids": 26,
-      "dexterous-manipulation": 23,
+      "dexterous-manipulation": 24,
       "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 16,
@@ -6247,7 +6276,7 @@
     "sourcePlatform": {
       "other": 76,
       "github": 69,
-      "personal-blog": 21,
+      "personal-blog": 22,
       "x-twitter": 17,
       "company-site": 16,
       "arxiv": 9,
