@@ -6223,12 +6223,38 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://research.nvidia.com/labs/gear/egoscale/",
+      "title": "EgoScale",
+      "description": "EgoScale",
+      "content": "EgoScale",
+      "timestamp": "2026-04-06T01:53:58.161Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation"
+        ],
+        "sourcePlatform": "research-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 69,
-      "article": 46,
+      "article": 47,
       "paper": 30,
       "company": 23,
       "thread": 18,
@@ -6242,7 +6268,7 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 44,
+      "manipulation": 45,
       "embodied-ai": 43,
       "perception": 32,
       "nlp": 30,
@@ -6261,7 +6287,7 @@
       "foundation-models": 66,
       "llm": 65,
       "humanoids": 26,
-      "dexterous-manipulation": 25,
+      "dexterous-manipulation": 26,
       "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 16,
@@ -6311,7 +6337,7 @@
       "docs-site": 6,
       "job-board": 5,
       "youtube": 4,
-      "research-blog": 3,
+      "research-blog": 4,
       "huggingface": 1
     }
   }
