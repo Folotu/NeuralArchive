@@ -6249,11 +6249,39 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://github.com/farzaa/clicky",
+      "title": "GitHub - farzaa/clicky",
+      "description": "GitHub - farzaa/clicky",
+      "content": "GitHub - farzaa/clicky",
+      "timestamp": "2026-04-09T00:32:32.308Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [
+          "tooling"
+        ],
+        "researchAreas": [
+          "control"
+        ],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 69,
+      "repository": 70,
       "article": 47,
       "paper": 30,
       "company": 23,
@@ -6274,7 +6302,7 @@
       "nlp": 30,
       "robotics-infrastructure": 29,
       "robot-learning": 29,
-      "control": 22,
+      "control": 23,
       "locomotion": 17,
       "planning": 12,
       "sim-to-real": 10,
@@ -6284,8 +6312,8 @@
       "world-models": 2
     },
     "topics": {
+      "llm": 66,
       "foundation-models": 66,
-      "llm": 65,
       "humanoids": 26,
       "dexterous-manipulation": 26,
       "transformer": 18,
@@ -6329,7 +6357,7 @@
     },
     "sourcePlatform": {
       "other": 76,
-      "github": 69,
+      "github": 70,
       "personal-blog": 22,
       "x-twitter": 18,
       "company-site": 16,
