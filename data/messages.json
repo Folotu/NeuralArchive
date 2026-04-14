@@ -3306,5 +3306,28 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "https://gestureplatforms.com/",
+    "links": [
+      "https://gestureplatforms.com/"
+    ],
+    "timestamp": "2026-04-14T08:36:29.934Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://gestureplatforms.com/",
+      "title": "",
+      "description": "",
+      "about": {
+        "summary": "",
+        "key_concepts": []
+      },
+      "metadata": {
+        "enriched_at": "2026-04-14T08:36:29.934Z",
+        "enrichment_version": "1.0",
+        "quality": "failed",
+        "error": "HTTP 403"
+      }
+    }
   }
 ]
