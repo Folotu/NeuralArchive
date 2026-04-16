@@ -3329,5 +3329,51 @@
         "error": "HTTP 403"
       }
     }
+  },
+  {
+    "content": "GitHub - dimensionalOS/dimos: Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+    "links": [
+      "https://github.com/dimensionalOS/dimos"
+    ],
+    "timestamp": "2026-04-16T01:08:16.222Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/dimensionalOS/dimos",
+      "title": "GitHub - dimensionalOS/dimos: Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+      "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seam...",
+      "author": "",
+      "about": {
+        "summary": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seam...",
+        "key_concepts": [
+          "manipulation",
+          "humanoid",
+          "quadruped",
+          "llm",
+          "slam",
+          "mujoco"
+        ],
+        "research_areas": [
+          "embodied-ai",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation"
+        ],
+        "significance": "high",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-04-16T01:08:16.222Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

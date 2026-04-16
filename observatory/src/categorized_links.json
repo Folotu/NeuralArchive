@@ -6277,11 +6277,45 @@
       },
       "significance": "exploratory",
       "confidence": 0.88
+    },
+    {
+      "link": "https://github.com/dimensionalOS/dimos",
+      "title": "GitHub - dimensionalOS/dimos: Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+      "description": "GitHub - dimensionalOS/dimos: Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-a...",
+      "content": "GitHub - dimensionalOS/dimos: Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+      "timestamp": "2026-04-16T01:08:16.222Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "embodied-ai",
+          "locomotion",
+          "navigation"
+        ],
+        "topics": [
+          "humanoids",
+          "quadrupeds",
+          "dexterous-manipulation",
+          "slam",
+          "mujoco",
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "high",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 70,
+      "repository": 71,
       "article": 47,
       "paper": 30,
       "company": 23,
@@ -6296,26 +6330,26 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 45,
-      "embodied-ai": 43,
+      "manipulation": 46,
+      "embodied-ai": 44,
       "perception": 32,
       "nlp": 30,
       "robotics-infrastructure": 29,
       "robot-learning": 29,
       "control": 23,
-      "locomotion": 17,
+      "locomotion": 18,
       "planning": 12,
+      "navigation": 10,
       "sim-to-real": 10,
-      "navigation": 9,
       "vision-language-action": 5,
       "multi-agent": 2,
       "world-models": 2
     },
     "topics": {
-      "llm": 66,
+      "llm": 67,
       "foundation-models": 66,
-      "humanoids": 26,
-      "dexterous-manipulation": 26,
+      "humanoids": 27,
+      "dexterous-manipulation": 27,
       "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 16,
@@ -6326,17 +6360,17 @@
       "impedance-control": 13,
       "3d-vision": 10,
       "teleoperation": 7,
+      "quadrupeds": 6,
       "ros2": 6,
+      "slam": 6,
       "sim2real": 6,
       "grasping": 6,
+      "mujoco": 6,
       "sim-to-real": 6,
-      "quadrupeds": 5,
       "trajectory-optimization": 5,
-      "slam": 5,
       "vla": 5,
       "benchmark": 5,
       "diffusion-policy": 5,
-      "mujoco": 5,
       "dataset": 4,
       "scene-understanding": 4,
       "mapping": 3,
@@ -6357,7 +6391,7 @@
     },
     "sourcePlatform": {
       "other": 76,
-      "github": 70,
+      "github": 71,
       "personal-blog": 22,
       "x-twitter": 18,
       "company-site": 16,
