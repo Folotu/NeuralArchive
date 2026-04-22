@@ -3424,5 +3424,32 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Blueprint.am - AI Hardware Design Tool",
+    "links": [
+      "https://www.blueprint.am/"
+    ],
+    "timestamp": "2026-04-22T05:04:20.913Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://www.blueprint.am/",
+      "title": "Blueprint.am - AI Hardware Design Tool",
+      "description": "Blueprint.am — design hardware projects with AI. Generate wiring diagrams, bills of materials, and step-by-step assembly guides from a single prompt.",
+      "author": "3E8 Robotics",
+      "about": {
+        "summary": "Blueprint.am — design hardware projects with AI. Generate wiring diagrams, bills of materials, and step-by-step assembly guides from a single prompt.",
+        "key_concepts": [],
+        "research_areas": [
+          "manipulation"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-04-22T05:04:20.912Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

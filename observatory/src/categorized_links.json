@@ -6339,12 +6339,38 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://www.blueprint.am/",
+      "title": "Blueprint.am - AI Hardware Design Tool",
+      "description": "Blueprint.am - AI Hardware Design Tool",
+      "content": "Blueprint.am - AI Hardware Design Tool",
+      "timestamp": "2026-04-22T05:04:20.913Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [
+          "tutorial"
+        ],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.45
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 72,
-      "article": 47,
+      "article": 48,
       "paper": 30,
       "company": 23,
       "thread": 18,
@@ -6358,7 +6384,7 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 46,
+      "manipulation": 47,
       "embodied-ai": 45,
       "perception": 32,
       "nlp": 30,
@@ -6418,7 +6444,7 @@
       "nerf": 1
     },
     "sourcePlatform": {
-      "other": 76,
+      "other": 77,
       "github": 72,
       "personal-blog": 22,
       "x-twitter": 18,
