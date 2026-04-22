@@ -3451,5 +3451,39 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "VLA Foundry - Vision-Language-Action Model Training Framework",
+    "links": [
+      "https://tri-ml.github.io/vla_foundry/"
+    ],
+    "timestamp": "2026-04-22T05:43:26.254Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://tri-ml.github.io/vla_foundry/",
+      "title": "VLA Foundry - Vision-Language-Action Model Training Framework",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "VLA Foundry - Vision-Language-Action Model Training Framework",
+        "key_concepts": [
+          "manipulation",
+          "llm"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-04-22T05:43:26.253Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

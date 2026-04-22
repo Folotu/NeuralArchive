@@ -6365,12 +6365,39 @@
       },
       "significance": "exploratory",
       "confidence": 0.45
+    },
+    {
+      "link": "https://tri-ml.github.io/vla_foundry/",
+      "title": "VLA Foundry - Vision-Language-Action Model Training Framework",
+      "description": "VLA Foundry - Vision-Language-Action Model Training Framework",
+      "content": "VLA Foundry - Vision-Language-Action Model Training Framework",
+      "timestamp": "2026-04-22T05:43:26.254Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 72,
-      "article": 48,
+      "article": 49,
       "paper": 30,
       "company": 23,
       "thread": 18,
@@ -6384,7 +6411,7 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 47,
+      "manipulation": 48,
       "embodied-ai": 45,
       "perception": 32,
       "nlp": 30,
@@ -6400,10 +6427,10 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 68,
+      "llm": 69,
       "foundation-models": 66,
+      "dexterous-manipulation": 28,
       "humanoids": 27,
-      "dexterous-manipulation": 27,
       "transformer": 18,
       "computer-vision": 16,
       "reinforcement-learning": 16,
@@ -6446,7 +6473,7 @@
     "sourcePlatform": {
       "other": 77,
       "github": 72,
-      "personal-blog": 22,
+      "personal-blog": 23,
       "x-twitter": 18,
       "company-site": 16,
       "arxiv": 9,
