@@ -3375,5 +3375,54 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - hex/claude-council: Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives",
+    "links": [
+      "https://github.com/hex/claude-council"
+    ],
+    "timestamp": "2026-04-22T05:00:18.286Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/hex/claude-council",
+      "title": "GitHub - hex/claude-council: Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives",
+      "description": "Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives - hex/claude-council",
+      "author": "",
+      "about": {
+        "summary": "Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives - hex/claude-council",
+        "key_concepts": [
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "embodied-ai"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "multi-agent",
+            "gemini",
+            "openai",
+            "grok",
+            "ai-agents",
+            "llm",
+            "claude-code",
+            "claude-code-plugin"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-04-22T05:00:18.285Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

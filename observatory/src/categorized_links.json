@@ -6311,11 +6311,39 @@
       },
       "significance": "high",
       "confidence": 0.88
+    },
+    {
+      "link": "https://github.com/hex/claude-council",
+      "title": "GitHub - hex/claude-council: Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives",
+      "description": "GitHub - hex/claude-council: Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives",
+      "content": "GitHub - hex/claude-council: Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives",
+      "timestamp": "2026-04-22T05:00:18.286Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "embodied-ai",
+          "multi-agent"
+        ],
+        "topics": [
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 71,
+      "repository": 72,
       "article": 47,
       "paper": 30,
       "company": 23,
@@ -6331,7 +6359,7 @@
     "researchAreas": {
       "generative-ai": 70,
       "manipulation": 46,
-      "embodied-ai": 44,
+      "embodied-ai": 45,
       "perception": 32,
       "nlp": 30,
       "robotics-infrastructure": 29,
@@ -6342,11 +6370,11 @@
       "navigation": 10,
       "sim-to-real": 10,
       "vision-language-action": 5,
-      "multi-agent": 2,
+      "multi-agent": 3,
       "world-models": 2
     },
     "topics": {
-      "llm": 67,
+      "llm": 68,
       "foundation-models": 66,
       "humanoids": 27,
       "dexterous-manipulation": 27,
@@ -6356,8 +6384,8 @@
       "motion-planning": 14,
       "legged-locomotion": 14,
       "imitation-learning": 14,
+      "impedance-control": 14,
       "multimodal": 13,
-      "impedance-control": 13,
       "3d-vision": 10,
       "teleoperation": 7,
       "quadrupeds": 6,
@@ -6391,7 +6419,7 @@
     },
     "sourcePlatform": {
       "other": 76,
-      "github": 71,
+      "github": 72,
       "personal-blog": 22,
       "x-twitter": 18,
       "company-site": 16,
