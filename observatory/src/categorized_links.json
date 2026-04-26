@@ -6452,11 +6452,42 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/newton-physics/newton",
+      "title": "GitHub - newton-physics/newton: An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "description": "GitHub - newton-physics/newton: An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "content": "GitHub - newton-physics/newton: An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "timestamp": "2026-04-26T22:17:17.742Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [
+          "simulator"
+        ],
+        "researchAreas": [
+          "locomotion",
+          "control"
+        ],
+        "topics": [
+          "quadrupeds",
+          "mujoco",
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 72,
+      "repository": 73,
       "article": 51,
       "paper": 30,
       "company": 23,
@@ -6477,8 +6508,8 @@
       "robot-learning": 31,
       "nlp": 30,
       "robotics-infrastructure": 29,
-      "control": 24,
-      "locomotion": 18,
+      "control": 25,
+      "locomotion": 19,
       "planning": 13,
       "sim-to-real": 11,
       "navigation": 10,
@@ -6487,7 +6518,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 70,
+      "llm": 71,
       "foundation-models": 66,
       "dexterous-manipulation": 28,
       "humanoids": 27,
@@ -6500,15 +6531,15 @@
       "impedance-control": 14,
       "multimodal": 13,
       "3d-vision": 10,
+      "quadrupeds": 7,
       "teleoperation": 7,
+      "mujoco": 7,
       "sim-to-real": 7,
-      "quadrupeds": 6,
       "ros2": 6,
       "trajectory-optimization": 6,
       "slam": 6,
       "sim2real": 6,
       "grasping": 6,
-      "mujoco": 6,
       "vla": 5,
       "benchmark": 5,
       "diffusion-policy": 5,
@@ -6532,7 +6563,7 @@
     },
     "sourcePlatform": {
       "other": 78,
-      "github": 72,
+      "github": 73,
       "personal-blog": 24,
       "x-twitter": 18,
       "company-site": 16,

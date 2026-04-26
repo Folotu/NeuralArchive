@@ -3554,5 +3554,55 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - newton-physics/newton: An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+    "links": [
+      "https://github.com/newton-physics/newton"
+    ],
+    "timestamp": "2026-04-26T22:17:17.742Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/newton-physics/newton",
+      "title": "GitHub - newton-physics/newton: An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. - newton-physics/newton",
+      "author": "",
+      "about": {
+        "summary": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. - newton-physics/newton",
+        "key_concepts": [
+          "quadruped",
+          "inverse kinematics",
+          "llm",
+          "mujoco",
+          "pid"
+        ],
+        "research_areas": [
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "robotics",
+            "physics-simulation",
+            "nvidia-warp",
+            "newton-physics"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-04-26T22:17:17.741Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
