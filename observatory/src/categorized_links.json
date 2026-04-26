@@ -6392,12 +6392,40 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://lifelongagent.github.io/",
+      "title": "ICLR 2026 Workshop - Lifelong Agents: Learning, Aligning, Evolving",
+      "description": "ICLR 2026 Workshop - Lifelong Agents: Learning, Aligning, Evolving",
+      "content": "ICLR 2026 Workshop - Lifelong Agents: Learning, Aligning, Evolving",
+      "timestamp": "2026-04-26T21:00:13.650Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "embodied-ai",
+          "robot-learning"
+        ],
+        "topics": [
+          "reinforcement-learning",
+          "llm"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.75
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 72,
-      "article": 49,
+      "article": 50,
       "paper": 30,
       "company": 23,
       "thread": 18,
@@ -6412,11 +6440,11 @@
     "researchAreas": {
       "generative-ai": 70,
       "manipulation": 48,
-      "embodied-ai": 45,
+      "embodied-ai": 46,
       "perception": 32,
       "nlp": 30,
+      "robot-learning": 30,
       "robotics-infrastructure": 29,
-      "robot-learning": 29,
       "control": 23,
       "locomotion": 18,
       "planning": 12,
@@ -6427,13 +6455,13 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 69,
+      "llm": 70,
       "foundation-models": 66,
       "dexterous-manipulation": 28,
       "humanoids": 27,
       "transformer": 18,
+      "reinforcement-learning": 17,
       "computer-vision": 16,
-      "reinforcement-learning": 16,
       "motion-planning": 14,
       "legged-locomotion": 14,
       "imitation-learning": 14,
@@ -6473,7 +6501,7 @@
     "sourcePlatform": {
       "other": 77,
       "github": 72,
-      "personal-blog": 23,
+      "personal-blog": 24,
       "x-twitter": 18,
       "company-site": 16,
       "arxiv": 9,

@@ -3485,5 +3485,39 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "ICLR 2026 Workshop - Lifelong Agents: Learning, Aligning, Evolving",
+    "links": [
+      "https://lifelongagent.github.io/"
+    ],
+    "timestamp": "2026-04-26T21:00:13.650Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://lifelongagent.github.io/",
+      "title": "ICLR 2026 Workshop - Lifelong Agents: Learning, Aligning, Evolving",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "ICLR 2026 Workshop - Lifelong Agents: Learning, Aligning, Evolving",
+        "key_concepts": [
+          "reinforcement learning",
+          "large language model",
+          "llm"
+        ],
+        "research_areas": [
+          "embodied-ai"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-04-26T21:00:13.650Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
