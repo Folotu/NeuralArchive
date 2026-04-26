@@ -6420,12 +6420,44 @@
       },
       "significance": "medium",
       "confidence": 0.75
+    },
+    {
+      "link": "https://ace.ai.sony/",
+      "title": "Ace Research Project | Sony AI",
+      "description": "Ace Research Project | Sony AI",
+      "content": "Ace Research Project | Sony AI",
+      "timestamp": "2026-04-26T21:39:08.350Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "planning",
+          "control",
+          "robot-learning",
+          "sim-to-real"
+        ],
+        "topics": [
+          "sim-to-real",
+          "reinforcement-learning",
+          "motion-planning",
+          "trajectory-optimization"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "medium",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 72,
-      "article": 50,
+      "article": 51,
       "paper": 30,
       "company": 23,
       "thread": 18,
@@ -6442,14 +6474,14 @@
       "manipulation": 48,
       "embodied-ai": 46,
       "perception": 32,
+      "robot-learning": 31,
       "nlp": 30,
-      "robot-learning": 30,
       "robotics-infrastructure": 29,
-      "control": 23,
+      "control": 24,
       "locomotion": 18,
-      "planning": 12,
+      "planning": 13,
+      "sim-to-real": 11,
       "navigation": 10,
-      "sim-to-real": 10,
       "vision-language-action": 5,
       "multi-agent": 3,
       "world-models": 2
@@ -6460,23 +6492,23 @@
       "dexterous-manipulation": 28,
       "humanoids": 27,
       "transformer": 18,
-      "reinforcement-learning": 17,
+      "reinforcement-learning": 18,
       "computer-vision": 16,
-      "motion-planning": 14,
+      "motion-planning": 15,
       "legged-locomotion": 14,
       "imitation-learning": 14,
       "impedance-control": 14,
       "multimodal": 13,
       "3d-vision": 10,
       "teleoperation": 7,
+      "sim-to-real": 7,
       "quadrupeds": 6,
       "ros2": 6,
+      "trajectory-optimization": 6,
       "slam": 6,
       "sim2real": 6,
       "grasping": 6,
       "mujoco": 6,
-      "sim-to-real": 6,
-      "trajectory-optimization": 5,
       "vla": 5,
       "benchmark": 5,
       "diffusion-policy": 5,
@@ -6499,7 +6531,7 @@
       "nerf": 1
     },
     "sourcePlatform": {
-      "other": 77,
+      "other": 78,
       "github": 72,
       "personal-blog": 24,
       "x-twitter": 18,

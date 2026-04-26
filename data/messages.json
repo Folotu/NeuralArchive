@@ -3519,5 +3519,40 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Ace Research Project | Sony AI",
+    "links": [
+      "https://ace.ai.sony/"
+    ],
+    "timestamp": "2026-04-26T21:39:08.350Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://ace.ai.sony/",
+      "title": "Ace Research Project | Sony AI",
+      "description": "Sony AI",
+      "author": "",
+      "about": {
+        "summary": "Sony AI",
+        "key_concepts": [
+          "trajectory",
+          "reinforcement learning",
+          "sim2real",
+          "pid"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-04-26T21:39:08.350Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
