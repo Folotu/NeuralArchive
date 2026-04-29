@@ -6483,12 +6483,38 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://www.3ds.com/products/catia/3dexperience-catia?woc=%7B%22platform%22%3A%5B%22platform%2Fpublic%20cloud%22%5D%2C%22discipline%22%3A%5B%22discipline%2Fengineering%22%5D%7D",
+      "title": "3DEXPERIENCE CATIA",
+      "description": "3DEXPERIENCE CATIA",
+      "content": "3DEXPERIENCE CATIA",
+      "timestamp": "2026-04-29T01:06:21.469Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "control"
+        ],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 73,
-      "article": 51,
+      "article": 52,
       "paper": 30,
       "company": 23,
       "thread": 18,
@@ -6508,7 +6534,7 @@
       "robot-learning": 31,
       "nlp": 30,
       "robotics-infrastructure": 29,
-      "control": 25,
+      "control": 26,
       "locomotion": 19,
       "planning": 13,
       "sim-to-real": 11,
@@ -6518,7 +6544,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 71,
+      "llm": 72,
       "foundation-models": 66,
       "dexterous-manipulation": 28,
       "humanoids": 27,
@@ -6562,7 +6588,7 @@
       "nerf": 1
     },
     "sourcePlatform": {
-      "other": 78,
+      "other": 79,
       "github": 73,
       "personal-blog": 24,
       "x-twitter": 18,
