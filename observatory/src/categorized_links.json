@@ -6561,12 +6561,39 @@
       },
       "significance": "exploratory",
       "confidence": 0.4
+    },
+    {
+      "link": "https://tnkr.ai/explore",
+      "title": "Explore",
+      "description": "Explore",
+      "content": "Explore",
+      "timestamp": "2026-05-03T22:25:30.699Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "locomotion"
+        ],
+        "topics": [
+          "humanoids",
+          "quadrupeds"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "medium",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 73,
-      "article": 53,
+      "article": 54,
       "paper": 30,
       "company": 23,
       "thread": 19,
@@ -6587,7 +6614,7 @@
       "nlp": 30,
       "robotics-infrastructure": 29,
       "control": 26,
-      "locomotion": 19,
+      "locomotion": 20,
       "planning": 13,
       "sim-to-real": 11,
       "navigation": 10,
@@ -6598,8 +6625,8 @@
     "topics": {
       "llm": 73,
       "foundation-models": 66,
+      "humanoids": 29,
       "dexterous-manipulation": 29,
-      "humanoids": 28,
       "transformer": 18,
       "reinforcement-learning": 18,
       "computer-vision": 16,
@@ -6609,7 +6636,7 @@
       "imitation-learning": 14,
       "multimodal": 13,
       "3d-vision": 10,
-      "quadrupeds": 7,
+      "quadrupeds": 8,
       "teleoperation": 7,
       "mujoco": 7,
       "sim-to-real": 7,
@@ -6640,7 +6667,7 @@
       "nerf": 1
     },
     "sourcePlatform": {
-      "other": 80,
+      "other": 81,
       "github": 73,
       "personal-blog": 24,
       "x-twitter": 19,
