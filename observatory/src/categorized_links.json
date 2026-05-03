@@ -6537,12 +6537,36 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://studio.ultimatebots.com/connect?next=%2F",
+      "title": "UFB Studio",
+      "description": "UFB Studio",
+      "content": "UFB Studio",
+      "timestamp": "2026-05-03T21:37:06.792Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "humanoids"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.4
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 73,
-      "article": 52,
+      "article": 53,
       "paper": 30,
       "company": 23,
       "thread": 19,
@@ -6575,7 +6599,7 @@
       "llm": 73,
       "foundation-models": 66,
       "dexterous-manipulation": 29,
-      "humanoids": 27,
+      "humanoids": 28,
       "transformer": 18,
       "reinforcement-learning": 18,
       "computer-vision": 16,
@@ -6616,7 +6640,7 @@
       "nerf": 1
     },
     "sourcePlatform": {
-      "other": 79,
+      "other": 80,
       "github": 73,
       "personal-blog": 24,
       "x-twitter": 19,

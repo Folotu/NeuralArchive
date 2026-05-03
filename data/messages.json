@@ -3671,5 +3671,34 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "UFB Studio",
+    "links": [
+      "https://studio.ultimatebots.com/connect?next=%2F"
+    ],
+    "timestamp": "2026-05-03T21:37:06.792Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://studio.ultimatebots.com/connect?next=%2F",
+      "title": "UFB Studio",
+      "description": "Humanoid motion capture and simulation editor.",
+      "author": "",
+      "about": {
+        "summary": "Humanoid motion capture and simulation editor.",
+        "key_concepts": [
+          "humanoid"
+        ],
+        "technical_approaches": [
+          "robotics"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-03T21:37:06.792Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
