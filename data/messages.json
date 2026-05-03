@@ -3635,5 +3635,41 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "https://x.com/willccbb/status/2050038277454143918?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+    "links": [
+      "https://x.com/willccbb/status/2050038277454143918?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": "2026-05-03T21:15:37.870Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/willccbb/status/2050038277454143918?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "",
+        "key_concepts": [
+          "manipulation",
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-03T21:15:37.870Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

@@ -6509,6 +6509,34 @@
       },
       "significance": "exploratory",
       "confidence": 0.7
+    },
+    {
+      "link": "https://x.com/willccbb/status/2050038277454143918?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "2050038277454143918",
+      "description": "https://x.com/willccbb/status/2050038277454143918?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "content": "https://x.com/willccbb/status/2050038277454143918?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "timestamp": "2026-05-03T21:15:37.870Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
@@ -6517,7 +6545,7 @@
       "article": 52,
       "paper": 30,
       "company": 23,
-      "thread": 18,
+      "thread": 19,
       "tool": 13,
       "documentation": 8,
       "other-webpage": 8,
@@ -6528,7 +6556,7 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 48,
+      "manipulation": 49,
       "embodied-ai": 46,
       "perception": 32,
       "robot-learning": 31,
@@ -6544,17 +6572,17 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 72,
+      "llm": 73,
       "foundation-models": 66,
-      "dexterous-manipulation": 28,
+      "dexterous-manipulation": 29,
       "humanoids": 27,
       "transformer": 18,
       "reinforcement-learning": 18,
       "computer-vision": 16,
       "motion-planning": 15,
+      "impedance-control": 15,
       "legged-locomotion": 14,
       "imitation-learning": 14,
-      "impedance-control": 14,
       "multimodal": 13,
       "3d-vision": 10,
       "quadrupeds": 7,
@@ -6591,7 +6619,7 @@
       "other": 79,
       "github": 73,
       "personal-blog": 24,
-      "x-twitter": 18,
+      "x-twitter": 19,
       "company-site": 16,
       "arxiv": 9,
       "docs-site": 6,
