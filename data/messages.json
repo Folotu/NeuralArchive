@@ -3775,5 +3775,47 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GitHub - NVlabs/DEXTRAH: DEXTRAH",
+    "links": [
+      "https://github.com/NVlabs/DEXTRAH"
+    ],
+    "timestamp": "2026-05-04T22:59:46.181Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/NVlabs/DEXTRAH",
+      "title": "GitHub - NVlabs/DEXTRAH: DEXTRAH",
+      "description": "DEXTRAH. Contribute to NVlabs/DEXTRAH development by creating an account on GitHub.",
+      "author": "",
+      "about": {
+        "summary": "DEXTRAH. Contribute to NVlabs/DEXTRAH development by creating an account on GitHub.",
+        "key_concepts": [
+          "grasping",
+          "llm"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "nvidia-warp"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-05-04T22:59:46.181Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

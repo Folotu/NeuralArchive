@@ -6614,11 +6614,38 @@
       },
       "significance": "exploratory",
       "confidence": 0.88
+    },
+    {
+      "link": "https://github.com/NVlabs/DEXTRAH",
+      "title": "GitHub - NVlabs/DEXTRAH: DEXTRAH",
+      "description": "GitHub - NVlabs/DEXTRAH: DEXTRAH",
+      "content": "GitHub - NVlabs/DEXTRAH: DEXTRAH",
+      "timestamp": "2026-05-04T22:59:46.181Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [
+          "grasping",
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 74,
+      "repository": 75,
       "article": 54,
       "paper": 30,
       "company": 23,
@@ -6633,7 +6660,7 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 49,
+      "manipulation": 50,
       "embodied-ai": 46,
       "perception": 32,
       "robot-learning": 31,
@@ -6649,7 +6676,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 74,
+      "llm": 75,
       "foundation-models": 66,
       "humanoids": 29,
       "dexterous-manipulation": 29,
@@ -6664,13 +6691,13 @@
       "3d-vision": 10,
       "quadrupeds": 8,
       "teleoperation": 7,
+      "grasping": 7,
       "mujoco": 7,
       "sim-to-real": 7,
       "ros2": 6,
       "trajectory-optimization": 6,
       "slam": 6,
       "sim2real": 6,
-      "grasping": 6,
       "vla": 5,
       "benchmark": 5,
       "diffusion-policy": 5,
@@ -6694,7 +6721,7 @@
     },
     "sourcePlatform": {
       "other": 81,
-      "github": 74,
+      "github": 75,
       "personal-blog": 24,
       "x-twitter": 19,
       "company-site": 16,
