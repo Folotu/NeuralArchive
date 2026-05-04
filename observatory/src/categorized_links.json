@@ -6588,11 +6588,37 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/NVlabs/ScheduleStream",
+      "title": "GitHub - NVlabs/ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling",
+      "description": "GitHub - NVlabs/ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling",
+      "content": "GitHub - NVlabs/ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling",
+      "timestamp": "2026-05-04T22:59:21.354Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "multi-agent"
+        ],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 73,
+      "repository": 74,
       "article": 54,
       "paper": 30,
       "company": 23,
@@ -6619,11 +6645,11 @@
       "sim-to-real": 11,
       "navigation": 10,
       "vision-language-action": 5,
-      "multi-agent": 3,
+      "multi-agent": 4,
       "world-models": 2
     },
     "topics": {
-      "llm": 73,
+      "llm": 74,
       "foundation-models": 66,
       "humanoids": 29,
       "dexterous-manipulation": 29,
@@ -6668,7 +6694,7 @@
     },
     "sourcePlatform": {
       "other": 81,
-      "github": 73,
+      "github": 74,
       "personal-blog": 24,
       "x-twitter": 19,
       "company-site": 16,

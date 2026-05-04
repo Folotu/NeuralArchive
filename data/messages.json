@@ -3733,5 +3733,47 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GitHub - NVlabs/ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling",
+    "links": [
+      "https://github.com/NVlabs/ScheduleStream"
+    ],
+    "timestamp": "2026-05-04T22:59:21.354Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/NVlabs/ScheduleStream",
+      "title": "GitHub - NVlabs/ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling",
+      "description": "Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling - NVlabs/ScheduleStream",
+      "author": "",
+      "about": {
+        "summary": "Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning &amp; Scheduling - NVlabs/ScheduleStream",
+        "key_concepts": [
+          "inverse kinematics",
+          "llm"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "nvidia",
+            "task-and-motion-planning",
+            "gpu-accelerated",
+            "multi-robot-planning"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-05-04T22:59:21.354Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
