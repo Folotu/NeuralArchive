@@ -6641,12 +6641,34 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://sonyresearch.github.io/ace_public/",
+      "title": "Ace Supplementary Material",
+      "description": "Ace Supplementary Material",
+      "content": "Ace Supplementary Material",
+      "timestamp": "2026-05-05T00:31:19.134Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "exploratory",
+      "confidence": 0.11
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 75,
-      "article": 54,
+      "article": 55,
       "paper": 30,
       "company": 23,
       "thread": 19,
@@ -6722,7 +6744,7 @@
     "sourcePlatform": {
       "other": 81,
       "github": 75,
-      "personal-blog": 24,
+      "personal-blog": 25,
       "x-twitter": 19,
       "company-site": 16,
       "arxiv": 9,

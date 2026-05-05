@@ -3817,5 +3817,29 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Ace Supplementary Material",
+    "links": [
+      "https://sonyresearch.github.io/ace_public/"
+    ],
+    "timestamp": "2026-05-05T00:31:19.134Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://sonyresearch.github.io/ace_public/",
+      "title": "Ace Supplementary Material",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Ace Supplementary Material",
+        "key_concepts": [],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-05T00:31:19.134Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
