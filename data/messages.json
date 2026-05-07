@@ -3841,5 +3841,49 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GENE-26.5: Advancing Robotic Manipulation to Human Level",
+    "links": [
+      "https://genesis-ai-git-development-genesis-ai-4207f595.vercel.app/blog/gene-26-5-advancing-robotic-manipulation-to-human-level"
+    ],
+    "timestamp": "2026-05-07T07:42:03.604Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://genesis-ai-git-development-genesis-ai-4207f595.vercel.app/blog/gene-26-5-advancing-robotic-manipulation-to-human-level",
+      "title": "GENE-26.5: Advancing Robotic Manipulation to Human Level",
+      "description": "We are a new generation of robotics builders, united by a shared mission to push the boundaries of physical AI.",
+      "author": "",
+      "about": {
+        "summary": "We are a new generation of robotics builders, united by a shared mission to push the boundaries of physical AI.",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "grasping",
+          "locomotion",
+          "teleoperation",
+          "force control",
+          "reinforcement learning",
+          "foundation model",
+          "zero-shot",
+          "pid"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-07T07:42:03.604Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

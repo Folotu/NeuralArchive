@@ -6663,12 +6663,47 @@
       },
       "significance": "exploratory",
       "confidence": 0.11
+    },
+    {
+      "link": "https://genesis-ai-git-development-genesis-ai-4207f595.vercel.app/blog/gene-26-5-advancing-robotic-manipulation-to-human-level",
+      "title": "GENE-26.5: Advancing Robotic Manipulation to Human Level",
+      "description": "GENE-26.5: Advancing Robotic Manipulation to Human Level",
+      "content": "GENE-26.5: Advancing Robotic Manipulation to Human Level",
+      "timestamp": "2026-05-07T07:42:03.604Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "control",
+          "robot-learning"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "reinforcement-learning",
+          "foundation-models",
+          "grasping",
+          "teleoperation",
+          "force-control",
+          "legged-locomotion"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 75,
-      "article": 55,
+      "article": 56,
       "paper": 30,
       "company": 23,
       "thread": 19,
@@ -6682,14 +6717,14 @@
     },
     "researchAreas": {
       "generative-ai": 70,
-      "manipulation": 50,
+      "manipulation": 51,
       "embodied-ai": 46,
       "perception": 32,
-      "robot-learning": 31,
+      "robot-learning": 32,
       "nlp": 30,
       "robotics-infrastructure": 29,
-      "control": 26,
-      "locomotion": 20,
+      "control": 27,
+      "locomotion": 21,
       "planning": 13,
       "sim-to-real": 11,
       "navigation": 10,
@@ -6699,21 +6734,21 @@
     },
     "topics": {
       "llm": 75,
-      "foundation-models": 66,
+      "foundation-models": 67,
+      "dexterous-manipulation": 30,
       "humanoids": 29,
-      "dexterous-manipulation": 29,
+      "reinforcement-learning": 19,
       "transformer": 18,
-      "reinforcement-learning": 18,
       "computer-vision": 16,
       "motion-planning": 15,
+      "legged-locomotion": 15,
       "impedance-control": 15,
-      "legged-locomotion": 14,
       "imitation-learning": 14,
       "multimodal": 13,
       "3d-vision": 10,
       "quadrupeds": 8,
-      "teleoperation": 7,
-      "grasping": 7,
+      "teleoperation": 8,
+      "grasping": 8,
       "mujoco": 7,
       "sim-to-real": 7,
       "ros2": 6,
@@ -6739,10 +6774,11 @@
       "bimanual": 1,
       "world-model": 1,
       "tactile-sensing": 1,
-      "nerf": 1
+      "nerf": 1,
+      "force-control": 1
     },
     "sourcePlatform": {
-      "other": 81,
+      "other": 82,
       "github": 75,
       "personal-blog": 25,
       "x-twitter": 19,
