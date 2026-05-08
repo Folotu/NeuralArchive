@@ -3918,5 +3918,41 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Latency-Aware Vision-Language-Action Models (VLAs) with System Identification for Real-Time Robot Control | Blog | Chef Robotics",
+    "links": [
+      "https://www.chefrobotics.ai/post/latency-aware-vision-language-action-models-vlas-with-system-identification-for-real-time-robot-control"
+    ],
+    "timestamp": "2026-05-08T08:45:58.482Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://www.chefrobotics.ai/post/latency-aware-vision-language-action-models-vlas-with-system-identification-for-real-time-robot-control",
+      "title": "Latency-Aware Vision-Language-Action Models (VLAs) with System Identification for Real-Time Robot Control | Blog | Chef Robotics",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Latency-Aware Vision-Language-Action Models (VLAs) with System Identification for Real-Time Robot Control | Blog | Chef Robotics",
+        "key_concepts": [
+          "manipulation",
+          "trajectory",
+          "pid",
+          "compliance"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-08T08:45:58.482Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
