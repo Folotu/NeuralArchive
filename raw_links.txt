@@ -1,0 +1,2 @@
+9C5CA8C2-366F-41FA-B1D0-91E6A31BE8AC
+https://www.chefrobotics.ai/post/latency-aware-vision-language-action-models-vlas-with-system-identification-for-real-time-robot-control
