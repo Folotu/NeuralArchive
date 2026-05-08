@@ -6698,12 +6698,40 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://www.tensortonic.com/",
+      "title": "TensorTonic | Learn ML through Code",
+      "description": "TensorTonic | Learn ML through Code",
+      "content": "TensorTonic | Learn ML through Code",
+      "timestamp": "2026-05-08T08:24:49.115Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "generative-ai"
+        ],
+        "topics": [
+          "transformer",
+          "diffusion-policy",
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "medium",
+      "confidence": 0.75
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 75,
-      "article": 56,
+      "article": 57,
       "paper": 30,
       "company": 23,
       "thread": 19,
@@ -6716,7 +6744,7 @@
       "demo": 1
     },
     "researchAreas": {
-      "generative-ai": 70,
+      "generative-ai": 71,
       "manipulation": 51,
       "embodied-ai": 46,
       "perception": 32,
@@ -6733,12 +6761,12 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 75,
+      "llm": 76,
       "foundation-models": 67,
       "dexterous-manipulation": 30,
       "humanoids": 29,
+      "transformer": 19,
       "reinforcement-learning": 19,
-      "transformer": 18,
       "computer-vision": 16,
       "motion-planning": 15,
       "legged-locomotion": 15,
@@ -6755,9 +6783,9 @@
       "trajectory-optimization": 6,
       "slam": 6,
       "sim2real": 6,
+      "diffusion-policy": 6,
       "vla": 5,
       "benchmark": 5,
-      "diffusion-policy": 5,
       "dataset": 4,
       "scene-understanding": 4,
       "mapping": 3,
@@ -6778,7 +6806,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 82,
+      "other": 83,
       "github": 75,
       "personal-blog": 25,
       "x-twitter": 19,
