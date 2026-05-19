@@ -3954,5 +3954,54 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - can1357/oh-my-pi: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "links": [
+      "https://github.com/can1357/oh-my-pi"
+    ],
+    "timestamp": "2026-05-19T08:30:37.750Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/can1357/oh-my-pi",
+      "title": "GitHub - can1357/oh-my-pi: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more - can1357/oh-my-pi",
+      "author": "",
+      "about": {
+        "summary": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more - can1357/oh-my-pi",
+        "key_concepts": [
+          "llm",
+          "segmentation"
+        ],
+        "research_areas": [
+          "embodied-ai"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": "",
+          "topics": [
+            "rust",
+            "cli",
+            "typescript",
+            "terminal",
+            "mcp",
+            "tui",
+            "openai",
+            "bun"
+          ]
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-05-19T08:30:37.750Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

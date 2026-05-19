@@ -6757,11 +6757,40 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/can1357/oh-my-pi",
+      "title": "GitHub - can1357/oh-my-pi: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "GitHub - can1357/oh-my-pi: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "content": "GitHub - can1357/oh-my-pi: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "timestamp": "2026-05-19T08:30:37.750Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [
+          "tooling"
+        ],
+        "researchAreas": [
+          "embodied-ai",
+          "perception"
+        ],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 75,
+      "repository": 76,
       "article": 58,
       "paper": 30,
       "company": 23,
@@ -6777,8 +6806,8 @@
     "researchAreas": {
       "generative-ai": 71,
       "manipulation": 52,
-      "embodied-ai": 46,
-      "perception": 32,
+      "embodied-ai": 47,
+      "perception": 33,
       "robot-learning": 32,
       "nlp": 30,
       "robotics-infrastructure": 29,
@@ -6792,7 +6821,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 76,
+      "llm": 77,
       "foundation-models": 67,
       "dexterous-manipulation": 31,
       "humanoids": 29,
@@ -6838,7 +6867,7 @@
     },
     "sourcePlatform": {
       "other": 84,
-      "github": 75,
+      "github": 76,
       "personal-blog": 25,
       "x-twitter": 19,
       "company-site": 16,
