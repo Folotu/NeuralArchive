@@ -4003,5 +4003,38 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "How to Land a Frontier Lab Job",
+    "links": [
+      "https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html"
+    ],
+    "timestamp": "2026-05-20T04:08:24.773Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html",
+      "title": "How to Land a Frontier Lab Job",
+      "description": "How to Land a Frontier Lab Job",
+      "author": "Vlad Feinberg",
+      "about": {
+        "summary": "How to Land a Frontier Lab Job",
+        "key_concepts": [
+          "neural network",
+          "transformer",
+          "llm",
+          "pid"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-20T04:08:24.773Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
