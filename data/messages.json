@@ -4078,5 +4078,39 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - neilsonnn/image-blaster: An image-to-world skillset for Claude.",
+    "links": [
+      "https://github.com/neilsonnn/image-blaster"
+    ],
+    "timestamp": "2026-05-21T08:06:30.169Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "title": "GitHub - neilsonnn/image-blaster: An image-to-world skillset for Claude.",
+      "description": "An image-to-world skillset for Claude. Contribute to neilsonnn/image-blaster development by creating an account on GitHub.",
+      "author": "",
+      "about": {
+        "summary": "An image-to-world skillset for Claude. Contribute to neilsonnn/image-blaster development by creating an account on GitHub.",
+        "key_concepts": [
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-05-21T08:06:30.169Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
