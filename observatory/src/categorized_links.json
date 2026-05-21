@@ -6815,6 +6815,39 @@
       },
       "significance": "medium",
       "confidence": 0.75
+    },
+    {
+      "link": "https://d2l.ai/",
+      "title": "Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.3 documentation",
+      "description": "Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.3 documentation",
+      "content": "Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.3 documentation",
+      "timestamp": "2026-05-21T07:13:21.129Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "navigation",
+          "perception",
+          "robot-learning"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "reinforcement-learning",
+          "slam",
+          "transformer",
+          "object-detection"
+        ],
+        "sourcePlatform": "company-site"
+      },
+      "significance": "high",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
@@ -6822,7 +6855,7 @@
       "repository": 76,
       "article": 59,
       "paper": 30,
-      "company": 23,
+      "company": 24,
       "thread": 19,
       "tool": 13,
       "documentation": 8,
@@ -6834,17 +6867,17 @@
     },
     "researchAreas": {
       "generative-ai": 71,
-      "manipulation": 52,
+      "manipulation": 53,
       "embodied-ai": 47,
-      "perception": 33,
-      "robot-learning": 32,
+      "perception": 34,
+      "robot-learning": 33,
       "nlp": 30,
       "control": 29,
       "robotics-infrastructure": 29,
       "locomotion": 21,
       "planning": 14,
+      "navigation": 11,
       "sim-to-real": 11,
-      "navigation": 10,
       "vision-language-action": 5,
       "multi-agent": 4,
       "world-models": 2
@@ -6852,10 +6885,10 @@
     "topics": {
       "llm": 78,
       "foundation-models": 67,
-      "dexterous-manipulation": 31,
+      "dexterous-manipulation": 32,
       "humanoids": 29,
-      "transformer": 20,
-      "reinforcement-learning": 19,
+      "transformer": 21,
+      "reinforcement-learning": 20,
       "computer-vision": 16,
       "motion-planning": 16,
       "impedance-control": 16,
@@ -6867,10 +6900,10 @@
       "teleoperation": 8,
       "grasping": 8,
       "trajectory-optimization": 7,
+      "slam": 7,
       "mujoco": 7,
       "sim-to-real": 7,
       "ros2": 6,
-      "slam": 6,
       "sim2real": 6,
       "diffusion-policy": 6,
       "vla": 5,
@@ -6880,8 +6913,8 @@
       "mapping": 3,
       "safety": 3,
       "mobile-robot": 3,
+      "object-detection": 3,
       "isaac-sim": 3,
-      "object-detection": 2,
       "behavior-cloning": 2,
       "pose-estimation": 2,
       "point-cloud": 2,
@@ -6899,7 +6932,7 @@
       "github": 76,
       "personal-blog": 25,
       "x-twitter": 19,
-      "company-site": 16,
+      "company-site": 17,
       "arxiv": 9,
       "docs-site": 6,
       "job-board": 5,

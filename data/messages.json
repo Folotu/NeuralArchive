@@ -4036,5 +4036,47 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.3 documentation",
+    "links": [
+      "https://d2l.ai/"
+    ],
+    "timestamp": "2026-05-21T07:13:21.129Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://d2l.ai/",
+      "title": "Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.3 documentation",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.3 documentation",
+        "key_concepts": [
+          "manipulation",
+          "reinforcement learning",
+          "deep learning",
+          "neural network",
+          "transformer",
+          "object detection",
+          "segmentation",
+          "slam"
+        ],
+        "research_areas": [
+          "manipulation",
+          "navigation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-05-21T07:13:21.128Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
