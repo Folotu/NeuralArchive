@@ -6872,6 +6872,33 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "https://awslabs.github.io/awsome-distributed-ai/",
+      "title": "Awsome-Distributed Deep Dives by the AWS Frameworks Team",
+      "description": "Awsome-Distributed Deep Dives by the AWS Frameworks Team",
+      "content": "Awsome-Distributed Deep Dives by the AWS Frameworks Team",
+      "timestamp": "2026-06-04T22:21:50.184Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "robot-learning"
+        ],
+        "topics": [
+          "reinforcement-learning",
+          "foundation-models"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "exploratory",
+      "confidence": 0.73
     }
   ],
   "facetIndex": {
@@ -6879,7 +6906,7 @@
       "repository": 77,
       "article": 59,
       "paper": 30,
-      "company": 24,
+      "company": 25,
       "thread": 19,
       "tool": 13,
       "documentation": 8,
@@ -6894,7 +6921,7 @@
       "manipulation": 53,
       "embodied-ai": 47,
       "perception": 34,
-      "robot-learning": 33,
+      "robot-learning": 34,
       "nlp": 30,
       "control": 29,
       "robotics-infrastructure": 29,
@@ -6908,11 +6935,11 @@
     },
     "topics": {
       "llm": 79,
-      "foundation-models": 67,
+      "foundation-models": 68,
       "dexterous-manipulation": 32,
       "humanoids": 29,
       "transformer": 21,
-      "reinforcement-learning": 20,
+      "reinforcement-learning": 21,
       "computer-vision": 16,
       "motion-planning": 16,
       "impedance-control": 16,
@@ -6954,7 +6981,7 @@
     "sourcePlatform": {
       "other": 85,
       "github": 77,
-      "personal-blog": 25,
+      "personal-blog": 26,
       "x-twitter": 19,
       "company-site": 17,
       "arxiv": 9,

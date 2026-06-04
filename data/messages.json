@@ -4112,5 +4112,35 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Awsome-Distributed Deep Dives by the AWS Frameworks Team",
+    "links": [
+      "https://awslabs.github.io/awsome-distributed-ai/"
+    ],
+    "timestamp": "2026-06-04T22:21:50.184Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://awslabs.github.io/awsome-distributed-ai/",
+      "title": "Awsome-Distributed Deep Dives by the AWS Frameworks Team",
+      "description": "Posts about distributed ML training on AWS. The companion code lives on main.",
+      "author": "",
+      "about": {
+        "summary": "Posts about distributed ML training on AWS. The companion code lives on main.",
+        "key_concepts": [
+          "reinforcement learning",
+          "foundation model"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-04T22:21:50.184Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
