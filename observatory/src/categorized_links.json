@@ -6899,12 +6899,47 @@
       },
       "significance": "exploratory",
       "confidence": 0.73
+    },
+    {
+      "link": "https://cvg.ethz.ch/lectures/Robot-Learning/",
+      "title": "Computer Vision and Geometry Group | Robot Learning",
+      "description": "Computer Vision and Geometry Group | Robot Learning",
+      "content": "Computer Vision and Geometry Group | Robot Learning",
+      "timestamp": "2026-06-12T02:00:59.578Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "robot-learning"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "reinforcement-learning",
+          "foundation-models",
+          "humanoids",
+          "grasping",
+          "transformer",
+          "llm",
+          "legged-locomotion"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.75
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 77,
-      "article": 59,
+      "article": 60,
       "paper": 30,
       "company": 25,
       "thread": 19,
@@ -6918,14 +6953,14 @@
     },
     "researchAreas": {
       "generative-ai": 71,
-      "manipulation": 53,
+      "manipulation": 54,
       "embodied-ai": 47,
+      "robot-learning": 35,
       "perception": 34,
-      "robot-learning": 34,
       "nlp": 30,
       "control": 29,
       "robotics-infrastructure": 29,
-      "locomotion": 21,
+      "locomotion": 22,
       "planning": 14,
       "navigation": 11,
       "sim-to-real": 11,
@@ -6934,22 +6969,22 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 79,
-      "foundation-models": 68,
-      "dexterous-manipulation": 32,
-      "humanoids": 29,
-      "transformer": 21,
-      "reinforcement-learning": 21,
+      "llm": 80,
+      "foundation-models": 69,
+      "dexterous-manipulation": 33,
+      "humanoids": 30,
+      "transformer": 22,
+      "reinforcement-learning": 22,
       "computer-vision": 16,
       "motion-planning": 16,
+      "legged-locomotion": 16,
       "impedance-control": 16,
-      "legged-locomotion": 15,
       "imitation-learning": 14,
       "multimodal": 13,
       "3d-vision": 10,
+      "grasping": 9,
       "quadrupeds": 8,
       "teleoperation": 8,
-      "grasping": 8,
       "trajectory-optimization": 7,
       "slam": 7,
       "mujoco": 7,
@@ -6979,7 +7014,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 85,
+      "other": 86,
       "github": 77,
       "personal-blog": 26,
       "x-twitter": 19,

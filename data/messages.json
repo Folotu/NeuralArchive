@@ -4142,5 +4142,48 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Computer Vision and Geometry Group | Robot Learning",
+    "links": [
+      "https://cvg.ethz.ch/lectures/Robot-Learning/"
+    ],
+    "timestamp": "2026-06-12T02:00:59.578Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://cvg.ethz.ch/lectures/Robot-Learning/",
+      "title": "Computer Vision and Geometry Group | Robot Learning",
+      "description": "Welcome to the website of the ETH Computer Vision and Geometry group. The CVG group is part of the Institute for Visual Computing (IVC).",
+      "author": "",
+      "about": {
+        "summary": "Welcome to the website of the ETH Computer Vision and Geometry group. The CVG group is part of the Institute for Visual Computing (IVC).",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "grasping",
+          "locomotion",
+          "humanoid",
+          "reinforcement learning",
+          "transformer",
+          "foundation model",
+          "llm",
+          "policy learning"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-12T02:00:59.578Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
