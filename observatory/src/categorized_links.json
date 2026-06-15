@@ -7027,12 +7027,34 @@
       },
       "significance": "exploratory",
       "confidence": 0.7
+    },
+    {
+      "link": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
+      "title": "Interlatent — RL Platform for Physical AI",
+      "description": "Interlatent — RL Platform for Physical AI",
+      "content": "Interlatent — RL Platform for Physical AI",
+      "timestamp": "2026-06-15T23:12:46.477Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.11
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 77,
-      "article": 63,
+      "article": 64,
       "paper": 30,
       "company": 25,
       "thread": 19,
@@ -7107,7 +7129,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 88,
+      "other": 89,
       "github": 77,
       "personal-blog": 27,
       "x-twitter": 19,

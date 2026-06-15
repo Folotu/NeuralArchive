@@ -4302,5 +4302,29 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Interlatent — RL Platform for Physical AI",
+    "links": [
+      "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles"
+    ],
+    "timestamp": "2026-06-15T23:12:46.477Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
+      "title": "Interlatent — RL Platform for Physical AI",
+      "description": "Capture every rollout, score what happened, and retrain on the parts that matter.",
+      "author": "",
+      "about": {
+        "summary": "Capture every rollout, score what happened, and retrain on the parts that matter.",
+        "key_concepts": [],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-15T23:12:46.477Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
