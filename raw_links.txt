@@ -1,2 +1,0 @@
-092EF0BE-C432-42C7-A66C-E049EE29CF40
-https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/

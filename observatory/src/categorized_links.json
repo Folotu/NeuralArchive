@@ -6966,12 +6966,47 @@
       },
       "significance": "high",
       "confidence": 0.75
+    },
+    {
+      "link": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "title": "Pretrained to Imagine, Fine&#x2d;Tuned to Act: The Rise of World&#x2d;Action Models | NVIDIA Technical Blog",
+      "description": "Pretrained to Imagine, Fine&#x2d;Tuned to Act: The Rise of World&#x2d;Action Models | NVIDIA Technical Blog",
+      "content": "Pretrained to Imagine, Fine&#x2d;Tuned to Act: The Rise of World&#x2d;Action Models | NVIDIA Technical Blog",
+      "timestamp": "2026-06-15T17:52:31.275Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "planning",
+          "generative-ai"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "diffusion-policy",
+          "foundation-models",
+          "humanoids",
+          "transformer",
+          "llm",
+          "motion-planning",
+          "trajectory-optimization"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 77,
-      "article": 61,
+      "article": 62,
       "paper": 30,
       "company": 25,
       "thread": 19,
@@ -6984,8 +7019,8 @@
       "demo": 1
     },
     "researchAreas": {
-      "generative-ai": 71,
-      "manipulation": 54,
+      "generative-ai": 72,
+      "manipulation": 55,
       "embodied-ai": 47,
       "robot-learning": 36,
       "perception": 34,
@@ -6993,7 +7028,7 @@
       "nlp": 30,
       "robotics-infrastructure": 29,
       "locomotion": 23,
-      "planning": 14,
+      "planning": 15,
       "sim-to-real": 12,
       "navigation": 11,
       "vision-language-action": 5,
@@ -7001,29 +7036,29 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 80,
-      "foundation-models": 70,
-      "dexterous-manipulation": 33,
-      "humanoids": 30,
-      "transformer": 22,
+      "llm": 81,
+      "foundation-models": 71,
+      "dexterous-manipulation": 34,
+      "humanoids": 31,
+      "transformer": 23,
       "reinforcement-learning": 22,
+      "motion-planning": 17,
       "legged-locomotion": 17,
       "computer-vision": 16,
-      "motion-planning": 16,
       "impedance-control": 16,
       "imitation-learning": 15,
       "multimodal": 13,
       "3d-vision": 10,
       "grasping": 9,
       "quadrupeds": 8,
+      "trajectory-optimization": 8,
       "teleoperation": 8,
       "sim-to-real": 8,
-      "trajectory-optimization": 7,
       "slam": 7,
+      "diffusion-policy": 7,
       "mujoco": 7,
       "ros2": 6,
       "sim2real": 6,
-      "diffusion-policy": 6,
       "vla": 5,
       "benchmark": 5,
       "dataset": 4,
@@ -7046,7 +7081,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 86,
+      "other": 87,
       "github": 77,
       "personal-blog": 27,
       "x-twitter": 19,

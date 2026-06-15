@@ -4227,5 +4227,49 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Pretrained to Imagine, Fine&#x2d;Tuned to Act: The Rise of World&#x2d;Action Models | NVIDIA Technical Blog",
+    "links": [
+      "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/"
+    ],
+    "timestamp": "2026-06-15T17:52:31.275Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "title": "Pretrained to Imagine, Fine&#x2d;Tuned to Act: The Rise of World&#x2d;Action Models | NVIDIA Technical Blog",
+      "description": "Quick glossary for readers new to VLA/WAM terminology VLA Vision&#x2d;Language&#x2d;Action model: a robot policy that starts from a pretrained VLM backbone and adapts it to generate actions from visual&#8230;",
+      "author": "",
+      "about": {
+        "summary": "Quick glossary for readers new to VLA/WAM terminology VLA Vision&#x2d;Language&#x2d;Action model: a robot policy that starts from a pretrained VLM backbone and adapts it to generate actions from visual&#8230;",
+        "key_concepts": [
+          "manipulation",
+          "humanoid",
+          "end-effector",
+          "trajectory",
+          "neural network",
+          "transformer",
+          "diffusion model",
+          "foundation model",
+          "large language model",
+          "llm"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-15T17:52:31.275Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
