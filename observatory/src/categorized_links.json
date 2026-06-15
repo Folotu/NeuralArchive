@@ -7001,12 +7001,38 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://mamma.is.tue.mpg.de/",
+      "title": "MAMMA: Markerless Accurate Multi-person Motion Acquisition",
+      "description": "MAMMA: Markerless Accurate Multi-person Motion Acquisition",
+      "content": "MAMMA: Markerless Accurate Multi-person Motion Acquisition",
+      "timestamp": "2026-06-15T21:28:06.392Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "perception"
+        ],
+        "topics": [
+          "transformer"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 77,
-      "article": 62,
+      "article": 63,
       "paper": 30,
       "company": 25,
       "thread": 19,
@@ -7023,7 +7049,7 @@
       "manipulation": 55,
       "embodied-ai": 47,
       "robot-learning": 36,
-      "perception": 34,
+      "perception": 35,
       "control": 30,
       "nlp": 30,
       "robotics-infrastructure": 29,
@@ -7040,7 +7066,7 @@
       "foundation-models": 71,
       "dexterous-manipulation": 34,
       "humanoids": 31,
-      "transformer": 23,
+      "transformer": 24,
       "reinforcement-learning": 22,
       "motion-planning": 17,
       "legged-locomotion": 17,
@@ -7081,7 +7107,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 87,
+      "other": 88,
       "github": 77,
       "personal-blog": 27,
       "x-twitter": 19,

@@ -4271,5 +4271,36 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "MAMMA: Markerless Accurate Multi-person Motion Acquisition",
+    "links": [
+      "https://mamma.is.tue.mpg.de/"
+    ],
+    "timestamp": "2026-06-15T21:28:06.392Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://mamma.is.tue.mpg.de/",
+      "title": "MAMMA: Markerless Accurate Multi-person Motion Acquisition",
+      "description": "A markerless motion-capture pipeline that accurately recovers SMPL-X parameters from multi-view video. CVPR 2026 (Oral).",
+      "author": "",
+      "about": {
+        "summary": "A markerless motion-capture pipeline that accurately recovers SMPL-X parameters from multi-view video. CVPR 2026 (Oral).",
+        "key_concepts": [
+          "transformer",
+          "segmentation"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-15T21:28:06.391Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
