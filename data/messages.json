@@ -4185,5 +4185,47 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Lectures | Introduction to Robot Learning",
+    "links": [
+      "https://16-831-s24.github.io/lectures/"
+    ],
+    "timestamp": "2026-06-15T07:48:48.184Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://16-831-s24.github.io/lectures/",
+      "title": "Lectures | Introduction to Robot Learning",
+      "description": "Course Schedule",
+      "author": "",
+      "about": {
+        "summary": "Course Schedule",
+        "key_concepts": [
+          "locomotion",
+          "foundation model",
+          "imitation learning",
+          "sim2real",
+          "domain randomization",
+          "mpc",
+          "optimal control",
+          "lqr"
+        ],
+        "research_areas": [
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-15T07:48:48.184Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
