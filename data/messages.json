@@ -4326,5 +4326,40 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Qwen (@Alibaba_Qwen) on X",
+    "links": [
+      "https://x.com/alibaba_qwen/status/2066870197122899980?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": "2026-06-17T00:20:37.464Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/alibaba_qwen/status/2066870197122899980?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "Qwen (@Alibaba_Qwen) on X",
+      "description": "📣 Introducing the Qwen-Robot Suite — Qwen-RobotNav, Qwen-RobotManip, Qwen-RobotWorld, three foundation models, a full stack for embodied intelligence.\n\n🧭 Qwen-RobotNav — the gateway to mobility.\n• Unifies 5 navigation tasks in one model: instruction following, point-goal, https://t.co/noumjTtTeS",
+      "author": "",
+      "about": {
+        "summary": "📣 Introducing the Qwen-Robot Suite — Qwen-RobotNav, Qwen-RobotManip, Qwen-RobotWorld, three foundation models, a full stack for embodied intelligence.\n\n🧭 Qwen-RobotNav — the gateway to mobility.\n• Unifies 5 navigation tasks in one model: instruction following, point-goal, https://t.co/noumjTtTeS",
+        "key_concepts": [
+          "manipulation",
+          "foundation model"
+        ],
+        "research_areas": [
+          "embodied-ai",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-17T00:20:37.464Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

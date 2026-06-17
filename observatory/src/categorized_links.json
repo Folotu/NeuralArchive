@@ -7049,6 +7049,34 @@
       },
       "significance": "exploratory",
       "confidence": 0.11
+    },
+    {
+      "link": "https://x.com/alibaba_qwen/status/2066870197122899980?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "Qwen (@Alibaba_Qwen) on X",
+      "description": "Qwen (@Alibaba_Qwen) on X",
+      "content": "Qwen (@Alibaba_Qwen) on X",
+      "timestamp": "2026-06-17T00:20:37.464Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "embodied-ai"
+        ],
+        "topics": [
+          "foundation-models",
+          "dexterous-manipulation"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
@@ -7057,7 +7085,7 @@
       "article": 64,
       "paper": 30,
       "company": 25,
-      "thread": 19,
+      "thread": 20,
       "tool": 13,
       "documentation": 8,
       "other-webpage": 8,
@@ -7068,8 +7096,8 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 55,
-      "embodied-ai": 47,
+      "manipulation": 56,
+      "embodied-ai": 48,
       "robot-learning": 36,
       "perception": 35,
       "control": 30,
@@ -7085,8 +7113,8 @@
     },
     "topics": {
       "llm": 81,
-      "foundation-models": 71,
-      "dexterous-manipulation": 34,
+      "foundation-models": 72,
+      "dexterous-manipulation": 35,
       "humanoids": 31,
       "transformer": 24,
       "reinforcement-learning": 22,
@@ -7132,7 +7160,7 @@
       "other": 89,
       "github": 77,
       "personal-blog": 27,
-      "x-twitter": 19,
+      "x-twitter": 20,
       "company-site": 17,
       "arxiv": 9,
       "docs-site": 6,
