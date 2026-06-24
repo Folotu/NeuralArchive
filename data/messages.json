@@ -4361,5 +4361,38 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Bedrock Robotics Builds Autonomous Construction Systems on Anyscale",
+    "links": [
+      "https://www.anyscale.com/resources/case-study/bedrock-robotics"
+    ],
+    "timestamp": "2026-06-24T20:58:37.114Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://www.anyscale.com/resources/case-study/bedrock-robotics",
+      "title": "Bedrock Robotics Builds Autonomous Construction Systems on Anyscale",
+      "description": "Bedrock Robotics powers its full suite of AI workloads from multimodal data processing to model deployment with Ray on Anyscale.",
+      "author": "",
+      "about": {
+        "summary": "Bedrock Robotics powers its full suite of AI workloads from multimodal data processing to model deployment with Ray on Anyscale.",
+        "key_concepts": [
+          "reinforcement learning",
+          "llm",
+          "object detection",
+          "segmentation"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-06-24T20:58:37.114Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

@@ -7077,12 +7077,41 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://www.anyscale.com/resources/case-study/bedrock-robotics",
+      "title": "Bedrock Robotics Builds Autonomous Construction Systems on Anyscale",
+      "description": "Bedrock Robotics Builds Autonomous Construction Systems on Anyscale",
+      "content": "Bedrock Robotics Builds Autonomous Construction Systems on Anyscale",
+      "timestamp": "2026-06-24T20:58:37.114Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "perception",
+          "robot-learning"
+        ],
+        "topics": [
+          "reinforcement-learning",
+          "llm",
+          "object-detection"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "medium",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 77,
-      "article": 64,
+      "article": 65,
       "paper": 30,
       "company": 25,
       "thread": 20,
@@ -7098,8 +7127,8 @@
       "generative-ai": 72,
       "manipulation": 56,
       "embodied-ai": 48,
-      "robot-learning": 36,
-      "perception": 35,
+      "robot-learning": 37,
+      "perception": 36,
       "control": 30,
       "nlp": 30,
       "robotics-infrastructure": 29,
@@ -7112,12 +7141,12 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 81,
+      "llm": 82,
       "foundation-models": 72,
       "dexterous-manipulation": 35,
       "humanoids": 31,
       "transformer": 24,
-      "reinforcement-learning": 22,
+      "reinforcement-learning": 23,
       "motion-planning": 17,
       "legged-locomotion": 17,
       "computer-vision": 16,
@@ -7138,11 +7167,11 @@
       "vla": 5,
       "benchmark": 5,
       "dataset": 4,
+      "object-detection": 4,
       "scene-understanding": 4,
       "mapping": 3,
       "safety": 3,
       "mobile-robot": 3,
-      "object-detection": 3,
       "isaac-sim": 3,
       "behavior-cloning": 2,
       "pose-estimation": 2,
@@ -7157,7 +7186,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 89,
+      "other": 90,
       "github": 77,
       "personal-blog": 27,
       "x-twitter": 20,
