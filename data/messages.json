@@ -4394,5 +4394,28 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "https://benchmarklist.com/research/occupation-map/#view=map",
+    "links": [
+      "https://benchmarklist.com/research/occupation-map/#view=map"
+    ],
+    "timestamp": "2026-07-17T20:01:28.623Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://benchmarklist.com/research/occupation-map/#view=map",
+      "title": "",
+      "description": "",
+      "about": {
+        "summary": "",
+        "key_concepts": []
+      },
+      "metadata": {
+        "enriched_at": "2026-07-17T20:01:28.623Z",
+        "enrichment_version": "1.0",
+        "quality": "failed",
+        "error": "HTTP 403"
+      }
+    }
   }
 ]

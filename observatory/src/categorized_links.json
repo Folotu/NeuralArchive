@@ -7106,12 +7106,34 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://benchmarklist.com/research/occupation-map/#view=map",
+      "title": "Occupation map",
+      "description": "https://benchmarklist.com/research/occupation-map/#view=map",
+      "content": "https://benchmarklist.com/research/occupation-map/#view=map",
+      "timestamp": "2026-07-17T20:01:28.623Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.11
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 77,
-      "article": 65,
+      "article": 66,
       "paper": 30,
       "company": 25,
       "thread": 20,
@@ -7186,7 +7208,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 90,
+      "other": 91,
       "github": 77,
       "personal-blog": 27,
       "x-twitter": 20,
