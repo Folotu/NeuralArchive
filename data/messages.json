@@ -4455,5 +4455,44 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "text-to-cad/skills/cad/SKILL.md at main · earthtojake/text-to-cad",
+    "links": [
+      "https://github.com/earthtojake/text-to-cad/blob/main/skills/cad/SKILL.md"
+    ],
+    "timestamp": "2026-07-28T17:30:29.009Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/earthtojake/text-to-cad/blob/main/skills/cad/SKILL.md",
+      "title": "text-to-cad/skills/cad/SKILL.md at main · earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design - earthtojake/text-to-cad",
+      "author": "",
+      "about": {
+        "summary": "A collection of agent skills for CAD, robotics and hardware design - earthtojake/text-to-cad",
+        "key_concepts": [
+          "llm",
+          "compliance"
+        ],
+        "research_areas": [
+          "embodied-ai"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "control"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-07-28T17:30:29.009Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

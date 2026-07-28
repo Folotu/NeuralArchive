@@ -7158,11 +7158,38 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/earthtojake/text-to-cad/blob/main/skills/cad/SKILL.md",
+      "title": "text-to-cad/skills/cad/SKILL.md at main · earthtojake/text-to-cad",
+      "description": "text-to-cad/skills/cad/SKILL.md at main · earthtojake/text-to-cad",
+      "content": "text-to-cad/skills/cad/SKILL.md at main · earthtojake/text-to-cad",
+      "timestamp": "2026-07-28T17:30:29.009Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "embodied-ai"
+        ],
+        "topics": [
+          "llm",
+          "impedance-control"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 77,
+      "repository": 78,
       "article": 67,
       "paper": 30,
       "company": 25,
@@ -7178,7 +7205,7 @@
     "researchAreas": {
       "generative-ai": 72,
       "manipulation": 57,
-      "embodied-ai": 48,
+      "embodied-ai": 49,
       "robot-learning": 37,
       "perception": 36,
       "control": 30,
@@ -7193,7 +7220,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 83,
+      "llm": 84,
       "foundation-models": 72,
       "dexterous-manipulation": 36,
       "humanoids": 32,
@@ -7201,8 +7228,8 @@
       "reinforcement-learning": 23,
       "motion-planning": 17,
       "legged-locomotion": 17,
+      "impedance-control": 17,
       "computer-vision": 16,
-      "impedance-control": 16,
       "imitation-learning": 15,
       "multimodal": 13,
       "3d-vision": 10,
@@ -7239,7 +7266,7 @@
     },
     "sourcePlatform": {
       "other": 92,
-      "github": 77,
+      "github": 78,
       "personal-blog": 27,
       "x-twitter": 20,
       "company-site": 17,
