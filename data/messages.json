@@ -4417,5 +4417,43 @@
         "error": "HTTP 403"
       }
     }
+  },
+  {
+    "content": "Robocurve — Real-world evaluations of AI and robots",
+    "links": [
+      "https://robocurve.org/#work"
+    ],
+    "timestamp": "2026-07-28T02:12:46.817Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://robocurve.org/#work",
+      "title": "Robocurve — Real-world evaluations of AI and robots",
+      "description": "Robocurve is a Public Benefit Corporation building open-source tools and independent benchmarks to help society understand the capabilities of AI and robots in the physical world.",
+      "author": "",
+      "about": {
+        "summary": "Robocurve is a Public Benefit Corporation building open-source tools and independent benchmarks to help society understand the capabilities of AI and robots in the physical world.",
+        "key_concepts": [
+          "dexterous",
+          "humanoid",
+          "quadruped",
+          "llm",
+          "digital twin"
+        ],
+        "research_areas": [
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-07-28T02:12:46.816Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
