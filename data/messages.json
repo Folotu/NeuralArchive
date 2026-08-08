@@ -4494,5 +4494,47 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "GitHub - krish-suresh/flying_knots_public",
+    "links": [
+      "https://github.com/krish-suresh/flying_knots_public"
+    ],
+    "timestamp": "2026-08-08T08:34:27.270Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/krish-suresh/flying_knots_public",
+      "title": "GitHub - krish-suresh/flying_knots_public",
+      "description": "Contribute to krish-suresh/flying_knots_public development by creating an account on GitHub.",
+      "author": "",
+      "about": {
+        "summary": "Contribute to krish-suresh/flying_knots_public development by creating an account on GitHub.",
+        "key_concepts": [
+          "manipulation",
+          "trajectory",
+          "llm",
+          "nerf"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-08-08T08:34:27.270Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

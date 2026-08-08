@@ -7185,11 +7185,42 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://github.com/krish-suresh/flying_knots_public",
+      "title": "GitHub - krish-suresh/flying_knots_public",
+      "description": "GitHub - krish-suresh/flying_knots_public",
+      "content": "GitHub - krish-suresh/flying_knots_public",
+      "timestamp": "2026-08-08T08:34:27.270Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "planning"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "llm",
+          "nerf",
+          "motion-planning",
+          "trajectory-optimization"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 78,
+      "repository": 79,
       "article": 67,
       "paper": 30,
       "company": 25,
@@ -7204,7 +7235,7 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 57,
+      "manipulation": 58,
       "embodied-ai": 49,
       "robot-learning": 37,
       "perception": 36,
@@ -7212,7 +7243,7 @@
       "nlp": 30,
       "robotics-infrastructure": 29,
       "locomotion": 24,
-      "planning": 15,
+      "planning": 16,
       "sim-to-real": 12,
       "navigation": 11,
       "vision-language-action": 5,
@@ -7220,13 +7251,13 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 84,
+      "llm": 85,
       "foundation-models": 72,
-      "dexterous-manipulation": 36,
+      "dexterous-manipulation": 37,
       "humanoids": 32,
       "transformer": 24,
       "reinforcement-learning": 23,
-      "motion-planning": 17,
+      "motion-planning": 18,
       "legged-locomotion": 17,
       "impedance-control": 17,
       "computer-vision": 16,
@@ -7234,8 +7265,8 @@
       "multimodal": 13,
       "3d-vision": 10,
       "quadrupeds": 9,
+      "trajectory-optimization": 9,
       "grasping": 9,
-      "trajectory-optimization": 8,
       "teleoperation": 8,
       "sim-to-real": 8,
       "slam": 7,
@@ -7255,18 +7286,18 @@
       "behavior-cloning": 2,
       "pose-estimation": 2,
       "point-cloud": 2,
+      "nerf": 2,
       "evaluation": 1,
       "drone": 1,
       "depth-estimation": 1,
       "bimanual": 1,
       "world-model": 1,
       "tactile-sensing": 1,
-      "nerf": 1,
       "force-control": 1
     },
     "sourcePlatform": {
       "other": 92,
-      "github": 78,
+      "github": 79,
       "personal-blog": 27,
       "x-twitter": 20,
       "company-site": 17,
