@@ -4580,5 +4580,47 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Pre-training Visual Dexterity in Simulation",
+    "links": [
+      "https://spd.bot/"
+    ],
+    "timestamp": "2026-08-15T05:10:19.010Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://spd.bot/",
+      "title": "Pre-training Visual Dexterity in Simulation",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Pre-training Visual Dexterity in Simulation",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "locomotion",
+          "humanoid",
+          "inverse kinematics",
+          "teleoperation",
+          "transformer",
+          "pose estimation"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-08-15T05:10:19.010Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

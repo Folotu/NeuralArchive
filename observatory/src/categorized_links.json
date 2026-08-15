@@ -7247,12 +7247,45 @@
       },
       "significance": "medium",
       "confidence": 0.88
+    },
+    {
+      "link": "https://spd.bot/",
+      "title": "Pre-training Visual Dexterity in Simulation",
+      "description": "Pre-training Visual Dexterity in Simulation",
+      "content": "Pre-training Visual Dexterity in Simulation",
+      "timestamp": "2026-08-15T05:10:19.010Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "perception"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "humanoids",
+          "teleoperation",
+          "transformer",
+          "pose-estimation",
+          "legged-locomotion"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 80,
-      "article": 67,
+      "article": 68,
       "paper": 30,
       "company": 25,
       "thread": 20,
@@ -7266,14 +7299,14 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 58,
+      "manipulation": 59,
       "embodied-ai": 49,
+      "perception": 37,
       "robot-learning": 37,
-      "perception": 36,
       "control": 31,
       "nlp": 30,
       "robotics-infrastructure": 29,
-      "locomotion": 25,
+      "locomotion": 26,
       "planning": 16,
       "sim-to-real": 12,
       "navigation": 11,
@@ -7284,12 +7317,12 @@
     "topics": {
       "llm": 86,
       "foundation-models": 72,
-      "dexterous-manipulation": 37,
-      "humanoids": 32,
-      "transformer": 24,
+      "dexterous-manipulation": 38,
+      "humanoids": 33,
+      "transformer": 25,
       "reinforcement-learning": 23,
       "motion-planning": 18,
-      "legged-locomotion": 17,
+      "legged-locomotion": 18,
       "impedance-control": 17,
       "computer-vision": 16,
       "imitation-learning": 15,
@@ -7297,8 +7330,8 @@
       "quadrupeds": 10,
       "3d-vision": 10,
       "trajectory-optimization": 9,
+      "teleoperation": 9,
       "grasping": 9,
-      "teleoperation": 8,
       "mujoco": 8,
       "sim-to-real": 8,
       "slam": 7,
@@ -7314,8 +7347,8 @@
       "safety": 3,
       "mobile-robot": 3,
       "isaac-sim": 3,
+      "pose-estimation": 3,
       "behavior-cloning": 2,
-      "pose-estimation": 2,
       "point-cloud": 2,
       "nerf": 2,
       "evaluation": 1,
@@ -7327,7 +7360,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 92,
+      "other": 93,
       "github": 80,
       "personal-blog": 27,
       "x-twitter": 20,
