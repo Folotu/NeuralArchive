@@ -7280,11 +7280,35 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "title": "GitHub - Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots: Introduction to Autonomous Robots",
+      "description": "GitHub - Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots: Introduction to Autonomous Robots",
+      "content": "GitHub - Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots: Introduction to Autonomous Robots",
+      "timestamp": "2026-08-20T04:01:29.131Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 80,
+      "repository": 81,
       "article": 68,
       "paper": 30,
       "company": 25,
@@ -7315,7 +7339,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 86,
+      "llm": 87,
       "foundation-models": 72,
       "dexterous-manipulation": 38,
       "humanoids": 33,
@@ -7361,7 +7385,7 @@
     },
     "sourcePlatform": {
       "other": 93,
-      "github": 80,
+      "github": 81,
       "personal-blog": 27,
       "x-twitter": 20,
       "company-site": 17,

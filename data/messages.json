@@ -4622,5 +4622,39 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots: Introduction to Autonomous Robots",
+    "links": [
+      "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+    ],
+    "timestamp": "2026-08-20T04:01:29.131Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "title": "GitHub - Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots: Introduction to Autonomous Robots",
+      "description": "Introduction to Autonomous Robots. Contribute to Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots development by creating an account on GitHub.",
+      "author": "",
+      "about": {
+        "summary": "Introduction to Autonomous Robots. Contribute to Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots development by creating an account on GitHub.",
+        "key_concepts": [
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-08-20T04:01:29.130Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
