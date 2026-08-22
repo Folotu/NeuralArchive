@@ -4656,5 +4656,35 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "FreeToken — Bring Frontier to Edge",
+    "links": [
+      "http://www.flashml.ai/"
+    ],
+    "timestamp": "2026-08-22T08:23:32.500Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "http://www.flashml.ai/",
+      "title": "FreeToken — Bring Frontier to Edge",
+      "description": "Download and run large language models on your own machine — private, offline, free.",
+      "author": "",
+      "about": {
+        "summary": "Download and run large language models on your own machine — private, offline, free.",
+        "key_concepts": [
+          "large language model",
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-08-22T08:23:32.500Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

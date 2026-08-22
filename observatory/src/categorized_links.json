@@ -7304,6 +7304,30 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "http://www.flashml.ai/",
+      "title": "FreeToken — Bring Frontier to Edge",
+      "description": "FreeToken — Bring Frontier to Edge",
+      "content": "FreeToken — Bring Frontier to Edge",
+      "timestamp": "2026-08-22T08:23:32.500Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "company-site"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
@@ -7311,7 +7335,7 @@
       "repository": 81,
       "article": 68,
       "paper": 30,
-      "company": 25,
+      "company": 26,
       "thread": 20,
       "tool": 13,
       "documentation": 8,
@@ -7339,7 +7363,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 87,
+      "llm": 88,
       "foundation-models": 72,
       "dexterous-manipulation": 38,
       "humanoids": 33,
@@ -7388,7 +7412,7 @@
       "github": 81,
       "personal-blog": 27,
       "x-twitter": 20,
-      "company-site": 17,
+      "company-site": 18,
       "arxiv": 9,
       "docs-site": 6,
       "job-board": 5,
