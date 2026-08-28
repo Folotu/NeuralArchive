@@ -7328,6 +7328,28 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "https://www.terryum.ai/en/surveys/chinese-robot-company-map?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+      "title": "Chinese robot company map",
+      "description": "https://www.terryum.ai/en/surveys/chinese-robot-company-map?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+      "content": "https://www.terryum.ai/en/surveys/chinese-robot-company-map?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+      "timestamp": "2026-08-28T00:18:14.968Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.14
     }
   ],
   "facetIndex": {
@@ -7335,7 +7357,7 @@
       "repository": 81,
       "article": 68,
       "paper": 30,
-      "company": 26,
+      "company": 27,
       "thread": 20,
       "tool": 13,
       "documentation": 8,
@@ -7408,7 +7430,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 93,
+      "other": 94,
       "github": 81,
       "personal-blog": 27,
       "x-twitter": 20,
