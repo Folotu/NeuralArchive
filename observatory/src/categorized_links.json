@@ -7350,11 +7350,36 @@
       },
       "significance": "exploratory",
       "confidence": 0.14
+    },
+    {
+      "link": "https://gist.github.com/geoffreylitt/a29df1b5f9865506e8952488eac3d524",
+      "title": "explain-diff",
+      "description": "explain-diff",
+      "content": "explain-diff",
+      "timestamp": "2026-09-01T17:58:32.593Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "humanoids",
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 81,
+      "repository": 82,
       "article": 68,
       "paper": 30,
       "company": 27,
@@ -7385,10 +7410,10 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 88,
+      "llm": 89,
       "foundation-models": 72,
       "dexterous-manipulation": 38,
-      "humanoids": 33,
+      "humanoids": 34,
       "transformer": 25,
       "reinforcement-learning": 23,
       "motion-planning": 18,
@@ -7431,7 +7456,7 @@
     },
     "sourcePlatform": {
       "other": 94,
-      "github": 81,
+      "github": 82,
       "personal-blog": 27,
       "x-twitter": 20,
       "company-site": 18,
