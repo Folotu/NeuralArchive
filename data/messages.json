@@ -4791,5 +4791,50 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Noise is all you need to bridge the sim-to-real locomotion gap | Menlo Research",
+    "links": [
+      "https://menlo.ai/research/noise-is-all-you-need"
+    ],
+    "timestamp": "2026-09-06T21:56:16.654Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://menlo.ai/research/noise-is-all-you-need",
+      "title": "Noise is all you need to bridge the sim-to-real locomotion gap | Menlo Research",
+      "description": "We bridged the sim-to-real gap for Asimov&#x27;s locomotion by running the real robot firmware and control stack inside a deliberately imperfect, noisy simulation.",
+      "author": "",
+      "about": {
+        "summary": "We bridged the sim-to-real gap for Asimov&#x27;s locomotion by running the real robot firmware and control stack inside a deliberately imperfect, noisy simulation.",
+        "key_concepts": [
+          "manipulation",
+          "locomotion",
+          "humanoid",
+          "reinforcement learning",
+          "llm",
+          "zero-shot",
+          "pose estimation",
+          "sim-to-real",
+          "sim2real",
+          "domain randomization"
+        ],
+        "research_areas": [
+          "locomotion",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-06T21:56:16.654Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
