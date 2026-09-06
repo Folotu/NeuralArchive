@@ -4745,5 +4745,51 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "From walking to flipping: Porting our RL stack from locomotion to manipulation | Menlo Research",
+    "links": [
+      "https://menlo.ai/research/from-walking-to-flipping"
+    ],
+    "timestamp": "2026-09-06T21:55:54.237Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://menlo.ai/research/from-walking-to-flipping",
+      "title": "From walking to flipping: Porting our RL stack from locomotion to manipulation | Menlo Research",
+      "description": "We expected teaching Asimov to flip cartons would require starting over. Instead, lessons from locomotion shaped our manipulation pipeline, and much of the underlying RL machinery remained reusable. Here is what carried over, what changed, and why.",
+      "author": "",
+      "about": {
+        "summary": "We expected teaching Asimov to flip cartons would require starting over. Instead, lessons from locomotion shaped our manipulation pipeline, and much of the underlying RL machinery remained reusable. Here is what carried over, what changed, and why.",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "grasping",
+          "locomotion",
+          "humanoid",
+          "end-effector",
+          "inverse kinematics",
+          "teleoperation",
+          "reinforcement learning",
+          "llm"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-06T21:55:54.236Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

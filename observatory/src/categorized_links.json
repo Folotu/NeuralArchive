@@ -7375,12 +7375,46 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "https://menlo.ai/research/from-walking-to-flipping",
+      "title": "From walking to flipping: Porting our RL stack from locomotion to manipulation | Menlo Research",
+      "description": "From walking to flipping: Porting our RL stack from locomotion to manipulation | Menlo Research",
+      "content": "From walking to flipping: Porting our RL stack from locomotion to manipulation | Menlo Research",
+      "timestamp": "2026-09-06T21:55:54.237Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "robot-learning"
+        ],
+        "topics": [
+          "reinforcement-learning",
+          "legged-locomotion",
+          "dexterous-manipulation",
+          "humanoids",
+          "grasping",
+          "teleoperation",
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 82,
-      "article": 68,
+      "article": 69,
       "paper": 30,
       "company": 27,
       "thread": 20,
@@ -7394,14 +7428,14 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 59,
+      "manipulation": 60,
       "embodied-ai": 49,
+      "robot-learning": 38,
       "perception": 37,
-      "robot-learning": 37,
       "control": 31,
       "nlp": 30,
       "robotics-infrastructure": 29,
-      "locomotion": 26,
+      "locomotion": 27,
       "planning": 16,
       "sim-to-real": 12,
       "navigation": 11,
@@ -7410,23 +7444,23 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 89,
+      "llm": 90,
       "foundation-models": 72,
-      "dexterous-manipulation": 38,
-      "humanoids": 34,
+      "dexterous-manipulation": 39,
+      "humanoids": 35,
       "transformer": 25,
-      "reinforcement-learning": 23,
+      "reinforcement-learning": 24,
+      "legged-locomotion": 19,
       "motion-planning": 18,
-      "legged-locomotion": 18,
       "impedance-control": 17,
       "computer-vision": 16,
       "imitation-learning": 15,
       "multimodal": 13,
       "quadrupeds": 10,
       "3d-vision": 10,
+      "teleoperation": 10,
+      "grasping": 10,
       "trajectory-optimization": 9,
-      "teleoperation": 9,
-      "grasping": 9,
       "mujoco": 8,
       "sim-to-real": 8,
       "slam": 7,
@@ -7455,7 +7489,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 94,
+      "other": 95,
       "github": 82,
       "personal-blog": 27,
       "x-twitter": 20,
