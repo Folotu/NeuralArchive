@@ -4836,5 +4836,41 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "AutoEval",
+    "links": [
+      "https://auto-eval.github.io/"
+    ],
+    "timestamp": "2026-09-07T10:08:15.476Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://auto-eval.github.io/",
+      "title": "AutoEval",
+      "description": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+      "author": "",
+      "about": {
+        "summary": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+        "key_concepts": [
+          "manipulation",
+          "end-effector",
+          "trajectory",
+          "foundation model"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-07T10:08:15.476Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

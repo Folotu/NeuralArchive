@@ -7444,6 +7444,36 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://auto-eval.github.io/",
+      "title": "AutoEval",
+      "description": "AutoEval",
+      "content": "AutoEval",
+      "timestamp": "2026-09-07T10:08:15.476Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "planning"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "foundation-models",
+          "motion-planning",
+          "trajectory-optimization"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.72
     }
   ],
   "facetIndex": {
@@ -7451,7 +7481,7 @@
       "repository": 82,
       "article": 70,
       "paper": 30,
-      "company": 27,
+      "company": 28,
       "thread": 20,
       "tool": 13,
       "documentation": 8,
@@ -7463,7 +7493,7 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 61,
+      "manipulation": 62,
       "embodied-ai": 49,
       "perception": 38,
       "robot-learning": 38,
@@ -7471,7 +7501,7 @@
       "nlp": 30,
       "robotics-infrastructure": 29,
       "locomotion": 28,
-      "planning": 16,
+      "planning": 17,
       "sim-to-real": 13,
       "navigation": 11,
       "vision-language-action": 5,
@@ -7480,22 +7510,22 @@
     },
     "topics": {
       "llm": 91,
-      "foundation-models": 72,
-      "dexterous-manipulation": 40,
+      "foundation-models": 73,
+      "dexterous-manipulation": 41,
       "humanoids": 36,
       "transformer": 25,
       "reinforcement-learning": 25,
       "legged-locomotion": 20,
-      "motion-planning": 18,
+      "motion-planning": 19,
       "impedance-control": 17,
       "computer-vision": 16,
       "imitation-learning": 15,
       "multimodal": 13,
       "quadrupeds": 10,
+      "trajectory-optimization": 10,
       "3d-vision": 10,
       "teleoperation": 10,
       "grasping": 10,
-      "trajectory-optimization": 9,
       "sim-to-real": 9,
       "mujoco": 8,
       "slam": 7,
@@ -7526,7 +7556,7 @@
     "sourcePlatform": {
       "other": 96,
       "github": 82,
-      "personal-blog": 27,
+      "personal-blog": 28,
       "x-twitter": 20,
       "company-site": 18,
       "arxiv": 9,
