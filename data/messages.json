@@ -4908,5 +4908,41 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Robot-use agents",
+    "links": [
+      "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html"
+    ],
+    "timestamp": "2026-09-09T04:00:38.689Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html",
+      "title": "Robot-use agents",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Robot-use agents",
+        "key_concepts": [
+          "manipulation",
+          "foundation model",
+          "llm"
+        ],
+        "research_areas": [
+          "embodied-ai",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-09T04:00:38.689Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

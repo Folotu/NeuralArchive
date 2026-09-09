@@ -7499,12 +7499,41 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html",
+      "title": "Robot-use agents",
+      "description": "Robot-use agents",
+      "content": "Robot-use agents",
+      "timestamp": "2026-09-09T04:00:38.689Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "embodied-ai"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "foundation-models",
+          "llm"
+        ],
+        "sourcePlatform": "docs-site"
+      },
+      "significance": "medium",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 83,
-      "article": 70,
+      "article": 71,
       "paper": 30,
       "company": 28,
       "thread": 20,
@@ -7518,8 +7547,8 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 62,
-      "embodied-ai": 49,
+      "manipulation": 63,
+      "embodied-ai": 50,
       "perception": 38,
       "robot-learning": 38,
       "control": 31,
@@ -7534,9 +7563,9 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 92,
-      "foundation-models": 73,
-      "dexterous-manipulation": 41,
+      "llm": 93,
+      "foundation-models": 74,
+      "dexterous-manipulation": 42,
       "humanoids": 36,
       "transformer": 25,
       "reinforcement-learning": 25,
@@ -7585,7 +7614,7 @@
       "x-twitter": 20,
       "company-site": 18,
       "arxiv": 9,
-      "docs-site": 6,
+      "docs-site": 7,
       "job-board": 5,
       "youtube": 4,
       "research-blog": 4,
