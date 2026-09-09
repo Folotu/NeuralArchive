@@ -7474,11 +7474,36 @@
       },
       "significance": "medium",
       "confidence": 0.72
+    },
+    {
+      "link": "https://github.com/lingxiao-guo/GPT6-real2sim",
+      "title": "GitHub - lingxiao-guo/GPT6-real2sim",
+      "description": "GitHub - lingxiao-guo/GPT6-real2sim",
+      "content": "GitHub - lingxiao-guo/GPT6-real2sim",
+      "timestamp": "2026-09-09T03:58:27.631Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm",
+          "mujoco"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 82,
+      "repository": 83,
       "article": 70,
       "paper": 30,
       "company": 28,
@@ -7509,7 +7534,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 91,
+      "llm": 92,
       "foundation-models": 73,
       "dexterous-manipulation": 41,
       "humanoids": 36,
@@ -7526,8 +7551,8 @@
       "3d-vision": 10,
       "teleoperation": 10,
       "grasping": 10,
+      "mujoco": 9,
       "sim-to-real": 9,
-      "mujoco": 8,
       "slam": 7,
       "diffusion-policy": 7,
       "ros2": 6,
@@ -7555,7 +7580,7 @@
     },
     "sourcePlatform": {
       "other": 96,
-      "github": 82,
+      "github": 83,
       "personal-blog": 28,
       "x-twitter": 20,
       "company-site": 18,

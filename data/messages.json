@@ -4872,5 +4872,41 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - lingxiao-guo/GPT6-real2sim",
+    "links": [
+      "https://github.com/lingxiao-guo/GPT6-real2sim"
+    ],
+    "timestamp": "2026-09-09T03:58:27.631Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/lingxiao-guo/GPT6-real2sim",
+      "title": "GitHub - lingxiao-guo/GPT6-real2sim",
+      "description": "Contribute to lingxiao-guo/GPT6-real2sim development by creating an account on GitHub.",
+      "author": "",
+      "about": {
+        "summary": "Contribute to lingxiao-guo/GPT6-real2sim development by creating an account on GitHub.",
+        "key_concepts": [
+          "llm",
+          "mujoco"
+        ],
+        "technical_approaches": [
+          "ai-ml",
+          "simulation"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-09-09T03:58:27.631Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
