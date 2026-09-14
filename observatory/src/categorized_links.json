@@ -7528,12 +7528,47 @@
       },
       "significance": "medium",
       "confidence": 0.7
+    },
+    {
+      "link": "https://anonymous-report-421.github.io/public-website/?lang=en&view=1",
+      "title": "Data app",
+      "description": "Data app",
+      "content": "Data app",
+      "timestamp": "2026-09-14T16:43:08.823Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "planning"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "humanoids",
+          "quadrupeds",
+          "grasping",
+          "transformer",
+          "llm",
+          "motion-planning",
+          "trajectory-optimization"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 83,
-      "article": 71,
+      "article": 72,
       "paper": 30,
       "company": 28,
       "thread": 20,
@@ -7547,15 +7582,15 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 63,
+      "manipulation": 64,
       "embodied-ai": 50,
       "perception": 38,
       "robot-learning": 38,
       "control": 31,
       "nlp": 30,
+      "locomotion": 29,
       "robotics-infrastructure": 29,
-      "locomotion": 28,
-      "planning": 17,
+      "planning": 18,
       "sim-to-real": 13,
       "navigation": 11,
       "vision-language-action": 5,
@@ -7563,23 +7598,23 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 93,
+      "llm": 94,
       "foundation-models": 74,
-      "dexterous-manipulation": 42,
-      "humanoids": 36,
-      "transformer": 25,
+      "dexterous-manipulation": 43,
+      "humanoids": 37,
+      "transformer": 26,
       "reinforcement-learning": 25,
+      "motion-planning": 20,
       "legged-locomotion": 20,
-      "motion-planning": 19,
       "impedance-control": 17,
       "computer-vision": 16,
       "imitation-learning": 15,
       "multimodal": 13,
-      "quadrupeds": 10,
-      "trajectory-optimization": 10,
+      "quadrupeds": 11,
+      "trajectory-optimization": 11,
+      "grasping": 11,
       "3d-vision": 10,
       "teleoperation": 10,
-      "grasping": 10,
       "mujoco": 9,
       "sim-to-real": 9,
       "slam": 7,
@@ -7610,7 +7645,7 @@
     "sourcePlatform": {
       "other": 96,
       "github": 83,
-      "personal-blog": 28,
+      "personal-blog": 29,
       "x-twitter": 20,
       "company-site": 18,
       "arxiv": 9,

@@ -4944,5 +4944,50 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Data app",
+    "links": [
+      "https://anonymous-report-421.github.io/public-website/?lang=en&view=1"
+    ],
+    "timestamp": "2026-09-14T16:43:08.823Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://anonymous-report-421.github.io/public-website/?lang=en&view=1",
+      "title": "Data app",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "Data app",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "grasping",
+          "locomotion",
+          "humanoid",
+          "quadruped",
+          "end-effector",
+          "trajectory",
+          "transformer",
+          "llm"
+        ],
+        "research_areas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-14T16:43:08.823Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
