@@ -7563,11 +7563,35 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/latent-spaces/brag",
+      "title": "GitHub - latent-spaces/brag: You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+      "description": "GitHub - latent-spaces/brag: You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+      "content": "GitHub - latent-spaces/brag: You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+      "timestamp": "2026-09-16T20:48:13.493Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 83,
+      "repository": 84,
       "article": 72,
       "paper": 30,
       "company": 28,
@@ -7598,7 +7622,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 94,
+      "llm": 95,
       "foundation-models": 74,
       "dexterous-manipulation": 43,
       "humanoids": 37,
@@ -7644,7 +7668,7 @@
     },
     "sourcePlatform": {
       "other": 96,
-      "github": 83,
+      "github": 84,
       "personal-blog": 29,
       "x-twitter": 20,
       "company-site": 18,

@@ -4989,5 +4989,39 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - latent-spaces/brag: You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+    "links": [
+      "https://github.com/latent-spaces/brag"
+    ],
+    "timestamp": "2026-09-16T20:48:13.493Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/latent-spaces/brag",
+      "title": "GitHub - latent-spaces/brag: You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+      "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. - latent-spaces/brag",
+      "author": "",
+      "about": {
+        "summary": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. - latent-spaces/brag",
+        "key_concepts": [
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-09-16T20:48:13.493Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
