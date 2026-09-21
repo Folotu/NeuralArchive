@@ -5023,5 +5023,49 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+    "links": [
+      "https://www.alphaxiv.org/abs/2609.18207"
+    ],
+    "timestamp": "2026-09-21T05:47:32.386Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://www.alphaxiv.org/abs/2609.18207",
+      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "description": "Real-Time EXPO-FT combines asynchronous vision-language-action inference with a lightweight reinforcement-learned correction policy to handle stale observations caused by model latency. Across...",
+      "author": "Perry Dong",
+      "about": {
+        "summary": "Real-Time EXPO-FT combines asynchronous vision-language-action inference with a lightweight reinforcement-learned correction policy to handle stale observations caused by model latency. Across...",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "trajectory",
+          "teleoperation",
+          "reinforcement learning",
+          "transformer",
+          "foundation model",
+          "llm",
+          "policy learning",
+          "imitation learning"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-21T05:47:32.386Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

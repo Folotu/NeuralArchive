@@ -7587,12 +7587,47 @@
       },
       "significance": "exploratory",
       "confidence": 0.58
+    },
+    {
+      "link": "https://www.alphaxiv.org/abs/2609.18207",
+      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "description": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "content": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "timestamp": "2026-09-21T05:47:32.386Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "robot-learning",
+          "planning"
+        ],
+        "topics": [
+          "reinforcement-learning",
+          "dexterous-manipulation",
+          "imitation-learning",
+          "foundation-models",
+          "teleoperation",
+          "transformer",
+          "llm",
+          "motion-planning"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.75
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 84,
-      "article": 72,
+      "article": 73,
       "paper": 30,
       "company": 28,
       "thread": 20,
@@ -7606,15 +7641,15 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 64,
+      "manipulation": 65,
       "embodied-ai": 50,
+      "robot-learning": 39,
       "perception": 38,
-      "robot-learning": 38,
       "control": 31,
       "nlp": 30,
       "locomotion": 29,
       "robotics-infrastructure": 29,
-      "planning": 18,
+      "planning": 19,
       "sim-to-real": 13,
       "navigation": 11,
       "vision-language-action": 5,
@@ -7622,23 +7657,23 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 95,
-      "foundation-models": 74,
-      "dexterous-manipulation": 43,
+      "llm": 96,
+      "foundation-models": 75,
+      "dexterous-manipulation": 44,
       "humanoids": 37,
-      "transformer": 26,
-      "reinforcement-learning": 25,
-      "motion-planning": 20,
+      "transformer": 27,
+      "reinforcement-learning": 26,
+      "motion-planning": 21,
       "legged-locomotion": 20,
       "impedance-control": 17,
       "computer-vision": 16,
-      "imitation-learning": 15,
+      "imitation-learning": 16,
       "multimodal": 13,
       "quadrupeds": 11,
       "trajectory-optimization": 11,
+      "teleoperation": 11,
       "grasping": 11,
       "3d-vision": 10,
-      "teleoperation": 10,
       "mujoco": 9,
       "sim-to-real": 9,
       "slam": 7,
@@ -7667,7 +7702,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 96,
+      "other": 97,
       "github": 84,
       "personal-blog": 29,
       "x-twitter": 20,
