@@ -5067,5 +5067,32 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Robotics labs and startups with the highest talent density",
+    "links": [
+      "https://frontierlist.com/robotics-talent-density"
+    ],
+    "timestamp": "2026-09-21T05:49:18.333Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://frontierlist.com/robotics-talent-density",
+      "title": "Robotics labs and startups with the highest talent density",
+      "description": "Robotics labs and startups with the highest talent density, as picked by 53 people who work in AI. Every answer counted.",
+      "author": "",
+      "about": {
+        "summary": "Robotics labs and startups with the highest talent density, as picked by 53 people who work in AI. Every answer counted.",
+        "key_concepts": [],
+        "research_areas": [
+          "manipulation"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-21T05:49:18.333Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

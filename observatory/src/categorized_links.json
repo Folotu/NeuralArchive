@@ -7622,6 +7622,32 @@
       },
       "significance": "high",
       "confidence": 0.75
+    },
+    {
+      "link": "https://frontierlist.com/robotics-talent-density",
+      "title": "Robotics labs and startups with the highest talent density",
+      "description": "Robotics labs and startups with the highest talent density",
+      "content": "Robotics labs and startups with the highest talent density",
+      "timestamp": "2026-09-21T05:49:18.333Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [
+          "startup"
+        ],
+        "researchAreas": [
+          "manipulation"
+        ],
+        "topics": [],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.43
     }
   ],
   "facetIndex": {
@@ -7629,7 +7655,7 @@
       "repository": 84,
       "article": 73,
       "paper": 30,
-      "company": 28,
+      "company": 29,
       "thread": 20,
       "tool": 13,
       "documentation": 8,
@@ -7641,7 +7667,7 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 65,
+      "manipulation": 66,
       "embodied-ai": 50,
       "robot-learning": 39,
       "perception": 38,
@@ -7702,7 +7728,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 97,
+      "other": 98,
       "github": 84,
       "personal-blog": 29,
       "x-twitter": 20,
