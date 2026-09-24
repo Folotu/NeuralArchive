@@ -5094,5 +5094,49 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Towards Universal Post-Training for Robotics — Perry Dong",
+    "links": [
+      "https://pd-perry.github.io/posts/post-training.html"
+    ],
+    "timestamp": "2026-09-24T07:19:31.095Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://pd-perry.github.io/posts/post-training.html",
+      "title": "Towards Universal Post-Training for Robotics — Perry Dong",
+      "description": "Why robotics RL is a different problem than LLM RL, what EXPO-FT gets right and wrong, and what a universal post-training recipe for robotics needs. By Perry Dong, PhD student in Computer Science at Stanford University.",
+      "author": "",
+      "about": {
+        "summary": "Why robotics RL is a different problem than LLM RL, what EXPO-FT gets right and wrong, and what a universal post-training recipe for robotics needs. By Perry Dong, PhD student in Computer Science at Stanford University.",
+        "key_concepts": [
+          "manipulation",
+          "grasping",
+          "trajectory",
+          "teleoperation",
+          "reinforcement learning",
+          "diffusion model",
+          "llm",
+          "imitation learning",
+          "parallel simulation",
+          "pid"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-24T07:19:31.095Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
