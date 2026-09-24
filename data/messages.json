@@ -5138,5 +5138,35 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Live Speaker Diarization - a Hugging Face Space by nvidia",
+    "links": [
+      "https://huggingface.co/spaces/nvidia/nemotron-diarization"
+    ],
+    "timestamp": "2026-09-24T07:25:47.423Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://huggingface.co/spaces/nvidia/nemotron-diarization",
+      "title": "Live Speaker Diarization - a Hugging Face Space by nvidia",
+      "description": "Upload an audio file, record from your microphone, or generate a synthetic conversation, and the app will separate the voices, showing who is speaking when. It provides a timeline of speaker activi...",
+      "author": "",
+      "about": {
+        "summary": "Upload an audio file, record from your microphone, or generate a synthetic conversation, and the app will separate the voices, showing who is speaking when. It provides a timeline of speaker activi...",
+        "key_concepts": [
+          "llm",
+          "zero-shot"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-09-24T07:25:47.423Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]

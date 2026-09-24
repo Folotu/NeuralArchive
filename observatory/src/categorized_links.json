@@ -7684,6 +7684,30 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://huggingface.co/spaces/nvidia/nemotron-diarization",
+      "title": "Live Speaker Diarization - a Hugging Face Space by nvidia",
+      "description": "Live Speaker Diarization - a Hugging Face Space by nvidia",
+      "content": "Live Speaker Diarization - a Hugging Face Space by nvidia",
+      "timestamp": "2026-09-24T07:25:47.423Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "demo",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "huggingface"
+      },
+      "significance": "exploratory",
+      "confidence": 0.58
     }
   ],
   "facetIndex": {
@@ -7699,7 +7723,7 @@
       "job": 6,
       "video": 4,
       "dataset": 3,
-      "demo": 1
+      "demo": 2
     },
     "researchAreas": {
       "generative-ai": 72,
@@ -7719,7 +7743,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 97,
+      "llm": 98,
       "foundation-models": 75,
       "dexterous-manipulation": 45,
       "humanoids": 37,
@@ -7774,7 +7798,7 @@
       "job-board": 5,
       "youtube": 4,
       "research-blog": 4,
-      "huggingface": 1
+      "huggingface": 2
     }
   }
 }
