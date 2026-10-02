@@ -5168,5 +5168,50 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+    "links": [
+      "https://eyerobot2.github.io/"
+    ],
+    "timestamp": "2026-10-02T22:50:00.138Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://eyerobot2.github.io/",
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "description": "",
+      "author": "",
+      "about": {
+        "summary": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+        "key_concepts": [
+          "manipulation",
+          "grasping",
+          "trajectory",
+          "teleoperation",
+          "reinforcement learning",
+          "transformer",
+          "object detection",
+          "sim-to-real",
+          "mujoco",
+          "pid"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-02T22:50:00.138Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
