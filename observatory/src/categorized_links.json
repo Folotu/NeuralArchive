@@ -7744,6 +7744,33 @@
       },
       "significance": "high",
       "confidence": 0.72
+    },
+    {
+      "link": "https://x.com/xiruili7_li/status/2107202204981428470?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "Xirui Li (@xiruili7_li) on X",
+      "description": "Xirui Li (@xiruili7_li) on X",
+      "content": "Xirui Li (@xiruili7_li) on X",
+      "timestamp": "2026-10-06T13:42:23.226Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "thread",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "sim-to-real"
+        ],
+        "topics": [
+          "sim-to-real",
+          "tactile-sensing"
+        ],
+        "sourcePlatform": "x-twitter"
+      },
+      "significance": "exploratory",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
@@ -7752,7 +7779,7 @@
       "article": 74,
       "paper": 30,
       "company": 30,
-      "thread": 20,
+      "thread": 21,
       "tool": 13,
       "documentation": 8,
       "other-webpage": 8,
@@ -7772,7 +7799,7 @@
       "locomotion": 29,
       "robotics-infrastructure": 29,
       "planning": 21,
-      "sim-to-real": 13,
+      "sim-to-real": 14,
       "navigation": 11,
       "vision-language-action": 5,
       "multi-agent": 4,
@@ -7795,9 +7822,9 @@
       "grasping": 13,
       "quadrupeds": 11,
       "trajectory-optimization": 11,
+      "sim-to-real": 11,
       "3d-vision": 10,
       "mujoco": 10,
-      "sim-to-real": 10,
       "diffusion-policy": 8,
       "slam": 7,
       "ros2": 6,
@@ -7813,6 +7840,7 @@
       "mobile-robot": 3,
       "isaac-sim": 3,
       "behavior-cloning": 2,
+      "tactile-sensing": 2,
       "point-cloud": 2,
       "nerf": 2,
       "evaluation": 1,
@@ -7820,14 +7848,13 @@
       "depth-estimation": 1,
       "bimanual": 1,
       "world-model": 1,
-      "tactile-sensing": 1,
       "force-control": 1
     },
     "sourcePlatform": {
       "other": 98,
       "github": 84,
       "personal-blog": 31,
-      "x-twitter": 20,
+      "x-twitter": 21,
       "company-site": 18,
       "arxiv": 9,
       "docs-site": 7,

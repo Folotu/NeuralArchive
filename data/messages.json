@@ -5213,5 +5213,36 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Xirui Li (@xiruili7_li) on X",
+    "links": [
+      "https://x.com/xiruili7_li/status/2107202204981428470?s=12&t=sFDG4kVvVEPX384CKeGa7A"
+    ],
+    "timestamp": "2026-10-06T13:42:23.226Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://x.com/xiruili7_li/status/2107202204981428470?s=12&t=sFDG4kVvVEPX384CKeGa7A",
+      "title": "Xirui Li (@xiruili7_li) on X",
+      "description": "🤖 Frontier models like GPT 6 Astra are getting surprisingly good at controlling robots. The results are exciting, but deploying frontier models on robots comes with substantial inference cost and latency.\n\nCan we distill these capabilities into compact models that run locally?\n\nWe open-source 🥑Gu…",
+      "author": "",
+      "about": {
+        "summary": "🤖 Frontier models like GPT 6 Astra are getting surprisingly good at controlling robots. The results are exciting, but deploying frontier models on robots comes with substantial inference cost and latency.\n\nCan we distill these capabilities into compact models that run locally?\n\nWe open-source 🥑Gu…",
+        "key_concepts": [
+          "haptic",
+          "sim-to-real"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "simulation"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-06T13:42:23.226Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
