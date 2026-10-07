@@ -7771,12 +7771,45 @@
       },
       "significance": "exploratory",
       "confidence": 0.88
+    },
+    {
+      "link": "https://interactive-physical-landscape.vercel.app/#view=list",
+      "title": "Physical AI Landscape",
+      "description": "Physical AI Landscape",
+      "content": "Physical AI Landscape",
+      "timestamp": "2026-10-07T17:05:24.773Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "humanoids",
+          "quadrupeds",
+          "grasping",
+          "teleoperation",
+          "legged-locomotion",
+          "mobile-robot"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "high",
+      "confidence": 0.7
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 84,
-      "article": 74,
+      "article": 75,
       "paper": 30,
       "company": 30,
       "thread": 21,
@@ -7790,13 +7823,13 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 68,
+      "manipulation": 69,
       "embodied-ai": 50,
       "robot-learning": 40,
       "perception": 39,
       "control": 33,
       "nlp": 30,
-      "locomotion": 29,
+      "locomotion": 30,
       "robotics-infrastructure": 29,
       "planning": 21,
       "sim-to-real": 14,
@@ -7808,19 +7841,19 @@
     "topics": {
       "llm": 98,
       "foundation-models": 75,
-      "dexterous-manipulation": 46,
-      "humanoids": 37,
+      "dexterous-manipulation": 47,
+      "humanoids": 38,
       "transformer": 28,
       "reinforcement-learning": 28,
       "motion-planning": 22,
-      "legged-locomotion": 20,
+      "legged-locomotion": 21,
       "imitation-learning": 17,
       "impedance-control": 17,
       "computer-vision": 16,
+      "teleoperation": 14,
+      "grasping": 14,
       "multimodal": 13,
-      "teleoperation": 13,
-      "grasping": 13,
-      "quadrupeds": 11,
+      "quadrupeds": 12,
       "trajectory-optimization": 11,
       "sim-to-real": 11,
       "3d-vision": 10,
@@ -7832,12 +7865,12 @@
       "object-detection": 5,
       "vla": 5,
       "benchmark": 5,
+      "mobile-robot": 4,
       "dataset": 4,
       "scene-understanding": 4,
       "pose-estimation": 4,
       "mapping": 3,
       "safety": 3,
-      "mobile-robot": 3,
       "isaac-sim": 3,
       "behavior-cloning": 2,
       "tactile-sensing": 2,
@@ -7851,7 +7884,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 98,
+      "other": 99,
       "github": 84,
       "personal-blog": 31,
       "x-twitter": 21,

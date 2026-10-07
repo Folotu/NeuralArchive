@@ -5244,5 +5244,51 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "Physical AI Landscape",
+    "links": [
+      "https://interactive-physical-landscape.vercel.app/#view=list"
+    ],
+    "timestamp": "2026-10-07T17:05:24.773Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://interactive-physical-landscape.vercel.app/#view=list",
+      "title": "Physical AI Landscape",
+      "description": "",
+      "author": "Sapir Hadad",
+      "about": {
+        "summary": "Physical AI Landscape",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "grasping",
+          "locomotion",
+          "legged",
+          "humanoid",
+          "quadruped",
+          "end-effector",
+          "mobile robot",
+          "teleoperation"
+        ],
+        "research_areas": [
+          "locomotion",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-07T17:05:24.773Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
