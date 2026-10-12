@@ -7804,11 +7804,43 @@
       },
       "significance": "high",
       "confidence": 0.7
+    },
+    {
+      "link": "https://github.com/GehaoZhang6/Grounded-Action-Model",
+      "title": "GitHub - GehaoZhang6/Grounded-Action-Model: Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon)",
+      "description": "GitHub - GehaoZhang6/Grounded-Action-Model: Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon)",
+      "content": "GitHub - GehaoZhang6/Grounded-Action-Model: Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon)",
+      "timestamp": "2026-10-12T15:22:27.614Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "repository",
+        "resourceSubtype": [
+          "model-repo"
+        ],
+        "researchAreas": [
+          "manipulation",
+          "perception"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "transformer",
+          "llm",
+          "point-cloud"
+        ],
+        "sourcePlatform": "github"
+      },
+      "significance": "medium",
+      "confidence": 0.88
     }
   ],
   "facetIndex": {
     "resourceType": {
-      "repository": 84,
+      "repository": 85,
       "article": 75,
       "paper": 30,
       "company": 30,
@@ -7823,10 +7855,10 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 69,
+      "manipulation": 70,
       "embodied-ai": 50,
+      "perception": 40,
       "robot-learning": 40,
-      "perception": 39,
       "control": 33,
       "nlp": 30,
       "locomotion": 30,
@@ -7839,11 +7871,11 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 98,
+      "llm": 99,
       "foundation-models": 75,
-      "dexterous-manipulation": 47,
+      "dexterous-manipulation": 48,
       "humanoids": 38,
-      "transformer": 28,
+      "transformer": 29,
       "reinforcement-learning": 28,
       "motion-planning": 22,
       "legged-locomotion": 21,
@@ -7872,9 +7904,9 @@
       "mapping": 3,
       "safety": 3,
       "isaac-sim": 3,
+      "point-cloud": 3,
       "behavior-cloning": 2,
       "tactile-sensing": 2,
-      "point-cloud": 2,
       "nerf": 2,
       "evaluation": 1,
       "drone": 1,
@@ -7885,7 +7917,7 @@
     },
     "sourcePlatform": {
       "other": 99,
-      "github": 84,
+      "github": 85,
       "personal-blog": 31,
       "x-twitter": 21,
       "company-site": 18,

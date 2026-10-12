@@ -5290,5 +5290,47 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "GitHub - GehaoZhang6/Grounded-Action-Model: Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon)",
+    "links": [
+      "https://github.com/GehaoZhang6/Grounded-Action-Model"
+    ],
+    "timestamp": "2026-10-12T15:22:27.614Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://github.com/GehaoZhang6/Grounded-Action-Model",
+      "title": "GitHub - GehaoZhang6/Grounded-Action-Model: Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon)",
+      "description": "Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon) - GehaoZhang6/Grounded-Action-Model",
+      "author": "",
+      "about": {
+        "summary": "Grounded Action Model: 3D Grounding as a Foundation for Robotics (code coming soon) - GehaoZhang6/Grounded-Action-Model",
+        "key_concepts": [
+          "manipulation",
+          "transformer",
+          "llm",
+          "point cloud"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision"
+        ],
+        "significance": "medium",
+        "github": {
+          "stars": 0,
+          "forks": 0,
+          "language": ""
+        }
+      },
+      "metadata": {
+        "enriched_at": "2026-10-12T15:22:27.614Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
