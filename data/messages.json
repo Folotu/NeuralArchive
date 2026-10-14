@@ -5332,5 +5332,49 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "SimToolReal",
+    "links": [
+      "https://simtoolreal.github.io/"
+    ],
+    "timestamp": "2026-10-14T07:46:10.330Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://simtoolreal.github.io/",
+      "title": "SimToolReal",
+      "description": "SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation",
+      "author": "",
+      "about": {
+        "summary": "SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation",
+        "key_concepts": [
+          "manipulation",
+          "dexterous",
+          "grasping",
+          "trajectory",
+          "teleoperation",
+          "reinforcement learning",
+          "zero-shot",
+          "nerf",
+          "sim-to-real",
+          "isaac gym"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-14T07:46:10.329Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
