@@ -7872,12 +7872,44 @@
       },
       "significance": "high",
       "confidence": 0.72
+    },
+    {
+      "link": "https://srl-ethz.github.io/website-fingers-as-legs/",
+      "title": "Fingers as Legs",
+      "description": "Fingers as Legs",
+      "content": "Fingers as Legs",
+      "timestamp": "2026-10-22T02:26:45.615Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "locomotion",
+          "control",
+          "robot-learning"
+        ],
+        "topics": [
+          "reinforcement-learning",
+          "dexterous-manipulation",
+          "quadrupeds",
+          "legged-locomotion"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "high",
+      "confidence": 0.75
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 85,
-      "article": 75,
+      "article": 76,
       "company": 31,
       "paper": 30,
       "thread": 21,
@@ -7891,13 +7923,13 @@
     },
     "researchAreas": {
       "generative-ai": 72,
-      "manipulation": 71,
+      "manipulation": 72,
       "embodied-ai": 50,
-      "robot-learning": 41,
+      "robot-learning": 42,
       "perception": 40,
-      "control": 33,
+      "control": 34,
+      "locomotion": 31,
       "nlp": 30,
-      "locomotion": 30,
       "robotics-infrastructure": 29,
       "planning": 22,
       "sim-to-real": 15,
@@ -7909,19 +7941,19 @@
     "topics": {
       "llm": 99,
       "foundation-models": 75,
-      "dexterous-manipulation": 49,
+      "dexterous-manipulation": 50,
       "humanoids": 38,
+      "reinforcement-learning": 30,
       "transformer": 29,
-      "reinforcement-learning": 29,
       "motion-planning": 23,
-      "legged-locomotion": 21,
+      "legged-locomotion": 22,
       "imitation-learning": 17,
       "impedance-control": 17,
       "computer-vision": 16,
       "teleoperation": 15,
       "grasping": 15,
+      "quadrupeds": 13,
       "multimodal": 13,
-      "quadrupeds": 12,
       "sim-to-real": 12,
       "trajectory-optimization": 11,
       "3d-vision": 10,
@@ -7954,7 +7986,7 @@
     "sourcePlatform": {
       "other": 99,
       "github": 85,
-      "personal-blog": 32,
+      "personal-blog": 33,
       "x-twitter": 21,
       "company-site": 18,
       "arxiv": 9,

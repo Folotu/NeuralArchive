@@ -5376,5 +5376,45 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Fingers as Legs",
+    "links": [
+      "https://srl-ethz.github.io/website-fingers-as-legs/"
+    ],
+    "timestamp": "2026-10-22T02:26:45.615Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://srl-ethz.github.io/website-fingers-as-legs/",
+      "title": "Fingers as Legs",
+      "description": "A hand with places to be. Learning self-supported locomotion and manipulation with an anthropomorphic hand.",
+      "author": "",
+      "about": {
+        "summary": "A hand with places to be. Learning self-supported locomotion and manipulation with an anthropomorphic hand.",
+        "key_concepts": [
+          "manipulation",
+          "locomotion",
+          "legged",
+          "quadruped",
+          "reinforcement learning",
+          "pid"
+        ],
+        "research_areas": [
+          "locomotion",
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "control"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-22T02:26:45.615Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
