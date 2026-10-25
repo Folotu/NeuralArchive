@@ -7928,12 +7928,36 @@
       },
       "significance": "exploratory",
       "confidence": 0.4
+    },
+    {
+      "link": "https://llmdojo.dev/learn/model-foundations/how-networks-learn/a-model-is-a-function",
+      "title": "A model is a function with knobs · How a Network Learns: Loss and Gradient Descent · LLM Dojo",
+      "description": "A model is a function with knobs · How a Network Learns: Loss and Gradient Descent · LLM Dojo",
+      "content": "A model is a function with knobs · How a Network Learns: Loss and Gradient Descent · LLM Dojo",
+      "timestamp": "2026-10-25T20:27:38.249Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.45
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 85,
-      "article": 77,
+      "article": 78,
       "company": 31,
       "paper": 30,
       "thread": 21,
@@ -7963,7 +7987,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 100,
+      "llm": 101,
       "foundation-models": 75,
       "dexterous-manipulation": 50,
       "humanoids": 38,
@@ -8008,7 +8032,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 100,
+      "other": 101,
       "github": 85,
       "personal-blog": 33,
       "x-twitter": 21,

@@ -5445,5 +5445,36 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "A model is a function with knobs · How a Network Learns: Loss and Gradient Descent · LLM Dojo",
+    "links": [
+      "https://llmdojo.dev/learn/model-foundations/how-networks-learn/a-model-is-a-function"
+    ],
+    "timestamp": "2026-10-25T20:27:38.249Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://llmdojo.dev/learn/model-foundations/how-networks-learn/a-model-is-a-function",
+      "title": "A model is a function with knobs · How a Network Learns: Loss and Gradient Descent · LLM Dojo",
+      "description": "Every model in this course, from this lesson&#x27;s tiny network to a large language model, is a function. Numbers go in, numbers come out, and what happens…",
+      "author": "",
+      "about": {
+        "summary": "Every model in this course, from this lesson&#x27;s tiny network to a large language model, is a function. Numbers go in, numbers come out, and what happens…",
+        "key_concepts": [
+          "neural network",
+          "large language model",
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-25T20:27:38.249Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
