@@ -7904,12 +7904,36 @@
       },
       "significance": "high",
       "confidence": 0.75
+    },
+    {
+      "link": "https://aiengineeringfromscratch.com/inside-an-llm-serving-gpu?users=4",
+      "title": "Inside an LLM Serving GPU · AI Engineering from Scratch",
+      "description": "Inside an LLM Serving GPU · AI Engineering from Scratch",
+      "content": "Inside an LLM Serving GPU · AI Engineering from Scratch",
+      "timestamp": "2026-10-25T20:23:47.890Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [],
+        "topics": [
+          "llm"
+        ],
+        "sourcePlatform": "other"
+      },
+      "significance": "exploratory",
+      "confidence": 0.4
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 85,
-      "article": 76,
+      "article": 77,
       "company": 31,
       "paper": 30,
       "thread": 21,
@@ -7939,7 +7963,7 @@
       "world-models": 2
     },
     "topics": {
-      "llm": 99,
+      "llm": 100,
       "foundation-models": 75,
       "dexterous-manipulation": 50,
       "humanoids": 38,
@@ -7984,7 +8008,7 @@
       "force-control": 1
     },
     "sourcePlatform": {
-      "other": 99,
+      "other": 100,
       "github": 85,
       "personal-blog": 33,
       "x-twitter": 21,

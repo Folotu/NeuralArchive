@@ -5416,5 +5416,34 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Inside an LLM Serving GPU · AI Engineering from Scratch",
+    "links": [
+      "https://aiengineeringfromscratch.com/inside-an-llm-serving-gpu?users=4"
+    ],
+    "timestamp": "2026-10-25T20:23:47.890Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://aiengineeringfromscratch.com/inside-an-llm-serving-gpu?users=4",
+      "title": "Inside an LLM Serving GPU · AI Engineering from Scratch",
+      "description": "Decode reads every weight for every token. Watch the bytes leave the memory chips, and see why memory bandwidth sets the speed.",
+      "author": "",
+      "about": {
+        "summary": "Decode reads every weight for every token. Watch the bytes leave the memory chips, and see why memory bandwidth sets the speed.",
+        "key_concepts": [
+          "llm"
+        ],
+        "technical_approaches": [
+          "ai-ml"
+        ],
+        "significance": "exploratory"
+      },
+      "metadata": {
+        "enriched_at": "2026-10-25T20:23:47.890Z",
+        "enrichment_version": "1.0",
+        "quality": "basic"
+      }
+    }
   }
 ]
