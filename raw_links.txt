@@ -1,0 +1,2 @@
+B6F8E6AC-A5BE-4759-82AB-4A4613497B20
+https://llmdojo.dev/learn/model-foundations/how-networks-learn/a-model-is-a-function
