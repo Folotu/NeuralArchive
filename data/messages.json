@@ -5476,5 +5476,39 @@
         "quality": "basic"
       }
     }
+  },
+  {
+    "content": "SuperMimic",
+    "links": [
+      "https://supermimic.github.io/"
+    ],
+    "timestamp": "2026-11-01T06:11:37.813Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://supermimic.github.io/",
+      "title": "SuperMimic",
+      "description": "SuperMimic trains a humanoid whole-body motion tracker with one differentiable world model. In 3 hours on one GPU it surpasses the return of SONIC, trained for 7 days on 128 GPUs.",
+      "author": "",
+      "about": {
+        "summary": "SuperMimic trains a humanoid whole-body motion tracker with one differentiable world model. In 3 hours on one GPU it surpasses the return of SONIC, trained for 7 days on 128 GPUs.",
+        "key_concepts": [
+          "humanoid",
+          "zero-shot",
+          "domain randomization",
+          "mujoco"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-11-01T06:11:37.813Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]

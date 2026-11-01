@@ -7952,13 +7952,41 @@
       },
       "significance": "exploratory",
       "confidence": 0.45
+    },
+    {
+      "link": "https://supermimic.github.io/",
+      "title": "SuperMimic",
+      "description": "SuperMimic",
+      "content": "SuperMimic",
+      "timestamp": "2026-11-01T06:11:37.813Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "sim-to-real"
+        ],
+        "topics": [
+          "humanoids",
+          "sim-to-real",
+          "mujoco"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.72
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 85,
       "article": 78,
-      "company": 31,
+      "company": 32,
       "paper": 30,
       "thread": 21,
       "tool": 13,
@@ -7980,7 +8008,7 @@
       "nlp": 30,
       "robotics-infrastructure": 29,
       "planning": 22,
-      "sim-to-real": 15,
+      "sim-to-real": 16,
       "navigation": 11,
       "vision-language-action": 5,
       "multi-agent": 4,
@@ -7990,7 +8018,7 @@
       "llm": 101,
       "foundation-models": 75,
       "dexterous-manipulation": 50,
-      "humanoids": 38,
+      "humanoids": 39,
       "reinforcement-learning": 30,
       "transformer": 29,
       "motion-planning": 23,
@@ -8002,10 +8030,10 @@
       "grasping": 15,
       "quadrupeds": 13,
       "multimodal": 13,
-      "sim-to-real": 12,
+      "sim-to-real": 13,
       "trajectory-optimization": 11,
+      "mujoco": 11,
       "3d-vision": 10,
-      "mujoco": 10,
       "diffusion-policy": 8,
       "slam": 7,
       "ros2": 6,
@@ -8034,7 +8062,7 @@
     "sourcePlatform": {
       "other": 101,
       "github": 85,
-      "personal-blog": 33,
+      "personal-blog": 34,
       "x-twitter": 21,
       "company-site": 18,
       "arxiv": 9,
