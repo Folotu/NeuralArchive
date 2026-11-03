@@ -7980,13 +7980,47 @@
       },
       "significance": "medium",
       "confidence": 0.72
+    },
+    {
+      "link": "https://mundo-world-model.github.io/",
+      "title": "Mundo: Customized World Model",
+      "description": "Mundo: Customized World Model",
+      "content": "Mundo: Customized World Model",
+      "timestamp": "2026-11-03T07:00:24.202Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "company",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "perception",
+          "sim-to-real",
+          "generative-ai"
+        ],
+        "topics": [
+          "dexterous-manipulation",
+          "diffusion-policy",
+          "humanoids",
+          "mujoco",
+          "point-cloud",
+          "3d-vision"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "high",
+      "confidence": 0.72
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 85,
       "article": 78,
-      "company": 32,
+      "company": 33,
       "paper": 30,
       "thread": 21,
       "tool": 13,
@@ -7998,17 +8032,17 @@
       "demo": 2
     },
     "researchAreas": {
-      "generative-ai": 72,
-      "manipulation": 72,
+      "generative-ai": 73,
+      "manipulation": 73,
       "embodied-ai": 50,
       "robot-learning": 42,
-      "perception": 40,
+      "perception": 41,
       "control": 34,
       "locomotion": 31,
       "nlp": 30,
       "robotics-infrastructure": 29,
       "planning": 22,
-      "sim-to-real": 16,
+      "sim-to-real": 17,
       "navigation": 11,
       "vision-language-action": 5,
       "multi-agent": 4,
@@ -8017,8 +8051,8 @@
     "topics": {
       "llm": 101,
       "foundation-models": 75,
-      "dexterous-manipulation": 50,
-      "humanoids": 39,
+      "dexterous-manipulation": 51,
+      "humanoids": 40,
       "reinforcement-learning": 30,
       "transformer": 29,
       "motion-planning": 23,
@@ -8031,10 +8065,10 @@
       "quadrupeds": 13,
       "multimodal": 13,
       "sim-to-real": 13,
+      "mujoco": 12,
       "trajectory-optimization": 11,
-      "mujoco": 11,
-      "3d-vision": 10,
-      "diffusion-policy": 8,
+      "3d-vision": 11,
+      "diffusion-policy": 9,
       "slam": 7,
       "ros2": 6,
       "sim2real": 6,
@@ -8046,9 +8080,9 @@
       "isaac-sim": 4,
       "scene-understanding": 4,
       "pose-estimation": 4,
+      "point-cloud": 4,
       "mapping": 3,
       "safety": 3,
-      "point-cloud": 3,
       "nerf": 3,
       "behavior-cloning": 2,
       "tactile-sensing": 2,
@@ -8062,7 +8096,7 @@
     "sourcePlatform": {
       "other": 101,
       "github": 85,
-      "personal-blog": 34,
+      "personal-blog": 35,
       "x-twitter": 21,
       "company-site": 18,
       "arxiv": 9,

@@ -5510,5 +5510,46 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "Mundo: Customized World Model",
+    "links": [
+      "https://mundo-world-model.github.io/"
+    ],
+    "timestamp": "2026-11-03T07:00:24.202Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://mundo-world-model.github.io/",
+      "title": "Mundo: Customized World Model",
+      "description": "Turn context images into editable 3D worlds for camera exploration, simulation, and robot planning.",
+      "author": "",
+      "about": {
+        "summary": "Turn context images into editable 3D worlds for camera exploration, simulation, and robot planning.",
+        "key_concepts": [
+          "manipulation",
+          "humanoid",
+          "diffusion model",
+          "point cloud",
+          "3d reconstruction",
+          "mujoco",
+          "physics engine"
+        ],
+        "research_areas": [
+          "manipulation"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "computer-vision",
+          "simulation"
+        ],
+        "significance": "high"
+      },
+      "metadata": {
+        "enriched_at": "2026-11-03T07:00:24.201Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
