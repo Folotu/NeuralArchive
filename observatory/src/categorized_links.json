@@ -8014,12 +8014,44 @@
       },
       "significance": "high",
       "confidence": 0.72
+    },
+    {
+      "link": "https://robotmabel.github.io/website/index.html",
+      "title": "MABEL — Open-Source Mobile Bimanual Robot for Teleoperation and Learning",
+      "description": "MABEL — Open-Source Mobile Bimanual Robot for Teleoperation and Learning",
+      "content": "MABEL — Open-Source Mobile Bimanual Robot for Teleoperation and Learning",
+      "timestamp": "2026-11-07T20:22:48.250Z",
+      "author": {
+        "name": "auto-enrich",
+        "handle": "@auto-enrich",
+        "avatar": "https://via.placeholder.com/50",
+        "affiliation": ""
+      },
+      "facets": {
+        "resourceType": "article",
+        "resourceSubtype": [],
+        "researchAreas": [
+          "manipulation",
+          "robot-learning"
+        ],
+        "topics": [
+          "teleoperation",
+          "dexterous-manipulation",
+          "reinforcement-learning",
+          "imitation-learning",
+          "mujoco",
+          "impedance-control"
+        ],
+        "sourcePlatform": "personal-blog"
+      },
+      "significance": "medium",
+      "confidence": 0.75
     }
   ],
   "facetIndex": {
     "resourceType": {
       "repository": 85,
-      "article": 78,
+      "article": 79,
       "company": 33,
       "paper": 30,
       "thread": 21,
@@ -8032,10 +8064,10 @@
       "demo": 2
     },
     "researchAreas": {
+      "manipulation": 74,
       "generative-ai": 73,
-      "manipulation": 73,
       "embodied-ai": 50,
-      "robot-learning": 42,
+      "robot-learning": 43,
       "perception": 41,
       "control": 34,
       "locomotion": 31,
@@ -8051,21 +8083,21 @@
     "topics": {
       "llm": 101,
       "foundation-models": 75,
-      "dexterous-manipulation": 51,
+      "dexterous-manipulation": 52,
       "humanoids": 40,
-      "reinforcement-learning": 30,
+      "reinforcement-learning": 31,
       "transformer": 29,
       "motion-planning": 23,
       "legged-locomotion": 22,
-      "imitation-learning": 17,
-      "impedance-control": 17,
+      "imitation-learning": 18,
+      "impedance-control": 18,
       "computer-vision": 16,
-      "teleoperation": 15,
+      "teleoperation": 16,
       "grasping": 15,
       "quadrupeds": 13,
       "multimodal": 13,
+      "mujoco": 13,
       "sim-to-real": 13,
-      "mujoco": 12,
       "trajectory-optimization": 11,
       "3d-vision": 11,
       "diffusion-policy": 9,
@@ -8096,7 +8128,7 @@
     "sourcePlatform": {
       "other": 101,
       "github": 85,
-      "personal-blog": 35,
+      "personal-blog": 36,
       "x-twitter": 21,
       "company-site": 18,
       "arxiv": 9,

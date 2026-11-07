@@ -5551,5 +5551,43 @@
         "quality": "high"
       }
     }
+  },
+  {
+    "content": "MABEL — Open-Source Mobile Bimanual Robot for Teleoperation and Learning",
+    "links": [
+      "https://robotmabel.github.io/website/index.html"
+    ],
+    "timestamp": "2026-11-07T20:22:48.250Z",
+    "author": "auto-enrich",
+    "enriched": {
+      "url": "https://robotmabel.github.io/website/index.html",
+      "title": "MABEL — Open-Source Mobile Bimanual Robot for Teleoperation and Learning",
+      "description": "MABEL is an open-source research platform for whole-body teleoperation and robot learning, designed for home automation and everyday household tasks.",
+      "author": "",
+      "about": {
+        "summary": "MABEL is an open-source research platform for whole-body teleoperation and robot learning, designed for home automation and everyday household tasks.",
+        "key_concepts": [
+          "dexterous",
+          "teleoperation",
+          "reinforcement learning",
+          "imitation learning",
+          "mujoco",
+          "digital twin",
+          "compliance"
+        ],
+        "technical_approaches": [
+          "robotics",
+          "ai-ml",
+          "simulation",
+          "control"
+        ],
+        "significance": "medium"
+      },
+      "metadata": {
+        "enriched_at": "2026-11-07T20:22:48.250Z",
+        "enrichment_version": "1.0",
+        "quality": "high"
+      }
+    }
   }
 ]
